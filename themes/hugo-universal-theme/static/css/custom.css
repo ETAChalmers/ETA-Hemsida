@@ -73,12 +73,10 @@ img.feature-image {
 }
 
 /* Center board and auction committee lists */
-.team {
-  text-align: center;
-}
-.team .team-member {
-  display: inline-block;
-  float: none !important;
+.team .row{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 .sponsor-box  {
   min-height: 100px;

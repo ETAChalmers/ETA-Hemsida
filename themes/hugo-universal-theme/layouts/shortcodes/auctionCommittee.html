@@ -1,4 +1,5 @@
 <section class="bar background-white no-mb" style="{{ safeCSS (.Get "style") }}">
+  <div class="col-sm-12">
     <div class="heading text-center">
       <h2>Auction committee</h2>
     </div>
@@ -6,21 +7,18 @@
       {{ .Inner | markdownify }}
     </p>
     <div class="container team">
-    {{ range $index, $element := sort .Site.Data.auctionCommittee "weight" }}
-    	{{ if eq (mod $index 3) 0 }}
+      <div class="col-sm-12">
           <div class="row">
-  		{{ end }}
-    				<div class="col-md-3 team-member">
-                <div class="box-simple">
-                  <img class="avatar-image" alt="" src="{{ $element.avatar | absURL }}">
-                  <h3>{{ $element.name }}</h3>
-                  <p>{{ $element.position }}</p>
-                  <a href="mailto:{{ $element.email }}">{{ $element.email }}</a>
+            {{ range $index, $element := sort .Site.Data.auctionCommittee "weight" }}
+      				<div class="col-sm-3 col-xs-6 team-member">
+                <img class="avatar-image" alt="" src="{{ $element.avatar | absURL }}">
+                <h3>{{ $element.name }}</h3>
+                <p>{{ $element.position }}</p>
+                <a href="mailto:{{ $element.email }}">{{ $element.email }}</a>
               </div>
-            </div>
-  		{{ if or (eq (mod $index 3) 2) (eq $index (sub (len $.Site.Data.auctionCommittee) 1 )) }}
-  			</div>
-  		{{ end }}
-    {{ end }}
+            {{ end }}
+        </div>
+  		</div>
     </div>
+  </div>
 </section>

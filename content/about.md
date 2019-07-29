@@ -17,10 +17,6 @@ Scottish fold bengal. Siamese american bobtail norwegian forest yet maine coon m
 Need to reach us? Send an email to <eta@eta.chalmers.se> or send a private email to anyone of us:
 {{< /board >}}
 
-{{< auctionCommittee style="padding:0;" >}}
-The auction committee is mainly responsible for the yearly auction. Send an email at <auktion@eta.chalmers.se> if you have any questions about the auction or want to donate something.
-{{< /auctionCommittee >}}
-
 {{< sponsors title="Our sponsors" style="padding-top:0;" >}}
 ETA's operation relies on the donations of people and companies. Following are some of the
 companies which officially sponsor us.
