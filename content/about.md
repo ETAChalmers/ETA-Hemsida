@@ -10,16 +10,13 @@ Cat ipsum dolor sit amet, panther lion donskoy. Russian blue kitten himalayan li
 Scottish fold bengal. Siamese american bobtail norwegian forest yet maine coon malkin and sphynx, russian blue. Ocelot jaguar for kitten cougar burmese mouser singapura. Kitty devonshire rex bengal sphynx. Jaguar panther so donskoy abyssinian kitty.  Siberian american bobtail kitten. Lynx turkish angora and leopard. Devonshire rex persian. Thai ragdoll or cheetah for mouser. Bobcat bengal for british shorthair yet lynx cornish rex and devonshire rex. Sphynx turkish angora.
 {{< /sectionLargeText >}}
 
+{{< horizontal-images url1="/img/features/components.jpg" url2="/img/features/signalGenerator.jpg" url3="/img/features/soffa.jpg" >}}
+
 <!-- To edit the board or auction committee members, edit the contents in the
 "data" directories -->
-
-{{< board style="padding:0;" >}}
+{{< board style="padding-bottom:0;" >}}
 Need to reach us? Send an email to <eta@eta.chalmers.se>:
 {{< /board >}}
-
-{{< auctionCommittee style="padding:0;" >}}
-The auction committee is mainly responsible for the yearly auction. Send an email at <auktion@eta.chalmers.se> if you have any questions about the auction or want to donate something.
-{{< /auctionCommittee >}}
 
 {{< sponsors title="Our sponsors" style="padding-top:0;" >}}
 ETA's operation relies on the donations of people and companies. Following are some of the

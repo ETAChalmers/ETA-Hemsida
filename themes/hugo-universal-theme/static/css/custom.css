@@ -81,3 +81,22 @@ img.feature-image {
 .sponsor-box  {
   min-height: 100px;
 }
+
+.horizontal-images {
+  overflow-y: hidden;
+  text-align: center;
+  white-space: nowrap;
+}
+.horizontal-images img {
+  width: 100%;
+}
+.horizontal-images div {
+  display: inline-block;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+@media (max-width: 992px) {
+  .horizontal-images div {
+    width: 80vw;
+  }
+}
