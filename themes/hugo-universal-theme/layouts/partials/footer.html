@@ -67,17 +67,30 @@ _________________________________________________________ -->
 
 <div id="copyright">
     <div class="container">
-        <div class="col-md-12">
-            {{ if isset .Site.Params "copyright" }}
-            <p class="pull-left">{{ .Site.Params.copyright | safeHTML }}</p>
+      <div class="row">
+        <div class="col-md-4">
+          {{ if .Site.Data.links }}
+            <p>
+            {{ range $index, $element := sort .Site.Data.links "weight" }}
+              <a href="{{ $element.url }}"><i class="fa fa-2x {{ $element.icon }}"></i></a>
             {{ end }}
-            <p class="pull-right">
-              {{ i18n "templateBy" }} <a href="http://bootstrapious.com/free-templates">Bootstrapious</a>.
-              <!-- Not removing this link is part of the licence conditions of the template. Thanks for understanding :) -->
-
-              {{ i18n "portedBy" }} <a href="https://github.com/devcows/hugo-universal-theme">DevCows</a>
             </p>
+          {{ end }}
         </div>
+        <div class="col-md-4">
+          {{ if isset .Site.Params "copyright" }}
+            <p>{{ .Site.Params.copyright | safeHTML }}</p>
+          {{ end }}
+        </div>
+        <div class="col-md-4">
+          <p>
+            {{ i18n "templateBy" }} <a href="http://bootstrapious.com/free-templates">Bootstrapious</a>.
+            <!-- Not removing this link is part of the licence conditions of the template. Thanks for understanding :) -->
+
+            {{ i18n "portedBy" }} <a href="https://github.com/devcows/hugo-universal-theme">DevCows</a>
+          </p>
+        </div>
+      </div>
     </div>
 </div>
 <!-- /#copyright -->
