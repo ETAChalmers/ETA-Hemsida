@@ -70,11 +70,13 @@ _________________________________________________________ -->
       <div class="row">
         <div class="col-md-4">
           {{ if .Site.Data.links }}
-            <p>
-            {{ range $index, $element := sort .Site.Data.links "weight" }}
-              <a href="{{ $element.url }}"><i class="fa fa-2x {{ $element.icon }}"></i></a>
-            {{ end }}
-            </p>
+            <div class="footer-links">
+              <p>
+              {{ range $index, $element := sort .Site.Data.links "weight" }}
+                <a href="{{ $element.url }}"><i class="fa fa-2x {{ $element.icon }}"></i></a>
+              {{ end }}
+              </p>
+            </div>
           {{ end }}
         </div>
         <div class="col-md-4">

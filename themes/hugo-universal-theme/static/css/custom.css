@@ -96,3 +96,11 @@ img.feature-image {
   border-width: 1em;
   border-radius: 0.5em;
 }
+
+.footer-links a {
+  color: #999999;
+}
+
+.footer-links a:hover {
+  color: #555555;
+}
