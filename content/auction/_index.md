@@ -10,14 +10,14 @@ layout: "home"
 
 <!-- Information about date and location is automatically added in the shortcode. This is updated in the auction configuration file. -->
 {{< auction/auctionDetails >}}
-Every year ETA arranges an auction where hamradio equipment, electonics components, lab equipment mystical apparatus and more are sold. The goal with the auction is to sell useful equipment for a low price to  support the student associations economy.
+Every year ETA arranges an auction where ham radio equipment, electronics components, lab equipment mystical apparatus and more are sold. The goal with the auction is to sell useful equipment for a low price to  support the student associations economy.
 {{< /auction/auctionDetails >}}
 
 <!-- The auction info (during the auction and rules) is directly written in the shortcode as markdown doesn't support columns. -->
 {{< auction/auctionInfo >}}
 
-{{< backgroundBanner title="Catalouge" img="/img/auctionBidding.jpg" url="/auction/all" buttonText="Browse catalouge" >}}
-New items are frequently added to the auction catalouge
+{{< backgroundBanner title="Catalouge" img="/img/auctionBidding.jpg" url="/auction/all" buttonText="Browse catalogue" >}}
+New items are frequently added to the auction catalogue
 {{< /backgroundBanner >}}
 
 {{< auction/auctionDonations >}}
