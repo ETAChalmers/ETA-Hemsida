@@ -5,12 +5,12 @@ draft: false
 ---
 
 {{< sectionLargeText title="E-Sektionens Teletekniska Avdelning" style="padding-bottom:0;" >}}
-Cat ipsum dolor sit amet, panther lion donskoy. Russian blue kitten himalayan lion. Havana brown american shorthair or maine coon munchkin cougar so cougar. Havana brown. Cougar ragdoll. Havana brown mouser malkin balinese or mouser or tomcat. Scottish fold tomcat lion, mouser bengal or tomcat. Malkin malkin or donskoy. Ragdoll bobcat or ocicat tiger, british shorthair and ocelot, kitty.
+E-Sektionens Teletekniska Avdelning (ETA) is a student-driven radio and electronics laboratory at Chalmers University of Technology. Our purpose is to give students the means to apply their knowledge in electronics. We offer our members access to electronic instruments, a mechanical workshop and our antenna park.
 
-Scottish fold bengal. Siamese american bobtail norwegian forest yet maine coon malkin and sphynx, russian blue. Ocelot jaguar for kitten cougar burmese mouser singapura. Kitty devonshire rex bengal sphynx. Jaguar panther so donskoy abyssinian kitty.  Siberian american bobtail kitten. Lynx turkish angora and leopard. Devonshire rex persian. Thai ragdoll or cheetah for mouser. Bobcat bengal for british shorthair yet lynx cornish rex and devonshire rex. Sphynx turkish angora.
+ETA was originally founded in 1935 as an amateur radio club by Chalmers students in cooperation with the university. Throughout the years ETA’s focus has shifted towards general electronics alongside the progress of the electronics industry. Today ETA provides the equipment necessary for a broader range of projects, specialising in electronics hardware.
 {{< /sectionLargeText >}}
 
-{{< horizontal-images url1="/img/features/components.jpg" url2="/img/features/signalGenerator.jpg" url3="/img/features/soffa.jpg" >}}
+{{< horizontal-images url1="/img/kallebol_square.jpg" url2="/img/labb_square.jpg" url3="/img/varkstad_square.jpg" >}}
 
 <!-- To edit the board or auction committee members, edit the contents in the
 "data" directories -->
