@@ -8,25 +8,27 @@
   </thead>
   <tbody>
 
-    {{ $auctionConfig := .context.Site.Data.AuctionConfig }}
-    {{ $data := getCSV "," "content/auction/auctionItems.csv"}}
-    {{ range after 1 $data }}
-      {{ if or (in $.category (index . 2)) (eq $.category "All") }}
-        <tr>
-          <td>
-            {{ $image := resources.Get (printf "/auction/images/%s.jpg" (index . 4)) }}
-            {{ if $image }}
-              {{ $thumbnail := $image.Fill "200x200" }}
-              <a href={{ $image.Permalink }}> <img class="auction-item-thumbnail" src={{$thumbnail.Permalink}}> </a>
-            {{ end }}
-          </td>
-          <td>
-            {{ index . 0 }}
-          </td>
-          <td>
-            {{ index . 1 }}
-          </td>
-        </tr>
+    {{ if (fileExists "content/auction/auctionItems.csv") }}
+      {{ $auctionConfig := .context.Site.Data.AuctionConfig }}
+      {{ $data := getCSV "," "content/auction/auctionItems.csv"}}
+      {{ range after 1 $data }}
+        {{ if or (in $.category (index . 2)) (eq $.category "All") }}
+          <tr>
+            <td>
+              {{ $image := resources.Get (printf "/auction/images/%s.jpg" (index . 4)) }}
+              {{ if $image }}
+                {{ $thumbnail := $image.Fill "200x200" }}
+                <a href={{ $image.Permalink }}> <img class="auction-item-thumbnail" src={{$thumbnail.Permalink}}> </a>
+              {{ end }}
+            </td>
+            <td>
+              {{ index . 0 }}
+            </td>
+            <td>
+              {{ index . 1 }}
+            </td>
+          </tr>
+        {{ end }}
       {{ end }}
     {{ end }}
 
