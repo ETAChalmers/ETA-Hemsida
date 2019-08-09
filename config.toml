@@ -38,7 +38,7 @@ assetDir = "/assets"
   logo = "img/logo.png"
   logo_small = "img/logo.png"
 
-  about_us = "<p>ETA is an electronics and ham radio community at Chalmers University of Technology. Our lab provides the necessary instruments and equipment for you to excercise your electronics hobby. </p>"
+  about_us = "<p>ETA is an electronics and ham radio community at Chalmers University of Technology. Our lab provides the necessary instruments and equipment for you to exercise your electronics hobby.</p>"
 
   address = """<p><strong>ETA Chalmers</strong>
     <br>Rännvägen 4
