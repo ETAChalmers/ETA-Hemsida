@@ -6,9 +6,9 @@
                 <h2>{{ .Get "title" }}</h2>
             </div>
 
-            <p class="lead">
-              {{ .Inner }}
-            </p>
+            <span class="lead">
+              {{ .Inner | markdownify }}
+            </span>
 
         </div>
     </div>
