@@ -1,0 +1,19 @@
+{{- if (fileExists "content/auction/auctionItems.csv") -}}
+{{- $auctionConfig := .Site.Data.AuctionConfig -}}
+{{- $data := getCSV "," "content/auction/auctionItems.csv" -}}
+{
+  "year": "{{ dateFormat "2006" $auctionConfig.date }}",
+
+  "items": [
+      {{ range $i, $r := (after 1 $data) }}
+      {{- if ne $i 0 -}}, {{- end -}}
+      {
+        "id": "{{ (index $r 4) }}",
+        "description": "{{ (index $r 0) }}",
+        "status": "{{ (index $r 1) }}",
+        "image": "{{ (printf "/auction/images/%s.jpg" (index $r 4)) }}"
+      }
+      {{ end }}
+    ]
+  }
+{{ end }}

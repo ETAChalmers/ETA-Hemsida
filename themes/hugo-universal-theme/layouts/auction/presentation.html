@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+  {{- $auctionConfig := .Site.Data.AuctionConfig -}}
+
+  {{ partial "head.html" . }}
+
+  <body>
+      <div id="presentation-welcome" class="text-center">
+        <div class="heading">
+          <h1>Välkomen till ETAs årliga auktion!</h1>
+        </div>
+        <h2 style="font-size:20em;">{{ dateFormat "2006" $auctionConfig.date }}</h2>
+      </div>
+
+      <div id="presentation-item" style="display: none;">
+        <div class="heading text-center">
+          <h1 id="presentation-item-description"></h1>
+        </div>
+        <div class=presentation-item-img>
+          <img id="presentation-item-img" src=""></img>
+        </div>
+        <p class="presentation-item-status"><b>Status: </b><span id="presentation-item-status"></span></p>
+      </div>
+
+      <div class="presentation-search">
+        <div class="input-group">
+          <span class="input-group-addon" id="basic-addon1">#</span>
+          <input type="text" id="presentation-search-input" class="form-control" placeholder="item-id" aria-describedby="basic-addon1">
+        </div>
+      </div>
+    {{ partial "scripts.html" . }}
+
+  </body>
+</html>
