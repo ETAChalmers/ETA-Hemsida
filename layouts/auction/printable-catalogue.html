@@ -4,53 +4,59 @@
   {{ partial "head.html" . }}
 
   <body>
-    <div id="all">
-    {{ $auctionConfig := .Site.Data.AuctionConfig }}
-    {{ if (fileExists "content/auction/auctionItems.csv") }}
-      {{ range .Site.Menus.auction }}
-        {{ $category := .Name }}
-        <h1>{{ $category }}</h1>
-        <table id="auction-items-table" class="table table-striped table-bordered" style="width:100%">
-          <thead>
-            <tr>
-              <th scope="col">Picture</th>
-              <th scope="col">Description</th>
-              <th scope="col">Status</th>
-              <th scope="col">ID</th>
-            </tr>
-          </thead>
-          <tbody>
-              {{ $data := getCSV "," "content/auction/auctionItems.csv"}}
-              {{ range after 1 $data }}
-                {{ if (in $category (index . 3)) }}
-                  <tr>
+    <div class="printable-catalogue">
+      {{ $auctionConfig := .Site.Data.AuctionConfig }}
+      {{ if (fileExists "content/auction/auctionItems.csv") }}
+
+        {{ $node := . }}
+
+        {{ range .Site.Menus.auction }}
+          {{ $category := .Name }}
+          {{ $category := .Name }}
+          <h1>{{ $category }}</h1>
+          <div class="printable-catalogue-table">
+            <table>
+              <tbody>
+                {{ $data := getCSV "," "content/auction/auctionItems.csv"}}
+                {{ $node.Scratch.Set "i" 1 }}
+                <tr>
+                {{  range $item := after 1 $data }}
+                  {{ if (in $category (index $item 3)) }}
+                    {{ if eq (mod ($node.Scratch.Get "i") 6) 0 }}
+                      <tr>
+                    {{ end }}
                     <td>
-                      {{ $image := resources.Get (printf "/auction/images/%s.jpg" (index . 5)) }}
-                      {{ if $image }}
-                        {{ $thumbnail := $image.Fill "180x180" }}
-                        <img class="auction-item-thumbnail" src={{$thumbnail.Permalink}}>
+                      <div class="printable-catalogue-item">
+                        <div class="printable-catalogue-image">
+                          {{ $image := resources.Get (printf "/auction/images/%s.jpg" (index . 5)) }}
+                          {{ if $image }}
+                            {{ $thumbnail := $image.Fill "180x180" }}
+                            <img class="auction-item-thumbnail" src={{$thumbnail.Permalink}}>
+                          {{ end }}
+                        </div>
+                        <div class="printable-catalogue-text">
+                          <b>{{ index $item 0 }}</b><br>
+                          {{ index $item 1 }}<br>
+                          Status: {{ index $item 2 }}<br>
+                          ID: {{ index $item 5 }}
+                        </div>
+                      </div>
+                    <td>
+                      {{ $node.Scratch.Add "i" 1 }}
+                      {{ if eq (mod ($node.Scratch.Get "i") 6) 0 }}
+                        </tr>
+                        {{ $node.Scratch.Set "i" 1 }}
                       {{ end }}
-                    </td>
-                    <td>
-                      <b>{{ index . 0 }}</b><br>
-                      {{ index . 1 }}
-                    </td>
-                    <td>
-                      {{ index . 2 }}
-                    </td>
-                    <td>
-                      {{ index . 5 }}
-                    </td>
-                  </tr>
+                  {{ end }}
                 {{ end }}
-              {{ end }}
-          </tbody>
-        </table>
+              </tbody>
+            </table>
+          </div>
+        {{ end }}
       {{ end }}
-    {{ end }}
-</div>
+    </div>
 
-{{ partial "scripts.html" . }}
+  {{ partial "scripts.html" . }}
 
-</body>
+  </body>
 </html>

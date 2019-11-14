@@ -159,3 +159,31 @@ img.feature-image {
   right: 0;
   padding: 1em;
 }
+
+.printable-catalogue {
+  width: 210mm;
+  padding: auto;
+  padding: 5mm;
+  vertical-align: top;
+
+}
+
+.printable-catalogue-table table {
+  width: 100%;
+  table-layout: fixed;
+}
+
+.printable-catalogue-table td, th {
+  vertical-align:top;
+}
+
+.printable-catalogue-item {
+  width: 40mm;
+  padding: 2.5mm;
+  overflow-wrap: break-word;
+}
+
+.printable-catalogue-image img {
+  width: 100%;
+  height: auto;
+}
