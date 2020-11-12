@@ -1,0 +1,37 @@
+{{ $auctionConfig := $.Site.Data.AuctionConfig }}
+
+<section class="bar background-pentagon no-mb">
+  <div class="container">
+    <div class="col-md-6">
+        <div class="heading text-center">
+          <h2>During the auction</h2>
+        </div>
+        <div class="text-box">
+          <p>
+            <ul>
+              <li>It is possible to buy coffee, sandwiches, cooked meals etc. in our cafe.</li>
+              <li>During the auction, our components bar will open. This is a section of the auction where components, cables, and more are sold in a bazaar style fashion.</li>
+              <li>Some items that we have received in a large quantity may be sold at the components bar.</li>
+              <li>Items during the auction will not follow a special order. Due to the large quantity of items, it's not possible for us to pick an item by request.</li>
+              <li>There is no enterance fee. However, there is a limited amount of seats and to ensure a seat it is possible to buy a ticekt. The tickets can be bought from {{ dateFormat "15:04" $auctionConfig.ticketRelease }} on the auction day. Tickets are sold until they run out.
+            </ul>
+          </p>
+        </div>
+    </div>
+    <div class="col-md-6">
+      <div class="heading text-center">
+        <h2>Rules</h2>
+      </div>
+      <div class="text-box">
+        <p>
+          <ul>
+            <li>Items are sold as-is, with no warranties given by ETA. If an item is tested as <i>working</i> this means that we have tested the basic functionality of the item and found it working. Unfortunately, we can't test everything in depth. An item marking as <i>not working</i> can mean that the equipment is completely broken or simply that a fuse needs replacement. We strive to keep the descriptions as accurate as possible, but reserve ourselves against errors in the catalogue.</li>
+            <li>Lowest bid is 1 SEK.</li>
+            <li>Payment is made directly after bidding to the cashier.</li>
+            <li>For persons expecting to buy a lot it is possible to sign an account with a deposit of 500 SEK. All bought items will then be stored in a pallet which is picked up and payed for directly after the auction. To sign an account speak with the cashier before the auction begins.</li>
+          </ul>
+        </p>
+      </div>
+    </div>
+  </div>
+</section>

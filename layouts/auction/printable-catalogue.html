@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+  {{ partial "head.html" . }}
+
+  <body>
+    <div class="printable-catalogue">
+      <!-- Get the auction configuration files -->
+      {{ $auctionConfig := .Site.Data.AuctionConfig }}
+      <!-- Check if the csv catalogue exists -->
+      {{ if (fileExists "content/auction/auctionItems.csv") }}
+
+        <!-- Save the current "context" - in variable node. Requiered to use Scratch variables in ranges -->
+        {{ $node := . }}
+
+        <!-- Go through all the auction categories, get these from the auction menu -->
+        {{ range .Site.Menus.auction }}
+          {{ $category := .Name }}
+
+          <!-- Put each category in each own section -->
+          <h1>{{ $category }}</h1>
+          <div class="printable-catalogue-table">
+            <!-- Create a table listing all the items in the current category -->
+            <table>
+              <tbody>
+                <!-- Parse the csv auction catalogue and save as variable data -->
+                {{ $data := getCSV "," "content/auction/auctionItems.csv"}}
+
+                <!-- Create an index variable to count the number of items pn each row in the table -->
+                {{ $node.Scratch.Set "i" 1 }}
+                <tr>
+                <!-- Range through all the items in the database and only select the ones matching the current category. -->
+                <!-- Skip first row containing the description of each field in the csv file -->
+                {{  range $item := after 1 $data }}
+                  <!-- Check if the category matches -->
+                  {{ if (in $category (index $item 3)) }}
+
+                    <!-- Check if the table should create a new row -->
+                    {{ if eq (mod ($node.Scratch.Get "i") 6) 0 }}
+                      <tr>
+                    {{ end }}
+                    <td>
+                      <div class="printable-catalogue-item">
+                        <div class="printable-catalogue-image">
+                          {{ $image := resources.Get (printf "/auction/images/%s.jpg" (index . 5)) }}
+                          {{ if $image }}
+                            {{ $thumbnail := $image.Fill "180x180" }}
+                            <img class="auction-item-thumbnail" src={{$thumbnail.Permalink}}>
+                          {{ end }}
+                        </div>
+                        <div class="printable-catalogue-text">
+                          <b>{{ index $item 0 }}</b><br>
+                          {{ index $item 1 }}<br>
+                          Status: {{ index $item 2 }}<br>
+                          ID: {{ index $item 5 }}
+                        </div>
+                      </div>
+                    <td>
+                      <!-- Increment the index variable i -->
+                      {{ $node.Scratch.Add "i" 1 }}
+
+                      <!-- Check if the table should create a new row -->
+                      {{ if eq (mod ($node.Scratch.Get "i") 6) 0 }}
+                        </tr>
+                        {{ $node.Scratch.Set "i" 1 }}
+                      {{ end }}
+                  {{ end }}
+                {{ end }}
+              </tbody>
+            </table>
+          </div>
+        {{ end }}
+      {{ end }}
+    </div>
+
+  {{ partial "scripts.html" . }}
+
+  </body>
+</html>

@@ -1,0 +1,7 @@
+# generated files by hugo
+/public/
+/resources/_gen/
+
+# auction catalogue files
+/assets/auction/
+/content/auction/auctionItems.csv
