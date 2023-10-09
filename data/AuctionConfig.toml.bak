@@ -2,7 +2,7 @@ addressName = "Betonghallen Chalmers"
 address = "Sven Hultins Gata 8, 412 58 Göteborg"
 coordinate = ["57.686738", "11.977658"]
 
-date = "2023-12-02T13:00:00"
-ticketRelease = "2023-12-02T09:00:00"
+date = "2022-12-03T13:00:00"
+ticketRelease = "2022-12-03T09:00:00"
 
 jumbotronImg = "/img/auctionHeader.jpg"
