@@ -12,7 +12,7 @@ draft: false
 
 {{< backgroundBanner title="electronics auction" icon="fa fa-gavel" img="img/auctionHeader.jpg" url="/auction" buttonText="See more" >}}
 
-ETA's annual auction is held the 3rd of December 2022
+ETA's annual auction is held {{< auction/auctionDate >}}
 
 {{< /backgroundBanner >}}
 
