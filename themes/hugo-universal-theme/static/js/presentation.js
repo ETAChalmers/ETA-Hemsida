@@ -39,8 +39,12 @@ function reset_search_color() {
 jQuery(document).ready(function(){
     $('#presentation-search-input').focus();
 
+    $('#presentation-search-input').on('input', function (e) {
+        let current = $('#presentation-search-input').val();
+        $('#presentation-search-input').val(current.replace(/[^0-9A-Z]/g, "_"));
+    });
     $('#presentation-search-input').on('keypress', function (e) {
-        if(e.which === 13){
+        if (e.which === 13) {
             if ($('#presentation-search-input').val() == "") {
                 reset_to_welcome()
             } else {
