@@ -1,3 +1,7 @@
+setInterval(() => {
+    $('#presentation-time').text(new Date().toLocaleTimeString("se", {hour: "2-digit", minute: "2-digit"}));
+}, 100);
+
 function reset_to_welcome() {
     $('#presentation-item').hide();
     $('#presentation-welcome').show();
