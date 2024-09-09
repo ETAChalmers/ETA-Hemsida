@@ -1,18 +1,82 @@
 Title,Description,Status,Category,Location,ID
-BordsrÃ¤knare,"MP120-MG, gÃ¶r valutaomvandling. Inbyggd skrivare.",Tested,Nostalgia,C01,2023_00000
-heavy-duty lÃ¥da,Stor tom lÃ¥da fÃ¶r transport,Tested,Miscellaneous,B01,2023_00001
-Spectrumanalysator Hp3580A,"Kortsluten, ej testad",Untested,Instrument,C01,2023_00002
-13.5V 5A power supply,"Ascom Tateco art. no. 130051, type 7410. GÃ¥r pÃ¥ 230V",Tested,Power supply,B01,2023_00004
-12V 5A powersupply,mascot 12V 5A powersupply made in sweden/norway,Tested,Power supply,B01,2023_00005
-Cisco AP,,Lights up,GerÃ¤t,C01,2023_00006
-trafo 36V 8.3A,FrÃ¥n 230V AC,Tested,Power supply,C01,2023_00007
-Osram spotlight,Video 1000 profi spotlight,Lights up,Miscellaneous,C01,2023_00008
-NÃ¤taggregat,"12.5V, 4A. asomTateco.",Tested,Power supply,C01,2023_00009
-KuddehÃ¶gtalare,LÃ¥ter inte vÃ¤rst hÃ¶gt eller bra...,Tested,Audio,C01,2023_00010
-23stX9M CAT6 kabel,oterminerad,Untested,Miscellaneous,A01,2023_00011
-Noratel 1-phase transformer,"art.no: 41262-918
-Primary: 230v, 1.4A
-Secondary: 36v, 8.3A",Tested,Instrument,C01,2023_00012
-FlÃ¤kt koldioxid mÃ¤tare,Komplett med nÃ¤taggregat och fin vÃ¤ska,Tested,Instrument,B01,2023_00013
-FEEDBACK Microwave trainer MWT530 kit,"Kit med enhet och tillbehÃ¶r, vÃ¥gledare, bnc kablar och annat blandat. ",Lights up,Instrument,A01,2023_00014
-FEEDBACK Microwave trainer MWT530 kit,"Kit med enhet och tillbehÃ¶r, vÃ¥gledare, bnc kablar och annat blandat. ",Lights up,Instrument,A01,2023_00015
+3fas vattenkokare ,leksak,Lights up,Nostalgia,S01,2024_00001
+Label printer,"Brandy BBP11-34L. Tar USB, ethernet och parallell samt serial.",Untested,Gerät,B01,2024_00002
+Mystisk mikrovågsparabol,,Untested,Radio,C01,2024_00003
+Antenn,"Från Comhat-Provexa
+Modell: HAA1803_09R1
+Frekvens: 17.7-19.7 GHz",Untested,Radio,C01,2024_00004
+Nätaggregat,"Kingshill NS1520 300 W, ej testad med last utan bara multimeter",Tested,Power supply,C01,2024_00005
+AIS Receiver Cypho-101,Gps receiver med VHF anteningång,Lights up,Radio,B01,2024_00006
+Biltema variabelt spänningsaggregat,"2A, 3-12V i steg. Låter switchad ",Tested,Power supply,C01,2024_00007
+"buss/spårvagns ""stannar"" skylt",Saknar lysrör,Untested,Gerät,C01,2024_00008
+Stationär dator,Intel i5,Lights up,Computer,C01,2024_00009
+Hp minidator 2007,"HP Dator, Modelnumber HSTNC-002-TC, 6 usb kontakter, ethernet",Untested,Computer,B01,2024_00010
+Frankeringsmaskin,Pitney Bowes Postage by Phone B700,Lights up,Gerät,C01,2024_00011
+neutrino thunder duo,"Thubderboltdocka för 2 2.5"" hårddiskar
+Ny i förpackning",Oöppnad,Computer,B01,2024_00012
+HP 7010 X-Y Recorder,"Cool X-Y plotter
+funkar väldigt bra",Tested,Instrument,A01,2024_00013
+Kassett-spelare,Magnetophon stereosound. Stereo och mono. Kopplad direkt till högtalare,Tested,Audio,B01,2024_00014
+Robotdamsugare,Av neato. Laddstation medföljer,Untested,Gerät,C01,2024_00015
+PM 7832 SWR meter,"Visar tecken på liv vid inkoppling av el, inte testad mer",Tested,Radio,B01,2024_00016
+2x vägledarfasvridare ,Vrider fasen,Tested,Radio,B01,2024_00017
+Radio transmitter,Tele courier radio transmitter sak,Untested,Radio,C01,2024_00018
+2x Vågledardämpare,HP modell x382A,Tested,Radio,B01,2024_00019
+Nätaggregat,XELEX 025 100 W,Lights up,Power supply,C01,2024_00020
+teleCOURIER,"Oklar radio pryl, kanske hör ihop med den andra teleCOURIER grejen i samma pall",Untested,Radio,C01,2024_00021
+DelSey Väska,"Nyckel inkluderad
+Made in France, Paris
+Har fungerande lås",Tested,Miscellaneous,A01,2024_00022
+NIXIE rör,"PSU med tre Nixierör, AB Telekontroll TG-2",Lights up,Power supply,A01,2024_00023
+PM 7832 SWR meter,"visar några tecken på liv, inte testat mer",Tested,Radio,B01,2024_00024
+Rotary Vane Attenrator,"8.2-12.4 GHz, skala från 0 till 60+dB",Untested,Radio,B01,2024_00025
+Plantronics headset,"Fräsh
+Vissa påsar är oöppnade
+",Lights up,Audio,C01,2024_00026
+3x Nixierör,Plus några rotary switches,Untested,Gerät,A01,2024_00027
+12x nixierör,+12 rotary switches,Untested,Gerät,A01,2024_00028
+oltronix B 503D nätagg,"Den vill fungera, men spänningen faller av
+5V output fungerar",Lights up,Power supply,C01,2024_00029
+Plantronics C65 Progammer,Plantronics programming station till Plantronic C65 ,Oöppnad,Miscellaneous,C01,2024_00030
+Oscilloskop,"Sampo 20 MHz Dual Trace Oscilloscope SSI-2320, funkar halvt ",Lights up,Instrument,C01,2024_00031
+Multimode data controller ,9 digimoder. Alla filer dumpade på från floppy till USB,Untested,Radio,B01,2024_00032
+hp DC microvolt/ammeter,"HP 425A
+Ger utslag",Lights up,Instrument,B01,2024_00033
+x3 Ascom business wireless telephone system ,Oklart exakt vad det är. 6p6c RJ22? till power supply,Lights up,Audio,C01,2024_00034
+Elskåp,Metall,Other,Miscellaneous,C01,2024_00035
+Stavmixer ,Kommer med smakförstärkande bakterier (:,Tested,Gerät,C01,2024_00036
+Analogt oscilloskop 20MHz,Siemens D1011. Skärmen blinkar vid snabbare tidsskalor.,Tested,Instrument,C01,2024_00037
+Plantronic C65/A EURO,DECT Cordless headset,Lights up,Audio,C01,2024_00038
+Industrial Cellular router för Wifi,"Märke Anyway, modell R3000-4L. ",Oöppnad,Computer,C01,2024_00039
+Avaya I55,Telefon och IP kontrollsystem/switch?,Untested,Gerät,C01,2024_00040
+Båtantenn?,103cm lång ,Untested,Radio,C01,2024_00041
+3 nätaggregat,"ATI AT-PWR4, 80 W",Lights up,Power supply,C02,2024_00042
+R3000-4L LTE/4G-Router,4G Cellular router,Untested,Miscellaneous,B01,2024_00043
+R3000-4L LTE/4G-Router,4G Cellular router,Untested,Miscellaneous,B01,2024_00044
+4x Ethernet fiber media converter ,100Base-TX till 100Base-FF. Snabb. Tar in 12V barrel jack,Untested,Gerät,C01,2024_00045
+Mikroskopställ,Stabil och tung,Other,Gerät,C01,2024_00046
+36V10A DC PSU,,Untested,Power supply,C01,2024_00047
+Oscillarzet D 1011,"20MHz oscilloskop, funkar bra",Tested,Instrument,B01,2024_00048
+Digitork 2020,Vridmomentmätare,Untested,Instrument,C01,2024_00049
+Variac,"230 AC in, valfritt ut. Har dödskabel redan.",Untested,Gerät,C01,2024_00050
+Variac,"230 AC in, valfritt ut. Trasig plast på vredet.",Untested,Power supply,C01,2024_00051
+ABB 3-fas motor,"1420 RPM 370W
+
+M 2V A71B-4
+30V A0 72002-CSC",Untested,Miscellaneous,C01,2024_00052
+Timer,Felix 30 min timer,Oöppnad,Miscellaneous,C01,2024_00053
+Fölttelfon,"Chassit ser tomt ut. Låst, ingen nyckel",Untested,Radio,C01,2024_00054
+VPN Router,"Ewon Cosy 141, fyra portar",Untested,Miscellaneous,C01,2024_00055
+100x PDLux microwave motion sensor,Kommer med datablad. 5.8GHz,Untested,Radio,C02,2024_00056
+servogor 460 datalogger,"Verkar fungera okej, 4 kanaler",Tested,Gerät,C02,2024_00057
+Analog kamera,"Nån form av kamera, slutaren sluter. Kanske funkar?",Untested,Nostalgia,C02,2024_00058
+"Wii U, isärplockad",Verkar sakna disk drive. Ström-lampa lyser och blir blå när man trycker. Bootar?,Lights up,Computer,B01,2024_00059
+Mikrotik Routerboard,SXT lite 5,Untested,Computer,C02,2024_00060
+Kortnummerkopiator,"""Kortkontroll"". Diners Club International ",Tested,Nostalgia,B01,2024_00061
+CanoScan 9000F Mark II,"Dokumentskanner, verkar starta upp som den ska, fungerar antagligen ",Lights up,Computer,C02,2024_00062
+Notchfilter 1842 MHz,,Untested,Radio,C02,2024_00063
+Variac,"230 AC in, valfritt ut.",Untested,Power supply,C02,2024_00064
+48st Condensatorer ,63volt 10 miliF,Tested,Component,C02,2024_00065
+Nätaggregat,"Milleteknik ASC-XM275, 2015 årsmodell, 120 W",Untested,Power supply,C02,2024_00066
+Portmonnä,Har några manualer i sig också ,Tested,Miscellaneous,B01,2024_00067
+The original Karaoke,VHS vol.7,Untested,Nostalgia,A01,2024_00068
