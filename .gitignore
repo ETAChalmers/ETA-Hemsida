@@ -3,5 +3,5 @@
 /resources/_gen/
 
 # auction catalogue files
-/assets/auction/
-/content/auction/auctionItems.csv
+# /assets/auction/
+# /content/auction/auctionItems.csv
