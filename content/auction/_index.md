@@ -10,10 +10,7 @@ layout: "home"
 
 <!-- Information about date and location is automatically added in the shortcode. This is updated in the auction configuration file. -->
 {{< auction/auctionDetails >}}
-
-**The auction has been moved from Ljusgården to Betonghallen!**
-
-Every year ETA arranges an auction where ham radio equipment, electronics components, lab equipment mystical apparatus and more are sold. The goal with the auction is to sell useful equipment for a low price to  support the student association's economy.<br>
+Every year ETA arranges an auction where ham radio equipment, electronics components, lab equipment, mystical apparatus and more are sold. The goal with the auction is to sell useful equipment for a low price to support the association's economy. The auction is open for everyone!<br>
 
 {{< /auction/auctionDetails >}}
 
