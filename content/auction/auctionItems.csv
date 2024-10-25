@@ -58,7 +58,7 @@ Mikroskopställ,Stabil och tung,Other,Gerät,C01,2024_00046
 36V10A DC PSU,,Untested,Power supply,C01,2024_00047
 Oscillarzet D 1011,"20MHz oscilloskop, funkar bra",Tested,Instrument,B01,2024_00048
 Digitork 2020,Vridmomentmätare,Untested,Instrument,C01,2024_00049
-Variac,"230 AC in, valfritt ut. Har dödskabel redan.",Untested,Gerät,C01,2024_00050
+Variac,"230 AC in, valfritt ut. Har dödskabel redan.",Untested,Power supply,C01,2024_00050
 Variac,"230 AC in, valfritt ut. Trasig plast på vredet.",Untested,Power supply,C01,2024_00051
 ABB 3-fas motor,"1420 RPM 370W
 
@@ -80,3 +80,159 @@ Variac,"230 AC in, valfritt ut.",Untested,Power supply,C02,2024_00064
 Nätaggregat,"Milleteknik ASC-XM275, 2015 årsmodell, 120 W",Untested,Power supply,C02,2024_00066
 Portmonnä,Har några manualer i sig också ,Tested,Miscellaneous,B01,2024_00067
 The original Karaoke,VHS vol.7,Untested,Nostalgia,A01,2024_00068
+Läderportfölj,"Bra skick
+Kod: 000 329",Tested,Miscellaneous,A01,2024_00069
+Heathkit frequency counter & scaler ,"30MHz, 10ppm frekvensräknare. 175MHz/1/10/100 scaler. Scalern har gammal plugg, countern ",Tested,Instrument,B01,2024_00070
+2x batterieliminator 12V25W,Kopplat till något telefonsystem ,Untested,Power supply,C02,2024_00071
+Batterieliminator 12V25W,"Fristående, ingen 12V-kontakt",Tested,Power supply,B01,2024_00072
+2x batterieliminator 12V25W,"Ena med BNC+banan, andra med endast BNC",Tested,Power supply,B01,2024_00073
+D-link DIR-882 WiFi router,Utan nätaggregat,Untested,Computer,B01,2024_00074
+Blender,EJ matsäker 💀💀💀 mycket kemikalier i den,Tested,Gerät,C02,2024_00075
+CRT-monitor,Tar in S-video. Verkar fungera men otestad med signal. Har ljud och video in och ut,Lights up,Video,B01,2024_00076
+Mystery yagi,Oklar frekvens,Oöppnad,Radio,C02,2024_00077
+14A 230V AC filter,Oanvänd i förpackning,Oöppnad,Gerät,C02,2024_00078
+14A 230V AC filter,,Oöppnad,Gerät,C02,2024_00079
+14A 230V AC filter,,Oöppnad,Gerät,C02,2024_00080
+Virtual Research VR-kit ,"2x glasögon, 2x controller, 1x PSU. Lyser, men otestad med data. Oklart exakt hur den ska funka",Lights up,Video,B01,2024_00081
+Mjukt tangentbord,Spill-proof. USB och PS2. Ny i förpackning,Tested,Computer,B01,2024_00083
+Mysterisk mekanisk väljargerät,Har kugghjul.,Other,Gerät,C02,2024_00084
+CanoScan 4400F,Canon scanner,Tested,Computer,B01,2024_00085
+Båtradio STN Atlas,"Dansk. 12V in, två antenner",Untested,Radio,C02,2024_00086
+läderlåda,Har sett bättre dagar,Tested,Miscellaneous,C02,2024_00087
+Dynometer,"Halda/Haldex dyno, upp till 4 kg. Tillhörande låda.",Tested,Instrument,B01,2024_00088
+Steven digital reverb,"PDR 3500, har midi och aux. Olika preset program och manuellt vred.",Lights up,Audio,B01,2024_00089
+8x ethernet-kablar,Blandad längd och kategori,Untested,Computer,C02,2024_00090
+Zyxel  ES1100 switch,"Switch, lyser, ES1100-8P",Lights up,Gerät,B01,2024_00091
+Hakko 191 lödtermometer,"Otestad vid lödtemperaturer, fungerar vid låga. Förväntas helt fungera (alla vi fick från samma donation fugnerar).",Tested,Instrument,B01,2024_00092
+Hakko 191 lödtermometer,"Urladdat batteri, otestad. Förväntas helt fungera (alla vi fick från samma donation fugnerar).",Untested,Instrument,B01,2024_00093
+Sabtronic frequency counter,Sabtronics model 8100 frequency counter ,Lights up,Instrument,B01,2024_00094
+Nätaggregat,"1.2 - 22V, 1 A",Tested,Power supply,C02,2024_00095
+Trio Rf signal generator,trio Rf signal generator SG-402,Lights up,Instrument,B01,2024_00096
+Digital AWG,FeelElec 3-kanaler FY8300. 14bit 250MSa/s. BNC-kontakter verkar glappa lite?,Tested,Instrument,A01,2024_00097
+"Samson C control ""control room matrix""","Mixer, massor ljud inputs och outputs på baksidan",Lights up,Audio,C02,2024_00098
+Cable tester,Cable tester RJ11 + RJ45,Tested,Gerät,C02,2024_00099
+Trapider model TE-15,Transistor gris dip meter. Verkar vara vakumrör grej? 440kHz -120MHz,Untested,Instrument,C02,2024_00100
+Probsladdar,"4 probsladdar, 1 röd 3 svarta. Något glappiga",Tested,Instrument,C02,2024_00101
+Kramer tools VP-222,VGA switch 2 inputs 2 outputs,Lights up,Video,B01,2024_00102
+6x BNC till blandat ,"2x till BNC, 2x till krokodil, 2x till dupont ",Other,Gerät,C02,2024_00103
+Lödstation,Fungerande lödstation,Tested,Gerät,B01,2024_00104
+Kramer tools VP-222,VGA switch 2 inputs 2 outputs,Lights up,Video,B01,2024_00105
+ca 30 LCD-skärmar,Oklar modell,Untested,Video,C02,2024_00106
+LC mätare ,"LC meter, verkar fungera ",Lights up,Gerät,C02,2024_00107
+Båtradio VHF,"Rt4722 VHF-OSC, av Sailor. Går på 12V",Untested,Radio,B01,2024_00108
+Ethernetgerät,hemmabyggt ethernetgerät ,Untested,Gerät,C02,2024_00109
+2x Lafayette dyna-com 3a,"Gammal handhållen radio, ena har trasig antenn",Untested,Radio,C02,2024_00110
+HP5300A timer/counter ,"Mäter ej, men display lyser ",Lights up,Instrument,C02,2024_00111
+Oscilloskop,PCSU200 oscilloskop och signalgenerator.,Untested,Instrument,C02,2024_00112
+kontorssortering,Uppsättning av modulära genskinliga lådor för sortering av bland annat kontorspapper,Tested,Miscellaneous,B02,2024_00113
+INSTRUSTAR Pc oscilloskop ,INSTRUSTAR ISDS205B,Untested,Instrument,C02,2024_00114
+Vector Network Analyzer,"SDR-KitsDG8SAQ, 1 kHz - 1.3 GHz, med tillbehör",Untested,Instrument,B01,2024_00115
+kondensatorbank R.I.C. Capacitors LTD. DBSJT,"4x 125uF 2.5kV
+Faktiskt livsfarlig",Untested,Gerät,B02,2024_00116
+kondensatorbank R.I.C. Capacitors LTD. DBSJW,"4x 125uF 2.5kV
+Faktiskt livsfarlig
+Kommer med urladdningsprobgrej",Untested,Gerät,B02,2024_00117
+D400 IO tester,Oklar manik med spakar och 36 polig kontakt. Kan va fin som knappanel,Untested,Gerät,C02,2024_00118
+Stora högtalare,"typ 1.5m höga, auktionskommite ingår ej",Tested,Audio,B02,2024_00119
+2 kanaler 50MHz oscilloskop,Har nätagregat och data kabel samt instalations cd.,Untested,Instrument,C02,2024_00120
+350w nätaggregat ,"Blue storm 2, 350w nätaggregat ",Untested,Power supply,C02,2024_00121
+solpanel,30W solpanel med data logger och telemetri modul. Utgång till batteri från lådan,Untested,Power supply,B02,2024_00122
+Power source,"WRB series power source WRBO1X-U , 230v, ",Untested,Gerät,C02,2024_00123
+PD-V19 5.8GHz sensor,32 styck,Untested,Component,B01,2024_00124
+Etstank,Relativt stor fungerande etstank.,Tested,Gerät,A01,2024_00125
+multicomp pro MP720019,"USB oscilloskop
+2 kanaler 100MHz 1GS/s",Untested,Instrument,C02,2024_00126
+Handhållare för handsträcksfilm,,Untested,Miscellaneous,C02,2024_00127
+Halogenlampa,500W,Lights up,Miscellaneous,C02,2024_00128
+Udda gerät med fet gränssnitt,"Olika knappar o spakar, kan bli fet kontrollpanel",Untested,Gerät,C02,2024_00129
+Mascot type 719,"Ställbart nätagg, 2 kanaler.
+15V 2A / 30V 1.5A
+Ger ut spänning, inte testat strömbegränsning / strömleverans",Lights up,Power supply,B01,2024_00130
+Kontrolmottagare,"Radio hembygge, 448.825 MHz. 2st Ascom U982-CA/1C innuti",Untested,Radio,C02,2024_00131
+projektor canon LV-S1,"Lyser upp med canonloggan, kommer med väska och ett par kablar",Lights up,Video,C02,2024_00132
+Rackskåp kylare,"12 st fläktar i en enhet, monteras i botten av rackskåp. Brittisk kontakt 250V 13A",Untested,Gerät,C02,2024_00133
+Videogerät,"Oklart funktion, möjligtvis patchpanel / mux?",Untested,Video,B01,2024_00134
+Variabelt effektmotstånd,"Mellan 79 och 0.5 ohm . Upp till 4A, har bannan och coax.",Tested,Nostalgia,B01,2024_00135
+Nätaggregat,"13.5 VDC, 5A, Ascom Tateco.",Tested,Power supply,C02,2024_00136
+Ställbart nätagg,"Ger spänning ut, ej strömtestat",Tested,Power supply,C02,2024_00137
+Kompressor,Thomas industries 907 AD20. 2-3 A. Ger lufttryck,Tested,Gerät,B01,2024_00138
+Ställbart nätagg,"Ger spänning ut, ej strömtestat",Tested,Power supply,C02,2024_00139
+Virningsverktyg,teleCourier EW-7D virningspistol,Tested,Miscellaneous,C02,2024_00140
+Virningsverktyg,ok-16-230-BF virningsverktyg,Tested,Miscellaneous,C02,2024_00141
+Micro Giken CX-07 spionmikrofon,"2st VHF spionmikrofon+sändare
+Mottagare, kristall hörlur",Untested,Radio,A01,2024_00142
+4st Actuator kontrollbox???,1.6A 15% dutycycle max 30sec on-time. Omärkta lådor med ethernet och trepolig kontakt,Untested,Gerät,C02,2024_00143
+Lynx - booksize  personal computer ,"Gammal dator, kommer med tangentbord. Står 1 MB minne på medföljande låda. Lyser upp",Lights up,Nostalgia,B02,2024_00144
+dryckespump,Trycklufsdriven,Untested,Gerät,B01,2024_00145
+Conrad vattenflödesmätare,Räknar upp när man blåser i den,Tested,Gerät,B01,2024_00146
+Megaohmeter,"100 Gohm till 1 Mohm, 1V till 10kV key",Lights up,Instrument,B02,2024_00147
+ställbart nät.agg,"Ej testad, står inventerare saknas. Spänningsrattar trasiga",Doesn't work,Power supply,C02,2024_00148
+Yaesu musen FT-7B,"Ej testad, saknar ratt och strömknappen är trasig",Untested,Radio,A01,2024_00149
+24v spänningskälla,DIN monterad,Untested,Gerät,C02,2024_00150
+Nätaggregat för labbänken,0-30V AC och DC. 10A???. Dåligt kalibrerad visare.,Tested,Power supply,C03,2024_00151
+Logikanalysator,,Lights up,Instrument,B02,2024_00152
+nätveksswitch ,1 Gb,Untested,Gerät,B02,2024_00153
+Damsugare,Volta Xio,Tested,Gerät,C03,2024_00155
+3D-printer,ZYYXpro flera munstycken flera buildplates och orginal inköpsbrev. drifttid: 3000h.,Lights up,Gerät,A01,2024_00156
+"Pinsvetts, Fronius WTU 307",3fas 300A,Untested,Gerät,A02,2024_00157
+24V DC motor,,Tested,Gerät,B02,2024_00158
+Oscilloskop,Tektronix 2232 100MHz,Tested,Instrument,A01,2024_00159
+2308 interface - för PLC?,Kommer med manual ,Lights up,Miscellaneous,C03,2024_00160
+Värmepistol,"6 olika temp/effekt lägen, ganska högt luftflöde",Tested,Gerät,C03,2024_00161
+Procom duplexer DPF70/6,"Low = 442.6MHz
+High = 448.6MHz
+Borde klara 50W",Untested,Radio,B02,2024_00162
+Procom duplexer DPF70/6 (442.8MHz),"Low = 442.8MHz
+High = 448.8MHz
+Borde klara 50W",Untested,Radio,B02,2024_00163
+ställbart nät.agg,"Ger spänning ut, ej strömtestad",Tested,Power supply,C03,2024_00164
+DC micro volt-ampere meter,"HP 4225 10uA, 0.1uV som högst upplösning",Lights up,Gerät,B02,2024_00165
+Test,Testar systemet,Doesn't work,Radio,C03,2024_00166
+Skärm,"Skärm, NEC, Multisync PA241W",Lights up,Video,C03,2024_00167
+Skrivare HP C8962A ,SKRIVARE,Untested,Gerät,C03,2024_00168
+Skärm NEC Multisync EA232WMi,Skärm,Lights up,Video,C03,2024_00169
+Låda,Har en del hål,Tested,Gerät,C03,2024_00170
+Låda,Tom låda med flera hål,Tested,Gerät,C03,2024_00171
+Låda,Tom låda med flera hål,Tested,Gerät,C03,2024_00172
+Audio Tester?,"Något låter/är löst innuti.
+Oklart användingsområde",Untested,Audio,C03,2024_00173
+Högtalare,Högtalare eller radio,Untested,Audio,C03,2024_00174
+Varistor,VDRS14T275ASE,Oöppnad,Component,C03,2024_00175
+Streckkodsläsare,,Lights up,Gerät,C03,2024_00176
+Xbox 360,Strömkabel samt hdmi kabel medföljer,Lights up,Nostalgia,B02,2024_00177
+Grafikkort,Nvidia quadro fx 4700 x2,Untested,Nostalgia,C03,2024_00178
+Horn 15 Watt,15 watt 8 Ohm,Tested,Audio,C03,2024_00179
+Pocket Operator,"Okänd användingsområde.
+Ljud mackapär? Ev. glapp i DC kontakt 
+",Untested,Audio,C03,2024_00180
+c-pod,,Untested,Gerät,C03,2024_00181
+Radiobil,,Tested,Nostalgia,B02,2024_00182
+Radiobil,,Tested,Nostalgia,B02,2024_00183
+Torque transducer,0.5-5 samt 50-500 nm,Untested,Gerät,C03,2024_00184
+AudioFire12 Echo,Audio Interface,Lights up,Audio,B02,2024_00185
+Radiobil,,Tested,Nostalgia,B02,2024_00186
+AudioFire12 Echo,"Audio Interface, AC kontakt något löst",Lights up,Audio,B02,2024_00187
+Oscilloskop,"Hitachi V-252 20MHz, Analog, 2 kanaler endast extern trigger",Tested,Instrument,B02,2024_00188
+Oscilliskop Tektrotronik 2424L,Diagnos fel,Lights up,Instrument,C03,2024_00189
+Function generator,"Sinusvåg ser bra ut, triangel och kvadrat är lite skum på vissa frekvenser",Tested,Instrument,C03,2024_00190
+Alarmklocka Philips AJ140,,Tested,Audio,C03,2024_00191
+mascot 24V 1500W inverter,"Type 9988
+Drar säkringar vid inkoppling",Doesn't work,Power supply,C03,2024_00192
+Telgraf maskin,Gerat northern telegraph works .104624. G.N.T.Transmitter model 113,Untested,Radio,C03,2024_00193
+Router Linksys WRT54GL,,Lights up,Gerät,C03,2024_00194
+DC nätagg,"Två kanaler, dåligt kalibrerad men fullt funktionell ",Tested,Gerät,C03,2024_00195
+Karaoke konverter k10,,Lights up,Gerät,C03,2024_00196
+Modem D-Link DSL-300T,Modem asdl,Lights up,Gerät,C03,2024_00197
+Router Technicolor TG389,,Lights up,Gerät,C03,2024_00198
+Router Thomson,"Router, wifi, fyra ethernetportar",Lights up,Computer,C03,2024_00199
+Webkamera Philips,"Oklart om den fungerar, snabbtest med datorn fungerade ej",Doesn't work,Video,C03,2024_00200
+Tv-Box Arris,,Lights up,Video,C03,2024_00201
+Fläkt,,Untested,Miscellaneous,C03,2024_00202
+Owasys,”Advanced wireless device” tror det är en dator alternativt något radio relaterat,Untested,Computer,C03,2024_00203
+Bildelning apparat x50 Pilotfish Miveo M400,Ca 50 stycken,Untested,Gerät,C03,2024_00204
+Debugger acessory j-Link ks IAR Systems,,Untested,Computer,B02,2024_00205
+Förstärkare Sony STR-GX315,,Tested,Radio,B02,2024_00206
+Lödugn Puhui T-962C,Bakar bra pizza,Tested,Gerät,A02,2024_00207
+Stereo SONY TC-WR445,,Lights up,Audio,B02,2024_00208
+Router,,Lights up,Gerät,C03,2024_00209
+Skrivare HP deskjet 845c,,Lights up,Gerät,C03,2024_00210
