@@ -17,3 +17,4 @@ For more information about ETA read our [wiki](https://wiki.eta.chalmers.se/)!
 <!-- To edit the board or auction committee members, edit the contents in the "data" directories -->
 {{< board style="padding-top:0; padding-bottom:0;" >}}
 Need to reach us? Send an email to <eta@eta.chalmers.se>.
+{{< /board >}}
