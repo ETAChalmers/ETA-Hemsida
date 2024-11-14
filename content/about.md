@@ -18,4 +18,3 @@ For more information about ETA read our [wiki](https://wiki.eta.chalmers.se/)!
 {{< board style="padding-top:0; padding-bottom:0;" >}}
 {{< /board >}}
 Need to reach us? Send an email to <eta@eta.chalmers.se>.
-{{< /board >}}
