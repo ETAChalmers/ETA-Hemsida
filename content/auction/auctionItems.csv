@@ -236,3 +236,50 @@ Lödugn Puhui T-962C,Bakar bra pizza,Tested,Gerät,A02,2024_00207
 Stereo SONY TC-WR445,,Lights up,Audio,B02,2024_00208
 Router,,Lights up,Gerät,C03,2024_00209
 Skrivare HP deskjet 845c,,Lights up,Gerät,C03,2024_00210
+Communications receiver ,Kenwood R-2000. Funkar en kort stund efter påslag,Lights up,Radio,A02,2024_00211
+Räknare,"Hp85 räknare, inte särkilt mini dessvärre. Inga anmärkningsvärda kosmetiska defekter",Tested,Nostalgia,A01,2024_00212
+Oscilloskop Aron bs-310s,Fungerar ej enligt tusch markering. Inte inkopplad på grund av det.,Doesn't work,Instrument,C03,2024_00213
+Verktygslåda,Batteri saknas,Untested,Gerät,B03,2024_00214
+ Kylbox 12V,"Elektrolux, 8 liter, 48W 12V. Made in Luxembourg ",Tested,Miscellaneous,B03,2024_00215
+Tektronix  2424L,Enligt uppgift reperationsobjekt eller reservdels plock. Inte inkopplad iffal nätagget är ledset .,Untested,Instrument,B03,2024_00216
+Skruvdragare ,14.4V Biltema,Tested,Gerät,C03,2024_00217
+Oscilloskop Tektronix 2245A,100Mhz 4ch halvanalogt. Har smidiga funktioner som autosetup. Alla fyra kanaler ser ut att funka. ,Tested,Instrument,B03,2024_00218
+Nätaggregat,,Untested,Gerät,C03,2024_00219
+RF Attenuator ,"BNC dämpare fungerar 10-2100 MC
+
+N dämpare 1-12.4 KMC otestad",Tested,Radio,B03,2024_00220
+Chieftec HDD låda,"4x 3.5"" diskar, SATA ut bak, molex power in. Verkar vara nyckick",Untested,Computer,B03,2024_00221
+Nätaggregat,,Lights up,Gerät,C03,2024_00222
+Ocilloskop Aron BW-310S,"Fungerar tillräckligt bra. Kanal A triggern ville inte funka till en början med, men en övertygande klapp på toppen så ville spela boll.
+Antagligen bara någon glappkontakt någonstans som fixas lätt av den händige
+Kan batteridrivas",Tested,Instrument,B03,2024_00223
+Linjär förstärkare,"240-756MHz, 1W, 12dB. Hälsofrämjande berylliuminnehåll.",Untested,Radio,C03,2024_00224
+Ljudenhet kombo Mercedes,"Command 2.0 
+-E head unit
+Harman kardon Logic7
+Can och CD funkar ej på head unit. Radio ok",Untested,Audio,B03,2024_00225
+Linjär förstärkare,"1W, UHF, Hälsofrämjande berylliuminnehåll ",Untested,Radio,C03,2024_00226
+Linjär förstärkare ,16dB @ 144MHz. Sportig eftermarknadskylare,Untested,Radio,C03,2024_00227
+Eimac 4CX5000A 8170 Tetrode,10 kW från Audiofrekvens till 220 MHz,Untested,Component,A01,2024_00228
+KVME switch,"Fyra datorer, usb och ethernet hub",Untested,Gerät,C03,2024_00229
+Oscilloskop Tektronix 453,"Testat kanal 1 och 2 och den triggar på båda. Kontakten på ch2 glappar, lika så några av rattarna när man vrider på dem",Lights up,Instrument,C03,2024_00230
+Tektronix type 454 oscilloscope,"Den lyser upp med signaler, men triggern verkar vara trasig.",Lights up,Instrument,C04,2024_00231
+AC transformer,1 Phase 36v 8.3a secondary AC step down transformer ,Lights up,Power supply,C03,2024_00232
+Rostfritt Apparatskåp,Ett bastant rostfritt skåp  i ~1mm plåt. Kommer med EMC packningar  och till synes vädertäta packningar ,Other,Gerät,B03,2024_00233
+Occulus development kit,Occulus DK2,Untested,Video,B03,2024_00234
+48V 12A likriktare,Ej last testad ,Tested,Power supply,B03,2024_00235
+Mira orism,"AR display Till en iphone, iphone ingår ej",Other,Video,C03,2024_00236
+TEAC A-108 sync,"Stereo kasettspelare, coola visare, brittisk plugg",Untested,Audio,C04,2024_00237
+Oscilloskop Tektronix 2215,"60Mhz 2ch. Simpelt att operera. dålig intensitet på katodstålen, trigg på båda kanalerna fungerar under förväntan, måste fixas för att vara brukbar",Lights up,Instrument,C04,2024_00238
+Tektronix 2213 oscilloskop,"60MHz
+Funkar fint",Tested,Instrument,B03,2024_00239
+Cosplay kit GSV,6x storlek Medium ,Lights up,Miscellaneous,B03,2024_00240
+Nätaggregat,24V 20A,Untested,Gerät,C03,2024_00241
+Videogerät,Lyser och låter,Lights up,Video,C03,2024_00242
+Brüel &Kjell soundlevel calibrator,"Modell 4230, kalibrerad 2008",Untested,Audio,C04,2024_00243
+32 GHz radar/ranger? gerät,Including 600VDC 600mA power supply and waveguides ,Untested,Gerät,C03,2024_00244
+Distribution Amplifier ,Pendulum DA-36,Untested,Gerät,C04,2024_00245
+Hololens 1 AR headset,"Blev donerad som funkar. Har strömkabel och fjärrkontroll, laddas med USB",Tested,Video,A01,2024_00246
+Hololens1  AR headset,"Fungerar, har fjärrkontroll och usb sladd",Tested,Video,A01,2024_00247
+Laserskärare,"40W CO2 laser, fungerar så bra man förväntar sig att en kina-laser skall funka. Har använts i föreningen till nu. Den har en smoothieboard",Tested,Gerät,A01,2024_00248
+0-30V 2.5A power supply,5V + 12V + variabel spänning. Variabel ger översläng vid påslag.,Tested,Power supply,C04,2024_00249
