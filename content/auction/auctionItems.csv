@@ -335,3 +335,129 @@ Ethernet-interface",Untested,Instrument,A02,2024_00294
 3st Feta kondingar,Epcos 4600uF 385V,Untested,Component,C04,2024_00295
 Regulated power supply Oltronix,"Oltronix nr 131, fungerar troligen",Untested,Power supply,B04,2024_00296
 Densei delvo skruvdragare,"Fungerar, kommer med kryssmejsel installerad.",Tested,Gerät,B04,2024_00297
+brandlarmsklocka,*PLING* *PLING*,Untested,Audio,C04,2024_00298
+HP 8013B Pulse Generator,"Lyser inte upp, verkar vara ganska töm inuti, vet ej om det är standard.",Doesn't work,Gerät,C04,2024_00299
+Nätaggregat,,Doesn't work,Power supply,C05,2024_00300
+HP 8011A Pulse Generator,Verkar fungera utan problem,Tested,Gerät,A02,2024_00301
+Dubbel kokare,Bain-marie 1.5l,Tested,Miscellaneous,C05,2024_00302
+HP 54501A Digitizing oscilloscope,"Inga tecken av liv, 100MHz BW",Doesn't work,Instrument,B04,2024_00303
+Fluke digital multimeter 8050A,"Max 2A
+Max 500V
+",Tested,Instrument,B04,2024_00304
+Yaesu FT-5100,"Dual band (70cm 35W & 2m 50W) FM transceiver. Har repeater-funktionaltitet (skift, subton, tone burst, dtmf) ",Tested,Radio,A02,2024_00305
+Hioki digital Clamp Ho tester 3206,1000V max,Doesn't work,Instrument,C05,2024_00306
+Data precision 2480,Multimeter. VDC verkar fungera.,Tested,Instrument,B04,2024_00307
+Oltronix B 401 nätaggregat,40 V 1A,Tested,Power supply,B04,2024_00310
+Oltronix 70V5.5A PSU,"B60-5R. Funkar upp till 4A på overcurrent-mätaren, sen triggar den overcurrent automatiskt.",Lights up,Power supply,C05,2024_00311
+Tre Skype knapptelefon ,"Modell WP-S1, förseglad i förpackning",Oöppnad,Miscellaneous,C05,2024_00312
+Gigabyte GeForce 8600GT,Ser oöppnad ut,Untested,Nostalgia,C05,2024_00313
+Omega MML 600 nätagregat,"5V 100A, 12V 12A.
+Omega MML600 Coutant Lambda",Untested,Power supply,B04,2024_00314
+Core i7-6700K,Intel processor,Untested,Computer,A02,2024_00315
+Oltronix nätaggregat B60-1T,,Tested,Power supply,B04,2024_00316
+Spellman CZE1000R,"Högspänningsnätaggregat +-30kV, 300uA
+ETA-reparationsobjekt. Opamp byttes ut inuti för att få strömmätning att fungera.",Tested,Instrument,A02,2024_00317
+Asus EN7600GS GPU,"Gammal GPU, 2st VGA + DVI",Untested,Nostalgia,C05,2024_00318
+HP436A power meter,,Lights up,Instrument,C05,2024_00319
+ZyXEL NSA310 - NAS,Liten NAS med hårddisk på 500 gig,Oöppnad,Computer,B04,2024_00320
+oscilloskop 60MHz,Tektronix 2215,Tested,Instrument,C05,2024_00321
+HP59501A PSU programmer,HP-IB Isolated D/A/Power supply programmer,Lights up,Instrument,C05,2024_00322
+RE IM6 Megohmmätare/picoamperemätare,"Mäter från 1Mohm till 1POhm, 1mA till 1pA.
+Har lapp på sig att den funkar inte helt.
+Släpper ut magisk rök långsamt efter den kopplas in ",Lights up,Instrument,B04,2024_00323
+Hot plate controller samt hot plate,"Planer products 400C max
+
+Relä i termostat skumt. Byglar man utgång blir plattan varm. ",Other,Miscellaneous,C05,2024_00324
+HP 8015A pulse generator,"Har en lapp på sig ""TRASIG BRINNER?""
+Otestad på grund av det.",Doesn't work,Instrument,C05,2024_00325
+Oltronix B8-7,"0-10V, 7.7A",Tested,Power supply,B04,2024_00326
+DIN-monterad RS422/485-repeater,Modell Westermo 3153-3001,Untested,Gerät,C05,2024_00327
+5st ip-telefoner,Modell: SNOM 821,Untested,Audio,C05,2024_00328
+Fluke 8840A multimeter,"700V 2A max, mäter resistans (4-wire), spänning (AC+DC) och ström (AC+DC). Stämmer bra mot etas multimeter",Tested,Instrument,B04,2024_00329
+Oscilloskop trasigt,lyser upp men får ingen signal ,Lights up,Instrument,C05,2024_00330
+HP 8657B signalgenerator,"100kHz-2.06GHz generator, AM och FM modulation, intern eller extern.
+Verkar fungera perfekt. ",Tested,Instrument,S02,2024_00331
+Buffalo portable hard drive 1TB,"Helt ny, öppnad för att lätt funktionalitetstesta.
+Fungerar bra, ~20MB/s write",Tested,Computer,A02,2024_00332
+Pulse generator ,"1Hz - 50MHz Philips 
+
+Power knappen fastnar inte, man behöver hålla inne den.",Tested,Gerät,B04,2024_00333
+HP1740 100MHz analogt osc ,Funkar skitdåligt. Slå på den några gånger så visar den rätt signal. ,Lights up,Instrument,C05,2024_00334
+HP 8662A Synthesized signal generator,"10kHz-1280MHz.
+Verkar fungera och modulera galant.",Tested,Instrument,S02,2024_00335
+HP1740 100MHz osc,Verkar vara låst i XY-läge? Funkar säker,Tested,Instrument,C05,2024_00336
+HP 8734B Pin modulator,7.0-12.4GHz,Untested,Instrument,B04,2024_00337
+Casiotune CT-660,"Har midi in, thru, out
+Kommer med omonterat stativ och trasig väska. Strömadapter saknas ",Untested,Instrument,C05,2024_00338
+Touro mobile MX3 1TB portabel hårddisk,"USB 3, Använd, fungerar",Tested,Computer,A02,2024_00339
+3-fas störskyddstrafo,"400Hz 5kVA, elinduktra-sundberg modell 25942-901",Untested,Gerät,C06,2024_00340
+HP 8735B Pin Modulator,8.2-12.4 GHz,Untested,Instrument,B04,2024_00341
+Tektronix TDS 210,"Oscilloskåp 60MHz
+Skärmen funkar dåligt, flimmrar, fungerar annars",Tested,Instrument,C05,2024_00342
+HP 8555A spectrum analyzer,"Skärmen mår inte bra. Kan ej testa den vidare.
+10MHz-18GHz !!",Lights up,Instrument,A02,2024_00343
+Tektronix TDS220 100MHz osc ,Monokrom skärm,Tested,Instrument,B04,2024_00344
+HP 8733B Pin Modulator,3.7-8.3GHz,Untested,Instrument,B04,2024_00345
+TDS210 60MHz,"Dålig skärm, inga rattar. Monokrom skärm. Funkar annars",Lights up,Gerät,C05,2024_00346
+D-link DIR-868L ,"Gigabit router, har 5GHz och 2.4Ghz
+Lyser och nätverk dyker upp men har inte testats att konfigurera 
+Ingen strömadapter",Untested,Miscellaneous,C05,2024_00347
+Directional coupler 1-2GHz,"ca. -30dB coupling, Niklaskontakt",Untested,Gerät,B04,2024_00348
+Tektronix 465B 100MHz oscilloskop ,2-kanaler. Funkar bra.,Tested,Instrument,B04,2024_00349
+High frequency charger ,"24V 30A
+Typ testad, generar någon mängd ström men osäkert hur mycket",Lights up,Gerät,C05,2024_00350
+Seagate 500GB portabel hårddisk,"Den visar livstecken och lyckas spara lite data, men formatterar aldrig klart. Går möjligtvis att byta disk och återanvända höljet",Doesn't work,Computer,C05,2024_00351
+Oltronix 50v 1.5A Kass,"Lyser, ger ut en spänning som är runt hälften av det som är inställt.
+Behöver kärlek",Lights up,Power supply,C06,2024_00352
+PM 5770 Pulse generator,1Hz - 100MHz. Verkar fungera men är väldigt kinkig. Ibland behöver den startas om för att signalen försvinner.,Other,Instrument,C05,2024_00353
+HP 8662A Synthesized signal generator,Utfrekvens är lite fel (30kHz fel vid 1GHz ungefär). Annars verkar fungera utan problem.,Tested,Instrument,A03,2024_00354
+HP4378B Power Meter,"Saknar sensor, gör ingenting utan den",Lights up,Instrument,C05,2024_00355
+UPS ,Back-UPS ES 700,Lights up,Gerät,C05,2024_00356
+Symmetricom NTS-150 NTP server,"GPS disciplinerad, de här brukar ha problem med GPS veckonummer rollover, och kan visa fel datum.
+Funkar som nice låda annars",Untested,Gerät,C05,2024_00357
+Tektronix oscilloskop,"Failar self-test för aqcuition & attenuation.  Triggar funkar dåligt, kanaler är offsettade ",Lights up,Instrument,C05,2024_00358
+Vga switch,,Untested,Gerät,C06,2024_00359
+Tektronix C-30A Camera ,,Other,Gerät,C05,2024_00360
+Metech strömmätare 24A,,Tested,Instrument,C06,2024_00361
+HP 3488A Switch/Control unit,Har inge moduler men gränssnittet fungerar.,Tested,Instrument,C05,2024_00362
+Pulsgenerator,"låter mycket, troligen fläkt",Lights up,Instrument,C05,2024_00363
+pulsgenerator,error e12,Lights up,Instrument,C05,2024_00364
+HP8013A pulse generator,"20ns-1s period, 10ns-1s width ",Tested,Instrument,B04,2024_00365
+Oltronix B703DT nätaggregat ,"Röda ratten är ofunktionell, annars funkar perfekt ",Tested,Power supply,C06,2024_00366
+HP 537A frequency meter,,Untested,Radio,C06,2024_00367
+Funktionsgenerator,går upp till 10Mhz,Tested,Instrument,B05,2024_00368
+Oltronix B6-10,Kan leverera 10V 10A med hyfsad accurecy,Tested,Power supply,C06,2024_00369
+Hios CB-05 elektrisk skruvdragare,,Tested,Miscellaneous,B05,2024_00370
+HP - Sure store DAT24,,Lights up,Gerät,C06,2024_00371
+MAX-504-1205AV nätagg,"+5V 80A, +12V 10A(16A pk),
+-12V 10A, +5.2V 2A
+500W total. ",Untested,Power supply,B05,2024_00372
+Oltronix B 603D,"60 V 0.7 A
+Otestat pga att nätkabeln är klipt",Untested,Power supply,C06,2024_00373
+HP8111A 20MHz funktionsgen,,Tested,Instrument,B05,2024_00374
+Volvo vision camera,"21702451, 1809-13M, CV131200755
+24V, ser ut som analogt rgb ut?",Untested,Video,B05,2024_00375
+Nokia observation kamera ,,Lights up,Video,C06,2024_00376
+Lambda JFS100024,"3st nätagg, 1kW 20-29V (24V designad). Kan anslutas ihop för delad strömutgång, 120A vid 24V om alla 3 ihopkopplas.",Untested,Power supply,B05,2024_00377
+Oltronix PSU 32V20A,Ger ingen spänning,Doesn't work,Power supply,C06,2024_00378
+Oltronix B502D,"18 V 3 A nätagg
+Fungerar bra och ger ut inställd spänning +- 0.05 V 
+Den inbyggda strömmätningen är sämre dock. 
+Ger också 5V 1A ut på sidan",Tested,Power supply,B05,2024_00379
+HP 8566B Spektrumanalysator,"100Hz-22GHz, som lappen påstår, visar lite fel amplitud,  men verkar fungera generellt",Other,Instrument,A03,2024_00380
+HP8690B med HP8697A Sveposcillator,"26.5-40.0GHz, sveptid från 100s till 100ms. Har AM-funktionalitet. Vågledare-utgång.",Lights up,Instrument,B05,2024_00381
+Orginal Philips UVA,Ögonskador inkluderat ,Lights up,Gerät,C06,2024_00382
+HP 8566B spektrumanalysator,"100Hz-22GHz, intensity måste vara maxad för att kunna se saker. Verkar fungera trots ""skrotad"" och ""spärrad"" lappar.",Lights up,Instrument,A03,2024_00383
+Oltronix  B32-10R,"Kan leverera 32V 10A , men levererar både mer ström och spänning (+2.0V) än vad som är inställt
+Visar dock rätt på sina dials
+Beter sig lite underligt utan en last, men i övrigt ok",Tested,Power supply,B05,2024_00384
+trefas? variac,"Powerstat type 116T-3
+Specifierat 120v in 0-140v ut
+7.5A 1kVA",Untested,Power supply,B05,2024_00385
+Oltronix PSU,"B32-20R. Strömbegränsningen verkar paj, är alltid strömbegränsad. ",Lights up,Power supply,C06,2024_00386
+Oltronix 60V10A PSU,"Overcurrent är trasig, men ställd på max så ger den ut effekt. Drar säkringar",Lights up,Power supply,C06,2024_00387
+HP 8904A Multifunction synthesizer,DC-600 kHz,Tested,Instrument,B05,2024_00388
+Oltronix B6 - 10,10V 10A,Lights up,Power supply,C06,2024_00389
+Oltronix B502D,18V 3A,Lights up,Power supply,C06,2024_00390
+Oltronix MB 15-4,Ställbart nätagg (för fast montering antagligen),Untested,Power supply,C06,2024_00391
+Oltronix B 503D,,Lights up,Power supply,C06,2024_00392

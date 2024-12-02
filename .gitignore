@@ -1,6 +1,7 @@
 # generated files by hugo
 /public/
 /resources/_gen/
+.hugo_build.lock
 
 # auction catalogue files
 # /assets/auction/
