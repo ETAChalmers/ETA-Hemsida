@@ -1,5 +1,4 @@
 Title,Description,Status,Category,Location,ID
-3fas vattenkokare ,leksak,Lights up,Nostalgia,S01,2024_00001
 Label printer,"Brandy BBP11-34L. Tar USB, ethernet och parallell samt serial.",Untested,Gerät,B01,2024_00002
 Mystisk mikrovågsparabol,,Untested,Radio,C01,2024_00003
 Antenn,"Från Comhat-Provexa
@@ -461,3 +460,105 @@ Oltronix B6 - 10,10V 10A,Lights up,Power supply,C06,2024_00389
 Oltronix B502D,18V 3A,Lights up,Power supply,C06,2024_00390
 Oltronix MB 15-4,Ställbart nätagg (för fast montering antagligen),Untested,Power supply,C06,2024_00391
 Oltronix B 503D,,Lights up,Power supply,C06,2024_00392
+WD my passport slim 1TB,"Portabel hårddisk, helt fungerande, usb 3, 100MB/s write",Tested,Computer,A03,2024_00393
+Lenovo ThinkCenter Edge stationär dator,"i3 3240 
+512GB
+4GB 1600MHz RAM sticka 1st
+",Tested,Computer,B05,2024_00394
+Optiplex 3020 stationär dator,"4Gb 1333Mhz RAM sticka 1st
+Intel pentium G3220 3Ghz
+512GB",Tested,Computer,B05,2024_00395
+Dator utan chassi,Se bild för specs,Tested,Computer,C06,2024_00396
+Grafikkort AX5750 ,1GBD5-S3DH,Tested,Component,C06,2024_00397
+wireless access point,Cisco singel point setup,Oöppnad,Gerät,C06,2024_00398
+CY8CKIT-042-BLE,Bluetooth development kit.,Untested,Gerät,B05,2024_00399
+Tandberg TR-200 Radio ,,Lights up,Gerät,B05,2024_00400
+ERSA Lödstation,SMT Unit 60 A,Lights up,Gerät,B05,2024_00401
+PC CPUkyl,"Pure Rock 150W TDP, öppnad förpackning men ser oanvänd ut. Fläkt ingår",Other,Miscellaneous,C06,2024_00402
+Chassi,Fusion remote max,Oöppnad,Computer,B05,2024_00403
+Leakage Clamp Meter,"kaise, SK-7815",Untested,Gerät,C06,2024_00404
+Tångamperemeter,Uni-T 600A 600V,Untested,Instrument,C06,2024_00405
+GT220 GPU,"Ser oskadd ut, har kvar alla kontakt skydd. Manual ingår.",Untested,Computer,C06,2024_00408
+snom 821 hemtelefon,,Untested,Miscellaneous,C06,2024_00409
+Memory extension board,För Vectra 286/12 i orginal förpackning ,Untested,Nostalgia,C06,2024_00410
+Lödpasta dispenser,"Fishman 7300, strömindikatorn lyser ej, verkar fungera annars.",Other,Gerät,B05,2024_00411
+DN-ODS-003,"Laser avståndsmätare, antagligen från cruise-control systemet från en Lexus LS430",Untested,Miscellaneous,C06,2024_00412
+Surface resistivity meter,SRM 100/3,Tested,Instrument,B05,2024_00413
+Tektronix 2465A CT,"Oscilloskåp, testad vid 3.3MHz, modellen rate:ad för 350 MHz",Tested,Instrument,B05,2024_00414
+HP mysterie VNA,Saknar skärm har 10V sweep.,Lights up,Instrument,C06,2024_00415
+Lecroy 1GHz Oscilloskop,"single 8GS/s
+quad 8GS/s
+kommer med frekvensdomänsanalys samt printout funktion",Tested,Instrument,A03,2024_00416
+HP 8410B nätverksanalysator,Saknar skärm,Lights up,Instrument,B05,2024_00417
+Power Supply,"30 volt 6 ampere
+topward dual tracking power supply 6306D
+
+",Tested,Instrument,C06,2024_00418
+nordmende TV signal generator,modell FG 387,Untested,Nostalgia,C06,2024_00419
+8743A Reflection-Transmission Test Unit,"2-12.4 GHz, saknar säkring",Untested,Instrument,C06,2024_00420
+Uni oscilloskop,"30MHz, den gamla skärmen gillar inte att visa signaler under 1kHz",Tested,Instrument,C06,2024_00421
+8410A Network Analyzer,Med 8412A Phase-Magnitude Display,Untested,Instrument,C07,2024_00422
+Telefon analysator,"lyser och verkar göra något
+har manual",Lights up,Instrument,C06,2024_00423
+fiber basstation,"ingen uppkoppling lyckades med, lyser, verkar vara 100mb",Lights up,Miscellaneous,C07,2024_00424
+Power function generator,"Feedback PFG605, 50V 200 mA",Lights up,Instrument,C07,2024_00425
+rackmonterad KVM,"mux för 2× PS/2, 1× USB, 1×VGA till 4 olika enheter
+
+kräver 12V 1A barrel jack för ström",Untested,Miscellaneous,C07,2024_00426
+Stereo kassetdäck,Rotel RD-400 stereo kassetdäck,Lights up,Audio,C07,2024_00427
+rackserver,"8gb DDR3 RAM
+
+lyser",Lights up,Computer,C07,2024_00428
+rackserver med GPIB,"GPIB PCI kort ingår
+8gb DDR3 RAM",Lights up,Computer,B05,2024_00429
+Metcal PSU,"Modell STSS-PS2V-02. Lyser upp och verkar funka, en testad med lödjärn",Lights up,Gerät,C07,2024_00430
+Canon P-8 CINESTAR S,"8mm filmprojektor, snurrar men lyser ej",Untested,Nostalgia,B05,2024_00431
+Skruvdragare,"Funkar ? 
+Låter trött men laddade inte batteriet särskilt länge",Tested,Gerät,C07,2024_00432
+Ericsson DCT1800-S,"Cordless telephone
+bara lådan",Untested,Gerät,C07,2024_00433
+Rackmonteringsräls,pryl du kan sätta dina rack mountade grunkor i,Lights up,Miscellaneous,C07,2024_00434
+3st Sierra wireless airprime EM7511,"Dator 4G modul med gps, modell EM7511 (Sierra wireless airprime) från Qualcomm. Med två st  usb adaptrar (devboard?) ",Untested,Component,B05,2024_00435
+HP 8407A Network analyzer,"Ingen displayenhet, lyser upp och ger ut någon sorts IF",Lights up,Instrument,C07,2024_00436
+Ljudisolering ,För ventilationshål,Tested,Miscellaneous,C07,2024_00437
+Konica C35,Automatisk film-kamera,Untested,Miscellaneous,C07,2024_00438
+8-kanalers brusgenerator,"Funkar, men några av kanalerna har glapp i brytarna. Fixas lätt av någon häftig",Tested,Instrument,A03,2024_00439
+3-fas vridtrafo,"Går till 125% input
+Väger cirka som en auktionskommite
+(Cirka 60kg)",Untested,Instrument,S03,2024_00440
+Benq projektor,"HDMI, VGA, och annat bös",Tested,Gerät,C07,2024_00441
+Headacoustics MFE-IV,"Oklart funktion, lyser upp. Nice eurorack till projekt",Lights up,Gerät,C07,2024_00442
+HP 8445B Automatic Preselector,Någon form av filter?upp till 18GHz. Ej funktionstestad ,Lights up,Gerät,C07,2024_00443
+Gammal ljusmätare,"Verkar vara nästan orörd
+Modell cirka 70-80 tal
+Gossen Sixtomat x3
+Inte fått till att fungera, men kanske funkar?
+Manual medföljer",Other,Instrument,C07,2024_00444
+Solartron puls generator,"Gammal coaxial kontakt, ner till us period",Tested,Instrument,C07,2024_00445
+Gammla fotoblixtar,"Innehåller
+1 ihopfällbar blixt (funkar)
+1 ej ihopfällbar (ej testad)
+Några blixtlampor
+Går på skumma batterier med skumma spänningar ",Other,Nostalgia,C07,2024_00446
+Trefas isolationstrafo 10KVA (mycket tung) ,"Elinduktra Sundberg AB trefas isolationstrafo, står 10KVA. Väger extremt mycket. Säkringar inbyggt. Borde fungera, ",Untested,Power supply,S03,2024_00447
+4st VHS Fujifilm,"3h kapacitet
+Fujifilm FE-180",Untested,Nostalgia,C07,2024_00448
+Philips bandspelare/radio,Compact line D8117. Antenn är något böjd men fungerande. Inkluderar elkabel,Tested,Nostalgia,C07,2024_00449
+Trefas trafo 2KVA,"380V Primär, Dubbla sekundärer 380V.
+Delta kopplad primär och två Y kopplade sekundärer.
+Koppligsschema med mer information ligger i säkringsskåpet. ",Untested,Power supply,S03,2024_00450
+Fet portfölj,,Tested,Miscellaneous,C07,2024_00451
+Gitarrförstärkare ,PG-10 förstärkare,Lights up,Audio,C07,2024_00452
+Philips bandspelare,Snurrar men otestad med faktiskt band,Lights up,Audio,C07,2024_00453
+"19"" Eurocard rack","Verkar innehålla ljudgrejer, ingen aning om vad den gör
+Häftiga lampor i förstärkarna",Lights up,Audio,A03,2024_00454
+htpc-dator/chassi,Antec-chassi med fin frontpanel. ,Untested,Computer,C07,2024_00455
+Lenco vinylspelare,"Lenco L75 vinylspelare, snurrar bra. Ej testat nålen eller ljud. ",Lights up,Audio,A03,2024_00456
+His masters voice vinylspelare,"Ojordad, ej testad",Untested,Audio,C07,2024_00457
+Temperaturkammare,"Funkar, kan bli väldigt kall. Märke heraeus vötsch",Tested,Gerät,C07,2024_00458
+Fet 3-faskabel,Många små,Untested,Component,C07,2024_00459
+Solar tron 1255 HF frequency response analyzer,"Lyser, visar saker på displayen och knappar fungerar. Annars otestad",Lights up,Instrument,B05,2024_00460
+Challenge 250 klimatkammare,"Ej testad, mycket tung, har hjul, går på trefas",Untested,Gerät,S02,2024_00461
+Rittal skåp med plastfönster,Utan nyckeln men det är standard rittal nyckel. ,Tested,Miscellaneous,S02,2024_00462
+W.E.R. Varmluftsstation,"Fungerar förmodligen inte, koppla ej in innan felsökning. Allt utom mugg och bord ingår",Untested,Gerät,C07,2024_00463
+Stereomottagare,"JVC JR-S200, låter bra",Tested,Audio,B05,2024_00464
