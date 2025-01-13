@@ -562,3 +562,34 @@ Challenge 250 klimatkammare,"Ej testad, mycket tung, har hjul, går på trefas",
 Rittal skåp med plastfönster,Utan nyckeln men det är standard rittal nyckel. ,Tested,Miscellaneous,S02,2024_00462
 W.E.R. Varmluftsstation,"Fungerar förmodligen inte, koppla ej in innan felsökning. Allt utom mugg och bord ingår",Untested,Gerät,C07,2024_00463
 Stereomottagare,"JVC JR-S200, låter bra",Tested,Audio,B05,2024_00464
+Antenna rotator control,"Alliance dual speed control 
+",Lights up,Radio,B05,2024_00465
+Clavister 3000 brandvägg ,"Lyser, piper, verkar boota. Display visar inget, kanske feljusterat kontrast. Precambrian säkerhet",Lights up,Computer,B05,2024_00466
+Hy-gain t/r dir control ,Rotationsstyrgerät för antenn. Lyser upp och klickar.,Lights up,Radio,B05,2024_00467
+Ericsson telecom PSU,BML 901 209/1. -54.5V 7.7A. klippt kabel,Untested,Radio,C07,2024_00468
+Emerson PSU,"BML 403 111/1
+Weirda kontakter, kanske 48V 125A, kanske bra ankare",Untested,Power supply,C07,2024_00469
+Skum mysteriekartong,"Innehåll okänt, märkt 3.3kg isolerrör porslin. Skramlar trevligt",Oöppnad,Component,C07,2024_00470
+APC Smart UPS ,"Weird AC ingång, tung och många utgångar, inget batteri i",Untested,Computer,C07,2024_00471
+Apparatskåp,"Typ sprillans nytt och fint med nyckel och monteringsbös, ca 25x25x10cm",Untested,Miscellaneous,A03,2024_00472
+Wingo bilbana,"Saknar power brick, dc plug finns. Annars komplett med två bilar och kontroller",Untested,Miscellaneous,B05,2024_00473
+Hp analogt oscilloskop ,"Model 1725A, 275mhz. Lyser och får trace. Väldigt glappiga oxiderade reglage, behöver kärlek",Lights up,Instrument,B05,2024_00474
+TiG svets med plasma,AristoTiG 400-p med pw3000 plasmaskärare och esab t6 styrenhet. Saknar svetskablar. Otestad men verkar vara i fint skick,Lights up,Miscellaneous,A03,2024_00475
+Makerbot replikator 2,"3D skrivare från dinosauriernas tid. Behöver seriös hjälp. Startar, alla axlar rör sig, knappar glappar, hotend brinner. Lukt av vidbrännt PLA medföljer.",Lights up,Miscellaneous,B05,2024_00476
+Oltronix nätagg 0-40V,"0-20-40v, 0.8/1.6A. Relä verkar fast i 40V inställning, ger 0-49V ut, current limit fungerar, mätskala skapligt rättvisande.",Other,Power supply,A03,2024_00477
+Sarad radonmätate,"Rektangulär låda för mätning av radon, ser ut att sakna alla tillbehör förutom två batterier från tidig stenålder som visar minus 0.51V polspänning. Spännande artefakt",Untested,Gerät,C07,2024_00478
+Ham pigtail,"Mastodontstor radi-grunka, ej julskinka. Skruv och okänt ytklet medföljer",Tested,Radio,C07,2024_00479
+HP switch,"ProCurve 2810-24G switch. Lyser, surrar, verkar boota och fungera. Gigabit.",Lights up,Computer,A03,2024_00480
+MDEK1001,Decawave real time location system dev and evaluation kit. Verkar komplett. Hand ingår ej,Untested,Miscellaneous,A03,2024_00481
+Skrotlåda,"Låda med skarvbitar till avgasrör, baklampa, krossad lampa, liten bit ståltråd, sticksågblad och avgasdoftande kondensatorer och en growat nätenhet för growlights. Breaking bad starter kit? ",Lights up,Miscellaneous,C07,2024_00482
+LED display.,"DIY projekt, skramlar runt delar inuti, okänd status. Burdust avtuggad RJ45 kontakt, tålamod slut?",Oöppnad,Miscellaneous,C07,2024_00483
+Metcal PSU,"Exploderade inte, lyser, verkar prima",Lights up,Power supply,A03,2024_00484
+Aktas värde,"Metcal psu, verkar värdefull, lyser och släpper inte ut magisk rök.",Lights up,Power supply,A03,2024_00485
+Hologram display,"Kommer med sladd, verkar vara i prima skick, hdmi, ej testad med hologram.",Lights up,Video,A03,2024_00486
+Kompendium elmotorer,Hur man hittar vänner guide för elektrofolk,Doesn't work,Miscellaneous,B05,2024_00487
+UV låda,"Låda med UV strålar i, fungerar strålande, perfekt för kretskortstillverkning eller ytdesinfektion av suspekta auktionssedlar",Tested,Gerät,A03,2024_00488
+Termometer,"Familjen Hedenhös digitala termometer -50 till 150 grader, fint fodral, dåligt batteri, visar ca 4 grader för mycket. Fungerar ibland, ledsen ibland. Aren't we all",Lights up,Instrument,B05,2024_00489
+Sony radio,Gammal fin sony radio i custom plexiglashållare. Inkopplad men inga tecken på liv. Kanske dålig psu/säkring. Fin hemköpkasse.,Doesn't work,Radio,C07,2024_00490
+Elfix detektor,"Voltdetektor, detekterar volt. För lite volt i batteriet, detekterar inte volt.",Untested,Instrument,C07,2024_00491
+Current probe,"Mini clamp on current probe, 10-150A 1000:1 ratio. Clampar, kanske mäter också",Untested,Instrument,C07,2024_00492
+Argonaut 505,"Amatörradio grunka, 12V, verkar kunna sända och ta emot. Owners manual medföljer ",Untested,Radio,B05,2024_00493

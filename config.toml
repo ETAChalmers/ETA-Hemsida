@@ -2,6 +2,7 @@ baseURL = "https://eta.chalmers.se/"
 languageCode = "en-us"
 title = "ETA - E-Sektionens Teletekniska Avdelning"
 theme = "hugo-universal-theme"
+timeout = 600000
 
 [menu]
 
