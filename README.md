@@ -6,7 +6,10 @@ The website uses a modified theme called "Universal theme" made by [Bootstrapiou
 Due to the limitations that comes with having an static website, some parts of the website may be hard to understand. But the site works and the board of years 2018/2019 and 2019/2020 have put way to much time into solving these problems :P.
 
 ## How to generate and deploy the website
+
 To generate and deploy the website you need to be runing Linux or some other UNIX system with bash, hugo and git installed.
+
+**Note about versions (important)**: Hugo is very much NOT backwards compatible, meaning the website does **not** build if you use the latest version of Hugo. We target version 0.123.0, which you can either (recommended) download from [the github releases page](https://github.com/gohugoio/hugo/releases/tag/v0.123.0), or (not recommended) if you use the Nix package manager, you can run `nix develop -f shell.nix`.
 
 Both hugo and git is available for Windows, so it is also possible to devlope on a windows machine.
 
