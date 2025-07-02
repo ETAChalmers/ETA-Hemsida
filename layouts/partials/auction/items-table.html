@@ -8,9 +8,9 @@
   </thead>
   <tbody>
 
-    {{ if (fileExists "content/auction/auctionItems.csv") }}
+    {{ if (fileExists "assets/auction/auctionItems.csv") }}
       {{ $auctionConfig := .context.Site.Data.AuctionConfig }}
-      {{ $data := getCSV "," "content/auction/auctionItems.csv"}}
+      {{ $data := transform.Unmarshal (resources.Get "auction/auctionItems.csv") }}
       {{ range after 1 $data }}
         {{ if or (in $.category (index . 3)) (eq $.category "All") }}
           <tr>

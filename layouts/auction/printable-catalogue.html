@@ -8,7 +8,7 @@
       <!-- Get the auction configuration files -->
       {{ $auctionConfig := .Site.Data.AuctionConfig }}
       <!-- Check if the csv catalogue exists -->
-      {{ if (fileExists "content/auction/auctionItems.csv") }}
+      {{ if (fileExists "assets/auction/auctionItems.csv") }}
 
         <!-- Save the current "context" - in variable node. Requiered to use Scratch variables in ranges -->
         {{ $node := . }}
@@ -24,7 +24,7 @@
             <table>
               <tbody>
                 <!-- Parse the csv auction catalogue and save as variable data -->
-                {{ $data := getCSV "," "content/auction/auctionItems.csv"}}
+                {{ $data := transform.Unmarshal (resources.Get "auction/auctionItems.csv") }}
 
                 <!-- Create an index variable to count the number of items pn each row in the table -->
                 {{ $node.Scratch.Set "i" 1 }}

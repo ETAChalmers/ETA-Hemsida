@@ -1,6 +1,6 @@
-{{- if (fileExists "content/auction/auctionItems.csv") -}}
+{{- if (fileExists "assets/auction/auctionItems.csv") -}}
 {{- $auctionConfig := .Site.Data.AuctionConfig -}}
-{{- $data := getCSV "," "content/auction/auctionItems.csv" -}}
+{{- $data := transform.Unmarshal (resources.Get "auction/auctionItems.csv") -}}
 {
   "year": "{{ dateFormat "2006" $auctionConfig.date }}",
 
