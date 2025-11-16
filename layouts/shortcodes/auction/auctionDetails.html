@@ -1,0 +1,36 @@
+{{ $auctionConfig := $.Site.Data.AuctionConfig }}
+
+<section class="bar background-white" style="margin-bottom: 0px;">
+    <div class="container">
+        <div class="col-md-6">
+            <div class="lead">
+              {{ .Inner | markdownify }}
+
+              <p>
+                <br>
+                <strong>Date:</strong> {{ dateFormat "Monday January 2, 2006" $auctionConfig.date }}<br>
+                <strong>Auction opening:</strong> {{ dateFormat "15:04" $auctionConfig.date }}<br>
+                <strong>Location:</strong> {{ $auctionConfig.address }}<br>
+              </p>
+            </div>
+        </div>
+        <div class="col-md-6">
+          <div id="openStreetMap">
+            <!-- This is where the map will be -->
+          </div>
+
+          <script type="text/javascript">
+            var coordinate = {{ $auctionConfig.coordinate }};
+            var map = L.map('openStreetMap', {detectRetina: true, dragging: !L.Browser.mobile, touchZoom: true, tap: false, scrollWheelZoom: false}).setView(coordinate, 17);
+
+            L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+              attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+            }).addTo(map);
+
+            L.marker(coordinate).addTo(map);
+          </script>
+
+        </div>
+    </div>
+    <!-- /.container -->
+</section>
