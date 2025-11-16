@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env bash
 
 set -x -e -o pipefail # Show commands executed, exit on error (including subcommands)
 
