@@ -2,7 +2,7 @@
 /public/
 /resources/_gen/
 .hugo_build.lock
-
+/hemsidatest.sh
 # auction catalogue files
 # /assets/auction/
 # /content/auction/auctionItems.csv
