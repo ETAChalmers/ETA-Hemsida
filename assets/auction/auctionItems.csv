@@ -295,7 +295,7 @@ Nätagg 30V,Topwand dual-tracking 6303AS,Tested,Power supply,B02,2025_00171
 Analyzing Recorder,Yokohama Analyzing Recorder AR1200,Tested,Instrument,B02,2025_00172
 Lödgerät,Weller WTCP-S,Lights up,Gerät,C03,2025_00173
 Logic Analyzer,HP Logic Analyzer 1650A,Tested,Instrument,B03,2025_00174
-Gasregulator,Max 300 bar,Untested,Gerät,B02,2025_00175
+Gasregulator,"Max 300 bar. Antagligen efter sitt utgångsdatum, beware.",Untested,Gerät,B02,2025_00175
 Agilent Oscilloscope,"MSO6034A mixed signal oscilloscope. megazoom 300mhz, all ports tested",Tested,Instrument,A02,2025_00176
 Pioneer Stereo receiver,"SX-1300, snålt testad men funkar.",Tested,Audio,C03,2025_00177
 Power Supply,Solatron Power Supply AS1411 Analogue Voltage,Tested,Instrument,A02,2025_00178
@@ -334,3 +334,127 @@ WaveGuide Variable Attenuator,Philips PP 4150X WaveGuide Variable Attenuator,Unt
 Intel desktop board DH67BL,"i5-2400S
 Noctua kylare
 Be quiet nätagg",Untested,Computer,B03,2025_00209
+Sweep oscillator,"HP 8350B sweep oscillator + 8522 module
+
+2.4 GHz",Tested,Instrument,A02,2025_00210
+Flygplansantenn,Skymasts,Untested,Radio,C03,2025_00211
+Röntgenpapperskontrollator,"""Utrustning för materialprovning""
+AB Kontrollmetod",Tested,Gerät,C03,2025_00212
+"3ch NC Motordrivare, 10KW SEW ","MDP-90A-0100-503-4-000, Tre kanaler plus kontroller. Snackar någon form av fältbus",Lights up,Gerät,A02,2025_00213
+Set om 5st Ethernet Switchar ESC mCon 4080-B3V,"1st med 48VDC matning
+4st med 110VDC matning
+",Untested,Miscellaneous,C03,2025_00214
+Nätfilter ,"Trefas, 42A SEW NF0420-513",Untested,Gerät,C03,2025_00215
+Gigabit PoE-switch,"PSI-1010G-24V
+DIN-monterad. Har ""alarm control"". 2 x uplink",Untested,Miscellaneous,B03,2025_00216
+Gigabit PoE-switch,"PSI-1010G-24V
+DIN-monterad. Har ""alarm control"". 2 x uplink",Untested,Gerät,B03,2025_00217
+Gigabit PoE-switch,"PSI-1010G-24V
+DIN-monterad. Har ""alarm control"". 2 x uplink",Untested,Gerät,B03,2025_00218
+Set om ethernetswitchar,"2st HARTING ESC mCon 4080-B3V (110 VDC)
+1st HARTING ESC mCon 4080-BV1",Untested,Miscellaneous,C03,2025_00219
+AGV eller blivande lek-bil,"En AGV av carryBee K-typ 1. Modell CBK10B-2LMCP-C. Utrustad med blybatterier med laddare, upphetsande kontroll skåp, pinne som åker upp och ner (till för att lyfta gods) Lidar på fronten.  Den saknar dessvärre drivmotor för att köra frammåt. Men en ny fixas lätt av den händige. Uppgifter påstår att den inte var trasig, men ingen garanti. Har  enbart gått i forskningssyfte.",Untested,Gerät,A02,2025_00220
+Innbygnadslåda i metall,"Endast fantasin sätter gränserna till vad denna låda kan komma att åstadkomma 
+
+Ca 280x230x110 mm",Tested,Gerät,C03,2025_00221
+Icom IC-820H all band transiver,Har bott i klubbstugan ett bra tag men sett lite använding pga nya Radios.,Tested,Radio,A02,2025_00222
+HP 16500B Logic Analyzer,"
+Kommer tillsammans med en datormus.
+
+Kuriosa: Stödjer X Window Server för er som inte har migrerat till Wayland ännu",Lights up,Instrument,C03,2025_00223
+5st Pineng Universal USB backup power,"Smart powerbanks 20000 mAh
+",Untested,Miscellaneous,C03,2025_00224
+Radiokabel 2st,"Niklas hane -> 2.2-5 hane
+50ohm
+1.5m lång",Untested,Radio,C03,2025_00225
+RF effektmätare,"MODEL 4421 RF Power Meter kommer med två sensorer.
+1st Model 4023 100mW - 200W 900 MHz - 2500 MHz 1st Model 4022 0.3 - 1000 W 25 - 1000 MHz",Lights up,Instrument,A02,2025_00226
+Brushless DC fan max 12V variable,"Inkopplade i en biltema variabler power adapter, fungerar",Tested,Miscellaneous,C03,2025_00227
+XY plockare med feta motorer med broms,Den har 2x SEW PSF221/N/EK3 DS56M/B/TF/SM11 400v 5A motorerna funkade när de plockades ner,Untested,Gerät,B03,2025_00228
+Synology NAS,,Untested,Computer,C03,2025_00229
+PC,"CPU: i3-370M
+4GB RAM
+Övriga specs på botten",Oöppnad,Computer,B03,2025_00230
+Niklas kabel 1.5m,50ohm,Lights up,Radio,B03,2025_00231
+"ABB industrirobot, perfekt för vardagsrummet ","IRB1400/S4 M94, inkluderar robot+kontrollskåp+kabel (ej teachpedant). Roboten var i fungerande skick när den magasinerades. Inte testad nu pga avsaknad av pedant.",Other,Gerät,A02,2025_00232
+PLC Omron SYSMAC,SYSMAC C200HX CPU65-Z,Untested,Gerät,C03,2025_00233
+Cisco AP IW3702-AE,Ger felmeddelanden och är problematisk att konfigurera. Har varit öppen,Other,Computer,C03,2025_00234
+Kylfläkt,"Noctua NF-R8 redux-1800
+1800RPM
+",Oöppnad,Component,C03,2025_00235
+APC smx750i Smart-UPS X,Utan batterier,Untested,Gerät,B03,2025_00236
+Canon PIXMA TS205,Lyser upp och gör glada ljud utan att visa rött. Mycket fin skrivare för att skriva ut photo-mask till kretskortstillverkning,Lights up,Computer,A02,2025_00237
+Ender  3 pro,"Skrivare, XYZ testad, extruder otestad",Tested,Gerät,B03,2025_00238
+Trådlösa temperaturgivare,Kit med trådlösa temperaturgivar,Untested,Miscellaneous,C03,2025_00239
+Wifi-GSM larm till hemmet,Ny i låda. Finns en app och manual,Oöppnad,Miscellaneous,C03,2025_00240
+Digital V.SAT &QSPK Satellite Analyzer 930-2150Mhz,,Untested,Instrument,B04,2025_00241
+Funktionsgenerator,Exact Model 508 Log Sweep Generator,Tested,Instrument,A02,2025_00242
+27Mhz radiokontroll,Tillverkad i Västtyskland ,Untested,Radio,B04,2025_00243
+IC-735 ,Icom HF Transceiver,Tested,Radio,A02,2025_00244
+Digital powerclamp meter,"200V DC
+600V AC",Untested,Instrument,B04,2025_00245
+3st PTP Radiolänkar,3st Redline AN-80i (4.9 - 5.3 GHz) PTP radiolänkar ,Untested,Radio,B04,2025_00246
+Hemmabyggt nätagg,Typiskt hemmabygge. Verkar leverera spänning. Men reglagen på framsidan verkar inte göra något ,Lights up,Power supply,C04,2025_00247
+Analogt Nätagg,30 V / 3 A. 2 outputs,Lights up,Power supply,B04,2025_00248
+Dell Latitude E4200,"Saknar hårddisk, cmos batteri kan behöva bytas",Tested,Computer,B04,2025_00249
+Komponenterna full med diverse komponenter,,Other,Miscellaneous,C04,2025_00250
+IC-720,HF All band transceiver,Tested,Radio,A03,2025_00251
+Mitsubishi PLC,Mitsubishi A2NCPU,Untested,Miscellaneous,B04,2025_00252
+Varmvattenberedare,TGR80N/D 2KW 80L,Untested,Gerät,C04,2025_00253
+8st vakumrör,,Untested,Component,B04,2025_00254
+USA-transformator,"AB Erik Sundberg ST-78, sparkopplad enfas 220/127 75 VA",Doesn't work,Power supply,C04,2025_00255
+Träig Klocka,Mormor skulle uppskatta,Tested,Miscellaneous,C04,2025_00256
+Philips MINIWATT vakumrör  7st,Två är öppnade ,Oöppnad,Component,B04,2025_00257
+Steril Klocka,Passar bra till väntrummet i en vårdcentral,Tested,Miscellaneous,C04,2025_00258
+Dell optiplex  790,intel i5 CA 2010,Lights up,Computer,B04,2025_00259
+Escort EFC2201 Frequency Counter,"Attunuator och LPF
+",Tested,Instrument,B04,2025_00260
+Vridtransformator trefas,"Sandblom & Stohne, cirka 3 kVA",Tested,Instrument,B04,2025_00261
+Kit med 5st Diplexer Filter,80 - 2170 / 2400 - 2500 MHz,Untested,Radio,C04,2025_00262
+Lampa,Ungefär 279 THz,Lights up,Miscellaneous,C04,2025_00263
+Telemecanique Magelis Compact terminal,Contact display,Oöppnad,Miscellaneous,C04,2025_00264
+Steppingmotor 2st,,Untested,Miscellaneous,C04,2025_00265
+RF source,JEOL electron beam rf source,Untested,Gerät,C04,2025_00266
+RF source,JEOL electron beam rf source,Untested,Gerät,C04,2025_00267
+Radio Videoton R4902,"1968, lång-, mellan-, kortvåg. FM.",Doesn't work,Radio,C04,2025_00268
+Kamera med tillbehör,"funkar troligtvis för computer vison, pcie kort med fpga?",Untested,Video,A03,2025_00269
+15x IGBT-moduler,"1200V, 30A kont/70A peak, 215W. Trench IGBT4. Modelnr. FP35R12W2T4
+Tips: en modul ny går för 400kr",Oöppnad,Component,A02,2025_00270
+Kul RF grunka med många skruvar i sig,,Untested,Miscellaneous,C05,2025_00271
+Robotdammsugare s502,Den verkar duga damm och köra runt när man trycker start,Tested,Miscellaneous,C05,2025_00272
+Ultrasonic Pest repeller,,Oöppnad,Miscellaneous,C05,2025_00273
+15x IGBT-moduler,"1200V, 30A kont/70A peak, 215W. Trench IGBT4. Modelnr. FP35R12W2T4
+Tips: en enskild ny modul går för 400kr",Oöppnad,Component,A02,2025_00274
+HP ProLiant DL380 G7,"Server, inga diskar, okänt CPU, 96GiB DDR3",Lights up,Computer,B04,2025_00275
+Megaphone,,Untested,Miscellaneous,B04,2025_00276
+2ax CNC kontrollskåp,Kontrollerar 2axlar med Feta SEW motordrivare. Verkar dock vara 4st drivare i den. Har en PLC och diverse sliced I/O och kontroll skärm. Funkade innan magasinering. Högt komponentvärde sepparerat,Tested,Gerät,A02,2025_00277
+Duplexer 50-2200 / 2400-2500 MHz,Kathrein 78210264,Untested,Radio,C05,2025_00278
+RF source,JEOL electron beam rf source. includes circuit diagram!,Untested,Gerät,C05,2025_00279
+HP ProLiant DL380 G7,"Server, inga diskar, okänt CPU, 72GiB DDR3",Lights up,Computer,B04,2025_00280
+15x IGBT-modul,"1200V, 30A kont/70A peak, 215W. Trench IGBT4. Modelnr. FP35R12W2T4
+Tips: en enskild ny modul går för 400kr",Oöppnad,Component,A02,2025_00281
+Dell Poweredge R710,"48GiB RAM, 2st CPU av okänt typ",Lights up,Computer,B04,2025_00282
+RunCam ,,Untested,Video,C05,2025_00283
+Dell Power Edge R720,2x Xeon E5-2620 8GB DDR3 RAM. Inga diskar.,Tested,Computer,B04,2025_00284
+James Bond suitcase,Har nycklar,Lights up,Miscellaneous,A03,2025_00285
+JEOL e-beam control set,"Slot cards, control panel, JEOL BP-101899-01 and JEOL DEF MPY PB BP101939-01",Untested,Gerät,C05,2025_00286
+Biltema Wireless Thermometer Receiver,"Biltema Wireless Thermometer Receiver
+med Remote",Untested,Instrument,C05,2025_00287
+Dell PowerEdge R720,"2x Xeon E5-2620 (2.4 GHz 6 Core). 8 GB RAM. Inga diskar, 2 caddies.",Tested,Computer,B04,2025_00288
+Trimlist på rulle,17 mm,Untested,Component,C05,2025_00289
+Promise Vessraid 1840i,"ISCSI SAN, Inga diskar. Låter sådär gött högt.",Lights up,Computer,B04,2025_00290
+LG Monitor,FLATRON W2442PA,Untested,Video,C05,2025_00291
+Promise Vessraid 1840i,"ISCSI SAN, Inga diskar, Saknar några caddies. Funkar nog bra som hårtork ",Lights up,Computer,B04,2025_00292
+Synology Server ,RS812,Lights up,Computer,B04,2025_00293
+Synology Server,RS812,Lights up,Computer,B04,2025_00294
+IT-fläkt,fläkt från IT,Untested,Gerät,C04,2025_00295
+JEOL Power Supply,"25KG P-DEF PS
+Used in Cleanroom eBeam",Untested,Power supply,C05,2025_00296
+JEOL Power Supply,"25KG P-DEF PS
+Used in Cleanroom eBeam",Untested,Power supply,C05,2025_00297
+JEOL Power Supply,"25KG P-DEF PS
+Used in Cleanroom eBeam",Untested,Power supply,C05,2025_00298
+JEOL Power Supply,"25KG P-DEF PS
+Used in Cleanroom eBeam",Untested,Power supply,C05,2025_00299
+Atx chassi rackmount,Tom,Tested,Computer,C04,2025_00300
+Ibm system x3250 server,,Tested,Computer,C04,2025_00301
