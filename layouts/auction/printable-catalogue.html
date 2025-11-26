@@ -11,7 +11,7 @@
       {{ if (fileExists "assets/auction/auctionItems.csv") }}
         {{ $modtime := (os.Stat "assets/auction/auctionItems.csv").ModTime }}
             <h2> ETA Auction Catalogue {{ time.Format "2006" $modtime }}</h2>
-            <h5> Last updated: {{ time.Format "1 Jan 2006" $modtime }} </h5>
+            <h5> Last updated: {{ time.Format "2 Jan 2006" $modtime }} </h5>
             <br />
 
         <!-- Save the current "context" - in variable node. Requiered to use Scratch variables in ranges -->
