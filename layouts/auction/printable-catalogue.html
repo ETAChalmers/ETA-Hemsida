@@ -19,7 +19,7 @@
             </div>
             <div style="display: flex; flex-direction: column; align-items: center;">
                 {{ $qr := resources.Get "auction-qr.png" }}
-                <img src="{{$qr}}" style="width: 5cm;"> </img>
+                <img src="{{$qr.Permalink}}" style="width: 5cm;"> </img>
                 <u>https://eta.chalmers.se/auction</u>
             </div>
         </div>
