@@ -10,9 +10,19 @@
       <!-- Check if the csv catalogue exists -->
       {{ if (fileExists "assets/auction/auctionItems.csv") }}
         {{ $modtime := (os.Stat "assets/auction/auctionItems.csv").ModTime }}
-            <h2> ETA Auction Catalogue {{ time.Format "2006" $modtime }}</h2>
-            <h5> Last updated: {{ time.Format "2 Jan 2006" $modtime }} </h5>
-            <br />
+        <h1 style="text-align: center"> ETA Auction Catalogue {{ time.Format "2006" $modtime }}</h1>
+        <div style="display: flex; flex-direction: row; justify-content: space-between; width: 100%; align-items: center;">
+            <div style="display: flex; flex-direction: column;">
+                <p> <b> Date:</b> {{ time.Format "2 Jan 2006" $auctionConfig.date }} </p>
+                <p> <b> Location:</b> {{ $auctionConfig.addressName }}, {{ $auctionConfig.address }} </p>
+                <p> <b> Catalogue last updated:</b> {{ time.Format "2 Jan 2006" $modtime }} </p>
+            </div>
+            <div style="display: flex; flex-direction: column; align-items: center;">
+                {{ $qr := resources.Get "auction-qr.png" }}
+                <img src="{{$qr}}" style="width: 5cm;"> </img>
+                <u>https://eta.chalmers.se/auction</u>
+            </div>
+        </div>
 
         <!-- Save the current "context" - in variable node. Requiered to use Scratch variables in ranges -->
         {{ $node := . }}
