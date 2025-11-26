@@ -1,3 +1,10 @@
+{{ if (fileExists "assets/auction/auctionItems.csv") }}
+{{ $modtime := (os.Stat "assets/auction/auctionItems.csv").ModTime }}
+<h5> Page last updated: {{ time.Format "1 Jan 2006" $modtime }} </h5>
+<br />
+{{ end }}
+
+
 <table id="auction-items-table" class="table table-striped table-bordered" style="width:100%">
   <thead>
     <tr>
