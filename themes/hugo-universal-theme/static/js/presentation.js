@@ -23,7 +23,13 @@ function set_item(item_id) {
 
             $('#presentation-item-title').text(item.title);
             $('#presentation-item-description').text(item.description);
-            $('#presentation-item-img').attr("src",item.image);
+
+            if (item.image !== undefined) {
+                $('#presentation-item-img').attr("src",item.image);
+            } else {
+                $('#presentation-item-img').attr("src","");
+            }
+
             $('#presentation-item-category').text(item.category);
             $('#presentation-item-status').text(item.status);
             $('#presentation-item-id').text(item.id);
