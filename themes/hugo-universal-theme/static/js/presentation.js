@@ -25,9 +25,9 @@ function set_item(item_id) {
             $('#presentation-item-description').text(item.description);
 
             if (item.image !== undefined) {
-                $('#presentation-item-img').attr("src",item.image);
+                $('#presentation-item-img').attr("src", item.image);
             } else {
-                $('#presentation-item-img').attr("src","");
+                $('#presentation-item-img').attr("src", "/img/missing-image.png");
             }
 
             $('#presentation-item-category').text(item.category);

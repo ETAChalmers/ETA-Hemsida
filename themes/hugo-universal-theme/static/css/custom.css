@@ -143,24 +143,15 @@ img.feature-image {
   padding-bottom: 2em;
 }
 
-.presentation-item-desc {
-  position: fixed;
-  left: 0;
-  font-size: 2.5em;
-  padding: 1em;
-  margin: 0;
+#presentation-item-description {
+  margin-left: 10vw;
+  margin-right: 10vw;
+  font-weight: 400;
+  white-space: pre-line;
 }
 
-.presentation-item-status {
-  bottom: 2em;
-}
-
-.presentation-item-category {
-  bottom: 4em;
-}
-
-.presentation-item-id {
-  bottom: 0;
+.presentation-item-line {
+    font-weight: 400;
 }
 
 .presentation-search {
