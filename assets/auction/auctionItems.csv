@@ -1,0 +1,717 @@
+Title,Description,Status,Category,Location,ID
+Stationär dator,Intel i5,Lights up,Computer,C01,2024_00009
+Hp minidator 2007,"HP Dator, Modelnumber HSTNC-002-TC, 6 usb kontakter, ethernet",Untested,Computer,B01,2024_00010
+Frankeringsmaskin,Pitney Bowes Postage by Phone B700,Lights up,Gerät,C01,2024_00011
+2x vägledarfasvridare ,Vrider fasen,Tested,Radio,B01,2024_00017
+Radio transmitter,Tele courier radio transmitter sak,Untested,Radio,C01,2024_00018
+2x Vågledardämpare,HP modell x382A,Tested,Radio,B01,2024_00019
+PM 7832 SWR meter,"visar några tecken på liv, inte testat mer",Tested,Radio,B01,2024_00024
+Rotary Vane Attenuator,"8.2-12.4 GHz, skala från 0 till 60+dB",Untested,Radio,B01,2024_00025
+Plantronics headset,"Fräsh
+Vissa påsar är oöppnade
+",Lights up,Audio,C01,2024_00026
+Plantronics C65 Progammer,Plantronics programming station till Plantronic C65 ,Oöppnad,Miscellaneous,C01,2024_00030
+Industrial Cellular router för Wifi,"Märke Anyway, modell R3000-4L. ",Oöppnad,Computer,C01,2024_00039
+Avaya I55,Telefon och IP kontrollsystem/switch?,Untested,Gerät,C01,2024_00040
+3 nätaggregat,"ATI AT-PWR4, 80 W",Lights up,Power supply,C02,2024_00042
+servogor 460 datalogger,"Verkar fungera okej, 4 kanaler",Tested,Gerät,C02,2024_00057
+Analog kamera,"Nån form av kamera, slutaren sluter. Kanske funkar?",Untested,Nostalgia,C02,2024_00058
+Notchfilter 1842 MHz,,Untested,Radio,C02,2024_00063
+2x batterieliminator 12V25W,"Ena med BNC+banan, andra med endast BNC",Tested,Power supply,B01,2024_00073
+D-link DIR-882 WiFi router,Utan nätaggregat,Untested,Computer,B01,2024_00074
+Blender,EJ matsäker 💀💀💀 mycket kemikalier i den,Tested,Gerät,C02,2024_00075
+14A 230V AC filter,Oanvänd i förpackning,Oöppnad,Gerät,C02,2024_00078
+14A 230V AC filter,,Oöppnad,Gerät,C02,2024_00080
+Hakko 191 lödtermometer,"Otestad vid lödtemperaturer, fungerar vid låga. Förväntas helt fungera (alla vi fick från samma donation fugnerar).",Tested,Instrument,B01,2024_00092
+Kramer tools VP-222,VGA switch 2 inputs 2 outputs,Lights up,Video,B01,2024_00102
+6x BNC till blandat ,"2x till BNC, 2x till krokodil, 2x till dupont ",Other,Gerät,C02,2024_00103
+Kramer tools VP-222,VGA switch 2 inputs 2 outputs,Lights up,Video,B01,2024_00105
+LC mätare ,"LC meter, verkar fungera ",Lights up,Gerät,C02,2024_00107
+D400 IO tester,Oklar manik med spakar och 36 polig kontakt. Kan va fin som knappanel,Untested,Gerät,C02,2024_00118
+Handhållare för handsträcksfilm,,Untested,Miscellaneous,C02,2024_00127
+Halogenlampa,500W,Lights up,Miscellaneous,C02,2024_00128
+Kontrolmottagare,"Radio hembygge, 448.825 MHz. 2st Ascom U982-CA/1C innuti",Untested,Radio,C02,2024_00131
+projektor canon LV-S1,"Lyser upp med canonloggan, kommer med väska och ett par kablar",Lights up,Video,C02,2024_00132
+Virningsverktyg,ok-16-230-BF virningsverktyg,Tested,Miscellaneous,C02,2024_00141
+3D-printer,ZYYXpro flera munstycken flera buildplates och orginal inköpsbrev. drifttid: 3000h.,Lights up,Gerät,A01,2024_00156
+Värmepistol,"6 olika temp/effekt lägen, ganska högt luftflöde",Tested,Gerät,C03,2024_00161
+ställbart nät.agg,"Ger spänning ut, ej strömtestad",Tested,Power supply,C03,2024_00164
+Skrivare HP C8962A ,SKRIVARE,Untested,Gerät,C03,2024_00168
+Låda,Har en del hål,Tested,Gerät,C03,2024_00170
+Högtalare,Högtalare eller radio,Untested,Audio,C03,2024_00174
+Varistor,VDRS14T275ASE,Oöppnad,Component,C03,2024_00175
+Streckkodsläsare,,Lights up,Gerät,C03,2024_00176
+Horn 15 Watt,15 watt 8 Ohm,Tested,Audio,C03,2024_00179
+Torque transducer,0.5-5 samt 50-500 nm,Untested,Gerät,C03,2024_00184
+Alarmklocka Philips AJ140,,Tested,Audio,C03,2024_00191
+Router Linksys WRT54GL,,Lights up,Gerät,C03,2024_00194
+Karaoke konverter k10,,Lights up,Gerät,C03,2024_00196
+Modem D-Link DSL-300T,Modem asdl,Lights up,Gerät,C03,2024_00197
+Router Technicolor TG389,,Lights up,Gerät,C03,2024_00198
+Router Thomson,"Router, wifi, fyra ethernetportar",Lights up,Computer,C03,2024_00199
+Webkamera Philips,"Oklart om den fungerar, snabbtest med datorn fungerade ej",Doesn't work,Video,C03,2024_00200
+Tv-Box Arris,,Lights up,Video,C03,2024_00201
+Owasys,”Advanced wireless device” tror det är en dator alternativt något radio relaterat,Untested,Computer,C03,2024_00203
+Router,,Lights up,Gerät,C03,2024_00209
+Nätaggregat,,Lights up,Gerät,C03,2024_00222
+AC transformer,1 Phase 36v 8.3a secondary AC step down transformer ,Lights up,Power supply,C03,2024_00232
+Videogerät,Lyser och låter,Lights up,Video,C03,2024_00242
+32 GHz radar/ranger? gerät,Including 600VDC 600mA power supply and waveguides ,Untested,Gerät,C03,2024_00244
+Låda,Gjord i plast,Other,Miscellaneous,C03,2024_00251
+daum electronic heat-it,"Lödugn, infraröd. Med rullband.",Untested,Gerät,S01,2024_00276
+Hioki digital Clamp Ho tester 3206,1000V max,Doesn't work,Instrument,C05,2024_00306
+Tektronix TDS220 100MHz osc ,Monokrom skärm,Tested,Instrument,B04,2024_00344
+Tektronix 465B 100MHz oscilloskop ,2-kanaler. Funkar bra.,Tested,Instrument,B04,2024_00349
+Metech strömmätare 24A,,Tested,Instrument,C06,2024_00361
+MAX-504-1205AV nätagg,"+5V 80A, +12V 10A(16A pk),
+-12V 10A, +5.2V 2A
+500W total. ",Untested,Power supply,B05,2024_00372
+HP 8904A Multifunction synthesizer,DC-600 kHz,Tested,Instrument,B05,2024_00388
+Lenovo ThinkCenter Edge stationär dator,"i3 3240 
+512GB
+4GB 1600MHz RAM sticka 1st
+",Tested,Computer,B05,2024_00394
+snom 821 hemtelefon,,Untested,Miscellaneous,C06,2024_00409
+8410A Network Analyzer,Med 8412A Phase-Magnitude Display,Untested,Instrument,C07,2024_00422
+fiber basstation,"ingen uppkoppling lyckades med, lyser, verkar vara 100mb",Lights up,Miscellaneous,C07,2024_00424
+Ljudisolering ,För ventilationshål,Tested,Miscellaneous,C07,2024_00437
+HP 8445B Automatic Preselector,Någon form av filter?upp till 18GHz. Ej funktionstestad ,Lights up,Gerät,C07,2024_00443
+Philips bandspelare,Snurrar men otestad med faktiskt band,Lights up,Audio,C07,2024_00453
+Hy-gain t/r dir control ,Rotationsstyrgerät för antenn. Lyser upp och klickar.,Lights up,Radio,B05,2024_00467
+Hp analogt oscilloskop ,"Model 1725A, 275mhz. Lyser och får trace. Väldigt glappiga oxiderade reglage, behöver kärlek",Lights up,Instrument,B05,2024_00474
+Skrotlåda,"Låda med skarvbitar till avgasrör, baklampa, krossad lampa, liten bit ståltråd, sticksågblad och avgasdoftande kondensatorer och en growat nätenhet för growlights. Breaking bad starter kit? ",Lights up,Miscellaneous,C07,2024_00482
+Kompendium elmotorer,Hur man hittar vänner guide för elektrofolk,Doesn't work,Miscellaneous,B05,2024_00487
+Strålkastare,"Laddningsbar, 12V cigarettetändarekontakt",Untested,Gerät,B01,2025_00000
+TagMaster Communicator,Read/write för TagMaster RFID. 2.45 GHz cirkulär polariserad. Upp till 6 meter räckvidd.,Untested,Radio,C01,2025_00001
+DEV board ?,Vi chip,Untested,Miscellaneous,C01,2025_00002
+DEV board ,Vi chip,Untested,Miscellaneous,C01,2025_00003
+Diverse vakumrör,"1x PL504
+2x ECH84
+3x PCF80
+1x PCF802
+2x EF184
+1x EF183
+1x PY81
+6x Oläsbara",Untested,Component,B01,2025_00004
+40v 500mA PSU,"Philips PE 1535. Ger spänning. Ej strömtestad, fungerar troligtvis.",Tested,Power supply,C01,2025_00005
+Samsung TV switch,"One Connect-utgång, 4x HDMI-ingångar, satellit-ingång",Untested,Video,C01,2025_00006
+Lödstation,"WECP - 20 Temtronic, 150-450°C, 50W",Lights up,Gerät,B01,2025_00007
+"Multimeter, evaluerar module","Fancy multimeter?
+UCD9080EVM",Untested,Instrument,C01,2025_00008
+xbox 360,Nästan vit,Lights up,Computer,B01,2025_00009
+AC/DC Clamp Meter,"ACV 500V
+DCV 200V
+OHMS 200
+
+Modell DM-6052.",Untested,Instrument,C01,2025_00010
+Multimeter,"Fluke 8060A True RMS Multimeter, Gammal multimeter",Untested,Nostalgia,C01,2025_00011
+AC/DC omvandlare,"Vicor VI-HAM-IM
+In: 95-250V, Ut: 250-400V
+10 st",Untested,Power supply,C01,2025_00012
+MTRLOG,Driving journal. Tax authority compliant.,Oöppnad,Miscellaneous,C01,2025_00013
+Scart multiplexer,,Untested,Video,C01,2025_00014
+Schysst stor knapp.,Röd. Hand ingår ej.,Untested,Component,C01,2025_00015
+DC Power supply,"LWDQGS PS-305D, justerbar, max 30V 5A",Tested,Power supply,B01,2025_00016
+Power supply,"18V 3.3A
+EL183 POWER SUPPLY",Tested,Power supply,B01,2025_00017
+Grove Dust Densor x5,Fem stycken Grove Dust sensor.,Untested,Component,C01,2025_00018
+Gammal Ipad,16GB. Skärm fungerar. Laddare ingår ej.,Lights up,Computer,B01,2025_00019
+Projekt-PC,Fint chassi. Innehåller komponenter.,Untested,Computer,B01,2025_00020
+TAO RGB LED,"5W, E27, har fjärrkontroll",Oöppnad,Miscellaneous,C01,2025_00021
+RF 433MHz Cooking therometer,"Matlagningstermometer, 433 MHz, har fina LCD bildr på bland annat en ko",Lights up,Gerät,C01,2025_00022
+Huawei Switch 10G,Layer 2 Ethernet Switch. 2016,Lights up,Computer,B01,2025_00023
+10G Huawei switch,Layer 2 ethernet switch 2016,Lights up,Computer,B01,2025_00024
+Spännande pryl,Mystisk pryl med fuse och switch. Oklara specifikationer,Lights up,Gerät,C01,2025_00025
+"Vridtransformator, Varivolt Metric",Testad blinkade till en gång när stoppad på standby men gjorde det enast en gång. Ger inga utslag på mätarna.,Doesn't work,Instrument,C01,2025_00026
+10G ethernet switch,Huawei layer 2 ethernet switch,Lights up,Computer,B01,2025_00027
+Boroskop + fiber,"Ingen ljuskälla, antagligen smutsiga speglar.",Tested,Instrument,A01,2025_00028
+iPad 32GB,,Lights up,Miscellaneous,C01,2025_00029
+Bläckbehållare 7ml×4,"Chromalife 100+ 
+FP Canon CLI-551 C/M/Y/BK",Oöppnad,Miscellaneous,C01,2025_00030
+Dc/Dc omvandlarkit (?),,Untested,Gerät,C01,2025_00031
+SolcellsPanel Biltema 12V/6W,"Ser bra ut, oskadad yta",Untested,Miscellaneous,C01,2025_00032
+Canon pixma iP7520,Lyser och syns på lsusb,Lights up,Computer,B01,2025_00033
+Dc/Dc omvandlarkit (?),26-53 V in,Untested,Miscellaneous,C01,2025_00034
+Ledu Skrivbordslampa,,Untested,Gerät,C01,2025_00035
+Motor (?),"93ZYT005
+220V.d.c; 850W; 5600rpm; 3,9 A.d.c ",Untested,Gerät,C01,2025_00036
+Dc/Dc omvandlarkit (???) corstat,Vichip grej,Untested,Miscellaneous,C01,2025_00037
+dc/dc omvandlarkit,Del av något utvecklingskit,Untested,Miscellaneous,C01,2025_00038
+dc-ac inverter,2500w ut,Untested,Miscellaneous,C01,2025_00039
+Ica basic jordnötter,"500 g, saltade
+Utgångsdatum 9/5-2026",Oöppnad,Miscellaneous,C01,2025_00040
+apple dvd drive,Garantin har gått ut :(,Untested,Computer,C01,2025_00041
+LeCroy 9424E Oscilloscope,"Quad 350MHz 10 Gs/s
+Saknar Time/division-ratt",Tested,Instrument,A01,2025_00042
+Morex PSU 200w,Kablar och knapp ingår.,Lights up,Computer,C01,2025_00043
+HF generator PM 5324,"100kHz-110MHz
+AM/FM-modullering",Tested,Instrument,B01,2025_00044
+DanLab AOM801,,Untested,Gerät,C01,2025_00045
+Dot matrix plotter,Cpf-136,Lights up,Nostalgia,C01,2025_00046
+CMU 200 Universal radio communication tester,"Gsm bluetooth, kan användas som signal generator ",Tested,Radio,A01,2025_00047
+HP Color Laserjet 2600n,,Lights up,Computer,C01,2025_00048
+Switchbox 2000,Oklar låda med lite lampor,Untested,Gerät,C01,2025_00049
+Transformatorenbau,50/60Hz; DC 24V/16A,Untested,Gerät,C01,2025_00050
+VFD Hög effekt ,"Lite gammal, körde en hissmotor.",Tested,Gerät,B01,2025_00051
+Integrated point of Load Power Supply,"Input: 9 till 15 V
+Temperature: -40°C till 85°C",Untested,Miscellaneous,C01,2025_00052
+Netgear wifi router,Wgr614 v7. 54Mbps,Lights up,Computer,C01,2025_00053
+Diva D225 I(V) analyzer,"ETA-""reparerad"", verkade fungera, definitivt okalibrerad. ",Tested,Instrument,A01,2025_00054
+CNC wire stripper,"Fully automatic, double stripping",Tested,Gerät,A01,2025_00055
+technicolor wifi router,,Lights up,Computer,C01,2025_00056
+sony kamera,,Lights up,Miscellaneous,C01,2025_00057
+Syreanalysayor,Obritech OXY-3,Tested,Miscellaneous,B01,2025_00058
+Fläktpanel,"Fläktpanel med 6 fläktar
+Specifikationer: 50/60 Hz,15/14 W, 230 V AC",Untested,Miscellaneous,C01,2025_00059
+Nätaggregat,5V 120A; +/-12V 10A ,Untested,Gerät,C01,2025_00060
+Astec nätaggregat,"3.3V 60A, 5V 60A, 12V 10A&4A.
+800W total",Untested,Power supply,B01,2025_00061
+Transformator,"Primär 230V AC
+Sekundär 24V DC",Untested,Power supply,C01,2025_00062
+Long distance line,"Demo board Tx boost 869,5Mhz 500mW",Untested,Miscellaneous,C01,2025_00063
+DC/DC omvandlar kit,Olika moduler med kretskort montering,Untested,Miscellaneous,B01,2025_00064
+RS PRO inverter 3000W,Input 48Vdc ,Untested,Power supply,B01,2025_00065
+SynQor PFC utvecklingskit,"""Military Grade"", 1500W ut max",Untested,Gerät,C01,2025_00066
+PULS Power supply SL 5,24Vdc / 5A,Untested,Power supply,C01,2025_00067
+Dc/Dc omvandlar kit,"Input: 300 V, 250 Watt
+Output: 28 V, 200 Watt",Untested,Power supply,C01,2025_00068
+Long distance line,Demo rx boost 869,Untested,Miscellaneous,C01,2025_00069
+QPI EMI filter eval board,QPI-X-EVAL1 ,Untested,Gerät,C01,2025_00070
+Dc/Dc-omvandlar,Olika dc/dc-omvandlar moduler,Untested,Power supply,C01,2025_00071
+Servodrivare ,Parker Compax3,Tested,Gerät,C01,2025_00072
+iPad 64GB,,Untested,Miscellaneous,C01,2025_00073
+HP Compaq LA2306x skärm,"23""
+Vertikalt och horisontellt läge",Tested,Computer,C01,2025_00074
+4Gbps load balancer switch ,BIG-IP-3900,Lights up,Computer,C01,2025_00075
+Storno Radiotelephone CQM 700,Posten-gul,Untested,Nostalgia,C01,2025_00076
+MOSFETtestare,,Lights up,Instrument,C01,2025_00078
+Storno CQM 700 Radiotelephone,,Untested,Nostalgia,C01,2025_00079
+CMPSU-G50Tx,"Tx 650 w psu,
+100-240 V, 10A 50/60 Hz",Tested,Computer,B01,2025_00080
+Verktygslåda ,,Tested,Gerät,C01,2025_00081
+Olteonix B60-15R,"Nätaggregat, 60V 15A, verkar fungera ",Lights up,Power supply,A01,2025_00082
+Isel CNC stegmotordrivare,"3 kanaler, har mysteriekort som läser instruktioner från minneskort, dokumentation ej så bra",Lights up,Gerät,B01,2025_00083
+Vattenkokare,"Bain-Marie dubbel kokare 1,5 L
+",Tested,Miscellaneous,C01,2025_00084
+Linjär förstärkare ,"240-756MHz, 1W, 12dB. Hälsofrämjande berylliuminnehåll.",Untested,Radio,C01,2025_00085
+Modulation Meter,RACAL-DANA 9008,Lights up,Instrument,C01,2025_00086
+Mac ibook 1999,Mac laptop från 1999,Tested,Computer,A01,2025_00087
+kodak diabildsprojektor,carousel s-av 1010,Lights up,Gerät,C01,2025_00088
+AC-DC omvandlare 1,PSU AC,Lights up,Power supply,C01,2025_00089
+AC-DC omvandlare 2,PSU AC,Lights up,Power supply,C01,2025_00090
+metallskåp,Verkar vara relativt oanvänd ,Tested,Miscellaneous,C01,2025_00091
+AC-DC omvandlare 3,PSU AC,Lights up,Power supply,C01,2025_00092
+Broadcoam stratXGS,Nätverksswitch,Lights up,Miscellaneous,C01,2025_00093
+Avmagnetiseringsapparat Emag,För bandspelare ?,Lights up,Gerät,C01,2025_00094
+Nätaggregat Powerbox 3000,40V,Lights up,Power supply,B01,2025_00095
+ETS32PR Terminal server,"32 serial portar via RJ45, nätverksuppkopplad",Lights up,Gerät,C02,2025_00096
+Vhs-spelare,Panasonic NV-FJ606,Tested,Nostalgia,C02,2025_00097
+Vridtransformator 20A,"220V-(0-260V), kopplingsplatta sönder",Untested,Component,B01,2025_00098
+justerbart filter ljud frekvens ,"HP, LP, BP, BR",Tested,Instrument,B01,2025_00099
+Canon PIXMA TS8350,"Bläckstråleskrivare, med scanner, fungerade sista gången den använts",Tested,Gerät,B01,2025_00100
+Biltema kabelvinda,"20m, 1.5mm2",Tested,Miscellaneous,A01,2025_00101
+Kosatec Floppy till CD-brännare,,Lights up,Gerät,C02,2025_00102
+watt-mätare,,Untested,Instrument,C02,2025_00103
+Siemens Landis & Staefa PRV2.32,"Temperaturreglering, PLC ?",Lights up,Gerät,B01,2025_00104
+10-min klocka,Med sekundvisare ,Tested,Nostalgia,B01,2025_00105
+Radiobil,,Tested,Nostalgia,B01,2025_00106
+Kamera controller ,,Lights up,Instrument,C02,2025_00107
+Gm 70 Gr-midi converter,"Roland GM-70
+Gitarr till midi omvandlare. Inged ljud, Kräver speciell pickup",Lights up,Audio,B01,2025_00108
+Briggs & Stratton 3.5hp,,Tested,Gerät,B01,2025_00109
+Diabildsprojektor,Kodak EKTAPRO 5000,Lights up,Gerät,C02,2025_00110
+Preamp mixer Dx22N,Phonic mixer. 2 ingångar + mic. ,Doesn't work,Audio,C01,2025_00111
+CMPSU-750TX,"100-240 V, 10 A",Tested,Power supply,B01,2025_00112
+HP 8349B Microwave Amplifier ,Lyser upp,Lights up,Instrument,B01,2025_00113
+kabel-stripper o krimp,"Kirsten pp3
+Pneumatisk",Untested,Gerät,B01,2025_00114
+Fujitsu 24-wire dot matrix printer,"Låda medföljer, manual medförljer, Lapp medföljer som beskriver: ""24 nåls färgskrivare +färgband & papper. 1 nål avslagen > det blir en smal rand genom varje textrad (ev går det att skära ner skrivhuvudet till jämnhöjd?)",Untested,Miscellaneous,C02,2025_00115
+Wireless AC600,"Dual band, USB wifi? adapter.",Tested,Gerät,B01,2025_00116
+Oscilloscope,Hitachi Oscilloscope V-555 50MHz,Tested,Instrument,B01,2025_00117
+d-link gigabit switch,DGS-1224T,Lights up,Computer,C02,2025_00118
+Universal bridge TF2700,,Untested,Instrument,C02,2025_00119
+Hornsberg Flow and Temp meter,"Flow and temperature sensor Flex-F, 5 st.
+FLEX-F015HK045IFKKO",Untested,Instrument,C02,2025_00120
+BGA-3500 Rework system,"BGA/CSP placeringssystem (prisma, så man ser mönsterkort och IC:n), preheater, varmluftlödning",Tested,Gerät,B02,2025_00121
+D-Link gigabit switch,xStack DGS-312024PC,Lights up,Computer,C02,2025_00122
+Universal bridge TF 2700,100H lol,Untested,Instrument,C02,2025_00123
+Portable Turntable,Philips Stereo Portable Turntable,Untested,Audio,C02,2025_00124
+PM 7832 SWR-mätare,"115/230V
+50-400Hz
+15 VA",Lights up,Instrument,B01,2025_00125
+tecsis 3297 OEM Pressure sensor,"0-4 bar, 4-20 mA, 8-30 V
+Type3297.073.002",Untested,Instrument,C02,2025_00126
+Trio FM stereo generator SM-301,"Lyser, ger olika utslag på mätare för alla vred",Lights up,Instrument,C02,2025_00127
+Nätaggregat,±15V/3A,Lights up,Gerät,C02,2025_00128
+Gunn power supply,Phillips pm 7815,Tested,Power supply,B01,2025_00129
+Power Supply,Øltronix Power Supply B-402,Tested,Power supply,B02,2025_00130
+Tektronix TDS 524A Ocilloscope,", skärm trasig, lyser och fläkt kör 500MHz 500MS/s",Doesn't work,Instrument,C02,2025_00131
+PM 6680,High resolution programmable timer/ counter 225MHz,Lights up,Instrument,B01,2025_00132
+LAG-27 audio generator,,Tested,Instrument,B02,2025_00133
+DC Power Supply,"HY3003-3
+5V fixed 3A",Lights up,Power supply,C02,2025_00134
+Field Strength Meter,Tecnica Elettronica System Field Strength Meter,Tested,Instrument,A01,2025_00135
+SWR meter,PM 7833,Lights up,Instrument,A01,2025_00136
+PM 5519 TV pattern generator,Ger utslag på Ocilloscop  från video och trigger,Lights up,Instrument,B02,2025_00137
+Effektförstärkare,"Dc, 60 kHz 45 W",Lights up,Instrument,C02,2025_00138
+PM 5131,"Function generator, 0.1 Hz - 2 MHz",Doesn't work,Instrument,C02,2025_00139
+Data Tester,Wander & Goltermann Data Tester DT-10 D-0011,Tested,Instrument,A01,2025_00140
+PM 6456 stereo generator,100Mhz,Tested,Instrument,A01,2025_00141
+Cordless Drill,Bosch PSR 12 VE-2 Cordless Drill Machine,Untested,Instrument,C02,2025_00142
+Nätaggregat,"+/-15V, okänt märke",Untested,Gerät,C02,2025_00143
+Philips GM4140 bridge,Unclear,Untested,Gerät,C02,2025_00144
+Dual Display Multimeter,Fluke 45 Dual Display Multimeter,Tested,Instrument,A01,2025_00145
+Magic mystery device,Har bnc-kontakter,Lights up,Gerät,C02,2025_00146
+Nätagg 30V,Topward TPS-4000. Ger spänning.,Tested,Power supply,B02,2025_00147
+Cold Gas Sprayer,AGA Fryson Cold Gas Sprayer,Untested,Gerät,C02,2025_00148
+UNAOHM EP 114 B,"125 KHz, 128 MHz UNAOHM AM/FM signal generator, funkar ej",Doesn't work,Instrument,C02,2025_00149
+UNAOHM EP 114 B,"125 KHz, 128 MHz UNAOHM AM/FM signal generator, fungerar",Tested,Instrument,A01,2025_00150
+DC power supply,"420W
+550VA
+50/60Hz",Lights up,Power supply,B02,2025_00151
+Analyzing Recorder,Yokohama AR1100A Analyzing Recorder with extra printing rolls,Tested,Instrument,A01,2025_00152
+Dc Power supply,"5 V fixed, model gpc-3030",Tested,Power supply,B02,2025_00153
+Power supply,±15V,Untested,Power supply,C02,2025_00154
+GW GPC-3030 PSU,"Dual tracking with 5v fixed
+0-30 V",Tested,Instrument,B02,2025_00155
+Nätagg TPS-4000,only right side works,Lights up,Power supply,C02,2025_00156
+Traco MicroSwitcher,"TMS 06215
+±15VDC, 200mA",Untested,Gerät,C02,2025_00157
+Stabilised Power Supply,Farnell Stabilised Power Supply Type. TSV70 MK.2,Tested,Power supply,A02,2025_00158
+Power supply,Dual tracking dc power supply,Tested,Power supply,B02,2025_00159
+Triple DC PSU Dagatron 5033,"Fungerar, något löst inuti.",Tested,Power supply,C02,2025_00160
+HP 3478A Multimeter,Verkar funka skitbra,Tested,Instrument,A02,2025_00161
+DC power supply,"5V fixed
+GPC-3030",Tested,Power supply,B02,2025_00162
+Noise generator,Rhode and schwartz suf.2,Lights up,Instrument,C02,2025_00163
+Bofors,"Ingen aning, konstig kontakt",Untested,Instrument,C02,2025_00164
+Logic Analysis System,HP Logic Analysis System 16500C,Tested,Instrument,A02,2025_00165
+Pulse Generator,Philips Pulse Generator PM 5771,Doesn't work,Instrument,C02,2025_00166
+Power supply,Unknown,Lights up,Power supply,C02,2025_00167
+HP Universal counter,5334B. ,Tested,Instrument,A02,2025_00168
+Regulated Power Supply,Bofors AB Regulated Power Supply Lab 620D,Tested,Instrument,A02,2025_00169
+Regulated Power Supply,Bofors AB Regulated Power Supply Lab 620D,Tested,Instrument,B02,2025_00170
+Nätagg 30V,Topwand dual-tracking 6303AS,Tested,Power supply,B02,2025_00171
+Analyzing Recorder,Yokohama Analyzing Recorder AR1200,Tested,Instrument,B02,2025_00172
+Lödgerät,Weller WTCP-S,Lights up,Gerät,C03,2025_00173
+Logic Analyzer,HP Logic Analyzer 1650A,Tested,Instrument,B03,2025_00174
+Gasregulator,"Max 300 bar. Antagligen efter sitt utgångsdatum, beware.",Untested,Gerät,B02,2025_00175
+Agilent Oscilloscope,"MSO6034A mixed signal oscilloscope. megazoom 300mhz, all ports tested",Tested,Instrument,A02,2025_00176
+Pioneer Stereo receiver,"SX-1300, snålt testad men funkar.",Tested,Audio,C03,2025_00177
+Power Supply,Solatron Power Supply AS1411 Analogue Voltage,Tested,Instrument,A02,2025_00178
+Power supply unit,"4-7.5 V, power supply unit",Tested,Power supply,B03,2025_00179
+DC Power Supply,Philips DC Power Supply PE 1539,Tested,Instrument,B03,2025_00180
+Farnell E350,"Stabilized voltage supply, går upp till 500vdc olastad.",Tested,Power supply,B03,2025_00181
+Power supply Farnell LT30-1,2x0-30V 1A,Tested,Power supply,B03,2025_00182
+DC Power Supply,Øltronix DC Power Supply STABPAC 45,Tested,Power supply,B03,2025_00183
+OH projektor,"I bärbär väska, väldigt söt",Tested,Nostalgia,C03,2025_00184
+DC Power Supply,Øltronix DC Power Supply STABPAC 42,Untested,Power supply,C03,2025_00185
+HP system power supply,6038A 60V 10A 200W ,Lights up,Power supply,A02,2025_00186
+Stabilised Power Supply,Farnell Instruments Stabilised V/I Power Supply,Tested,Power supply,B03,2025_00187
+AC Millivoltmeter 2Hz-2MHz,"Philips PM 2454
+Verkar linjär i hela frekvensspannet",Tested,Instrument,B03,2025_00188
+Power Supply,Switchbox Power Supply SB 30-10,Lights up,Power supply,C03,2025_00189
+Soldering Station,Weller microtouchplus Soldering Station MT 1500,Tested,Instrument,B03,2025_00190
+Exhaust Valve Controller,MKS Exhaust Valve Controller Type 252 A,Lights up,Instrument,C03,2025_00191
+Dekadmotstånd x4,Inom spec på alla utom x10.,Tested,Gerät,C03,2025_00192
+Exhaust Valve Controller,MKS Exhaust Valve Controller Type 252 A,Lights up,Instrument,C03,2025_00193
+Lödkolv,?,Lights up,Gerät,C03,2025_00194
+Function Generator,HP Function Generator 3310A,Tested,Instrument,B03,2025_00195
+Gigabyte grafikkort,"Ser cool ut, GTX 670",Untested,Computer,C03,2025_00196
+AC-Millivoltmeter 2Hz-2MHz,"PM 2454
+Lyser men ger inte rätt värden ",Lights up,Instrument,C03,2025_00197
+Dekadmotstånd ,1.8-27kO,Tested,Gerät,C03,2025_00198
+Vridpotensometer,33-560 kohm,Tested,Gerät,C03,2025_00199
+Vridpotentiometer ,1k-100k,Tested,Gerät,C03,2025_00200
+Potentiometer 250kohm,,Tested,Gerät,C03,2025_00201
+dekadmotstånd 50k,,Tested,Gerät,C03,2025_00202
+Motståndsdekad E12,2W +-1% ,Tested,Gerät,C03,2025_00203
+dekadmotstånd 10ohm,1A,Tested,Gerät,C03,2025_00204
+Potentiometer 1Mohm,"1Mohm, 1 mA",Tested,Gerät,C03,2025_00205
+Rackagg 4 x -48V@20A,Efter PS9280X0007531,Untested,Power supply,C03,2025_00206
+Gigabit switch,D link DGS 1224t,Tested,Computer,B03,2025_00207
+WaveGuide Variable Attenuator,Philips PP 4150X WaveGuide Variable Attenuator,Untested,Instrument,B03,2025_00208
+Intel desktop board DH67BL,"i5-2400S
+Noctua kylare
+Be quiet nätagg",Untested,Computer,B03,2025_00209
+Sweep oscillator,"HP 8350B sweep oscillator + 8522 module
+
+2.4 GHz",Tested,Instrument,A02,2025_00210
+Flygplansantenn,Skymasts,Untested,Radio,C03,2025_00211
+Röntgenpapperskontrollator,"""Utrustning för materialprovning""
+AB Kontrollmetod",Tested,Gerät,C03,2025_00212
+"3ch NC Motordrivare, 10KW SEW ","MDP-90A-0100-503-4-000, Tre kanaler plus kontroller. Snackar någon form av fältbus",Lights up,Gerät,A02,2025_00213
+Set om 5st Ethernet Switchar ESC mCon 4080-B3V,"1st med 48VDC matning
+4st med 110VDC matning
+",Untested,Miscellaneous,C03,2025_00214
+Nätfilter ,"Trefas, 42A SEW NF0420-513",Untested,Gerät,C03,2025_00215
+Gigabit PoE-switch,"PSI-1010G-24V
+DIN-monterad. Har ""alarm control"". 2 x uplink",Untested,Miscellaneous,B03,2025_00216
+Gigabit PoE-switch,"PSI-1010G-24V
+DIN-monterad. Har ""alarm control"". 2 x uplink",Untested,Gerät,B03,2025_00217
+Gigabit PoE-switch,"PSI-1010G-24V
+DIN-monterad. Har ""alarm control"". 2 x uplink",Untested,Gerät,B03,2025_00218
+Set om ethernetswitchar,"2st HARTING ESC mCon 4080-B3V (110 VDC)
+1st HARTING ESC mCon 4080-BV1",Untested,Miscellaneous,C03,2025_00219
+AGV eller blivande lek-bil,"En AGV av carryBee K-typ 1. Modell CBK10B-2LMCP-C. Utrustad med blybatterier med laddare, upphetsande kontroll skåp, pinne som åker upp och ner (till för att lyfta gods) Lidar på fronten.  Den saknar dessvärre drivmotor för att köra frammåt. Men en ny fixas lätt av den händige. Uppgifter påstår att den inte var trasig, men ingen garanti. Har  enbart gått i forskningssyfte.",Untested,Gerät,A02,2025_00220
+Innbygnadslåda i metall,"Endast fantasin sätter gränserna till vad denna låda kan komma att åstadkomma 
+
+Ca 280x230x110 mm",Tested,Gerät,C03,2025_00221
+Icom IC-820H all band transiver,Har bott i klubbstugan ett bra tag men sett lite använding pga nya Radios.,Tested,Radio,A02,2025_00222
+HP 16500B Logic Analyzer,"
+Kommer tillsammans med en datormus.
+
+Kuriosa: Stödjer X Window Server för er som inte har migrerat till Wayland ännu",Lights up,Instrument,C03,2025_00223
+5st Pineng Universal USB backup power,"Smart powerbanks 20000 mAh
+",Untested,Miscellaneous,C03,2025_00224
+Radiokabel 2st,"Niklas hane -> 2.2-5 hane
+50ohm
+1.5m lång",Untested,Radio,C03,2025_00225
+RF effektmätare,"MODEL 4421 RF Power Meter kommer med två sensorer.
+1st Model 4023 100mW - 200W 900 MHz - 2500 MHz 1st Model 4022 0.3 - 1000 W 25 - 1000 MHz",Lights up,Instrument,A02,2025_00226
+Brushless DC fan max 12V variable,"Inkopplade i en biltema variabler power adapter, fungerar",Tested,Miscellaneous,C03,2025_00227
+XY plockare med feta motorer med broms,Den har 2x SEW PSF221/N/EK3 DS56M/B/TF/SM11 400v 5A motorerna funkade när de plockades ner,Untested,Gerät,B03,2025_00228
+Synology NAS,,Untested,Computer,C03,2025_00229
+PC,"CPU: i3-370M
+4GB RAM
+Övriga specs på botten",Oöppnad,Computer,B03,2025_00230
+Niklas kabel 1.5m,50ohm,Lights up,Radio,B03,2025_00231
+"ABB industrirobot, perfekt för vardagsrummet ","IRB1400/S4 M94, inkluderar robot+kontrollskåp+kabel (ej teachpedant). Roboten var i fungerande skick när den magasinerades. Inte testad nu pga avsaknad av pedant.",Other,Gerät,A02,2025_00232
+PLC Omron SYSMAC,SYSMAC C200HX CPU65-Z,Untested,Gerät,C03,2025_00233
+Cisco AP IW3702-AE,Ger felmeddelanden och är problematisk att konfigurera. Har varit öppen,Other,Computer,C03,2025_00234
+Kylfläkt,"Noctua NF-R8 redux-1800
+1800RPM
+",Oöppnad,Component,C03,2025_00235
+APC smx750i Smart-UPS X,Utan batterier,Untested,Gerät,B03,2025_00236
+Canon PIXMA TS205,Lyser upp och gör glada ljud utan att visa rött. Mycket fin skrivare för att skriva ut photo-mask till kretskortstillverkning,Lights up,Computer,A02,2025_00237
+Ender  3 pro,"Skrivare, XYZ testad, extruder otestad",Tested,Gerät,B03,2025_00238
+Trådlösa temperaturgivare,Kit med trådlösa temperaturgivar,Untested,Miscellaneous,C03,2025_00239
+Wifi-GSM larm till hemmet,Ny i låda. Finns en app och manual,Oöppnad,Miscellaneous,C03,2025_00240
+Digital V.SAT &QSPK Satellite Analyzer 930-2150Mhz,,Untested,Instrument,B04,2025_00241
+Funktionsgenerator,Exact Model 508 Log Sweep Generator,Tested,Instrument,A02,2025_00242
+27Mhz radiokontroll,Tillverkad i Västtyskland ,Untested,Radio,B04,2025_00243
+IC-735 ,Icom HF Transceiver,Tested,Radio,A02,2025_00244
+Digital powerclamp meter,"200V DC
+600V AC",Untested,Instrument,B04,2025_00245
+3st PTP Radiolänkar,3st Redline AN-80i (4.9 - 5.3 GHz) PTP radiolänkar ,Untested,Radio,B04,2025_00246
+Hemmabyggt nätagg,Typiskt hemmabygge. Verkar leverera spänning. Men reglagen på framsidan verkar inte göra något ,Lights up,Power supply,C04,2025_00247
+Analogt Nätagg,30 V / 3 A. 2 outputs,Lights up,Power supply,B04,2025_00248
+Dell Latitude E4200,"Saknar hårddisk, cmos batteri kan behöva bytas",Tested,Computer,B04,2025_00249
+Komponenterna full med diverse komponenter,,Other,Miscellaneous,C04,2025_00250
+IC-720,HF All band transceiver,Tested,Radio,A03,2025_00251
+Mitsubishi PLC,Mitsubishi A2NCPU,Untested,Miscellaneous,B04,2025_00252
+Varmvattenberedare,TGR80N/D 2KW 80L,Untested,Gerät,C04,2025_00253
+8st vakumrör,,Untested,Component,B04,2025_00254
+USA-transformator,"AB Erik Sundberg ST-78, sparkopplad enfas 220/127 75 VA",Doesn't work,Power supply,C04,2025_00255
+Träig Klocka,Mormor skulle uppskatta,Tested,Miscellaneous,C04,2025_00256
+Philips MINIWATT vakumrör  7st,Två är öppnade ,Oöppnad,Component,B04,2025_00257
+Steril Klocka,Passar bra till väntrummet i en vårdcentral,Tested,Miscellaneous,C04,2025_00258
+Dell optiplex  790,intel i5 CA 2010,Lights up,Computer,B04,2025_00259
+Escort EFC2201 Frequency Counter,"Attunuator och LPF
+",Tested,Instrument,B04,2025_00260
+Vridtransformator trefas,"Sandblom & Stohne, cirka 3 kVA",Tested,Instrument,B04,2025_00261
+Kit med 5st Diplexer Filter,80 - 2170 / 2400 - 2500 MHz,Untested,Radio,C04,2025_00262
+Lampa,Ungefär 279 THz,Lights up,Miscellaneous,C04,2025_00263
+Telemecanique Magelis Compact terminal,Contact display,Oöppnad,Miscellaneous,C04,2025_00264
+Steppingmotor 2st,,Untested,Miscellaneous,C04,2025_00265
+RF source,JEOL electron beam rf source,Untested,Gerät,C04,2025_00266
+RF source,JEOL electron beam rf source,Untested,Gerät,C04,2025_00267
+Radio Videoton R4902,"1968, lång-, mellan-, kortvåg. FM.",Doesn't work,Radio,C04,2025_00268
+Kamera med tillbehör,"funkar troligtvis för computer vison, pcie kort med fpga?",Untested,Video,A03,2025_00269
+15x IGBT-moduler,"1200V, 30A kont/70A peak, 215W. Trench IGBT4. Modelnr. FP35R12W2T4
+Tips: en modul ny går för 400kr",Oöppnad,Component,A02,2025_00270
+Kul RF grunka med många skruvar i sig,,Untested,Miscellaneous,C05,2025_00271
+Robotdammsugare s502,Den verkar duga damm och köra runt när man trycker start,Tested,Miscellaneous,C05,2025_00272
+Ultrasonic Pest repeller,,Oöppnad,Miscellaneous,C05,2025_00273
+15x IGBT-moduler,"1200V, 30A kont/70A peak, 215W. Trench IGBT4. Modelnr. FP35R12W2T4
+Tips: en enskild ny modul går för 400kr",Oöppnad,Component,A02,2025_00274
+HP ProLiant DL380 G7,"Server, inga diskar, okänt CPU, 96GiB DDR3",Lights up,Computer,B04,2025_00275
+Megaphone,,Untested,Miscellaneous,B04,2025_00276
+2ax CNC kontrollskåp,Kontrollerar 2axlar med Feta SEW motordrivare. Verkar dock vara 4st drivare i den. Har en PLC och diverse sliced I/O och kontroll skärm. Funkade innan magasinering. Högt komponentvärde sepparerat,Tested,Gerät,A02,2025_00277
+Duplexer 50-2200 / 2400-2500 MHz,Kathrein 78210264,Untested,Radio,C05,2025_00278
+RF source,JEOL electron beam rf source. includes circuit diagram!,Untested,Gerät,C05,2025_00279
+HP ProLiant DL380 G7,"Server, inga diskar, okänt CPU, 72GiB DDR3",Lights up,Computer,B04,2025_00280
+15x IGBT-modul,"1200V, 30A kont/70A peak, 215W. Trench IGBT4. Modelnr. FP35R12W2T4
+Tips: en enskild ny modul går för 400kr",Oöppnad,Component,A02,2025_00281
+Dell Poweredge R710,"48GiB RAM, 2st CPU av okänt typ",Lights up,Computer,B04,2025_00282
+RunCam ,,Untested,Video,C05,2025_00283
+Dell Power Edge R720,2x Xeon E5-2620 8GB DDR3 RAM. Inga diskar.,Tested,Computer,B04,2025_00284
+James Bond suitcase,Har nycklar,Lights up,Miscellaneous,A03,2025_00285
+JEOL e-beam control set,"Slot cards, control panel, JEOL BP-101899-01 and JEOL DEF MPY PB BP101939-01",Untested,Gerät,C05,2025_00286
+Biltema Wireless Thermometer Receiver,"Biltema Wireless Thermometer Receiver
+med Remote",Untested,Instrument,C05,2025_00287
+Dell PowerEdge R720,"2x Xeon E5-2620 (2.4 GHz 6 Core). 8 GB RAM. Inga diskar, 2 caddies.",Tested,Computer,B04,2025_00288
+Trimlist på rulle,17 mm,Untested,Component,C05,2025_00289
+Promise Vessraid 1840i,"ISCSI SAN, Inga diskar. Låter sådär gött högt.",Lights up,Computer,B04,2025_00290
+LG Monitor,FLATRON W2442PA,Untested,Video,C05,2025_00291
+Promise Vessraid 1840i,"ISCSI SAN, Inga diskar, Saknar några caddies. Funkar nog bra som hårtork ",Lights up,Computer,B04,2025_00292
+Synology Server ,RS812,Lights up,Computer,B04,2025_00293
+Synology Server,RS812,Lights up,Computer,B04,2025_00294
+IT-fläkt,fläkt från IT,Untested,Gerät,C04,2025_00295
+JEOL Power Supply,"25KG P-DEF PS
+Used in Cleanroom eBeam",Untested,Power supply,C05,2025_00296
+JEOL Power Supply,"25KG P-DEF PS
+Used in Cleanroom eBeam",Untested,Power supply,C05,2025_00297
+JEOL Power Supply,"25KG P-DEF PS
+Used in Cleanroom eBeam",Untested,Power supply,C05,2025_00298
+JEOL Power Supply,"25KG P-DEF PS
+Used in Cleanroom eBeam",Untested,Power supply,C05,2025_00299
+Atx chassi rackmount,Tom,Tested,Computer,C04,2025_00300
+Ibm system x3250 server,,Tested,Computer,C04,2025_00301
+Multimeter,"Gammal multimeter
+1.5-600 V
+3mA-6A",Tested,Gerät,C04,2025_00302
+Solid state FM AM radio ,"Aa batterier eller kabel för att driva den.
+Testad i en källare, brusar plockar upp signaler",Doesn't work,Miscellaneous,C04,2025_00303
+UNISEF SZ-2000,Högtalarna fungerar bra,Tested,Radio,C04,2025_00304
+"Stenkakespelare ""Electra""",Snurrar när man vevar. ,Untested,Gerät,B04,2025_00305
+United UTV4002R,"Portabel tv+radio
+Radio am/fm
+Ac: 230V 
+Dc: 15 V",Untested,Nostalgia,C04,2025_00306
+Oscilliskop LBO-514A,"Kanal 1 har bukla, kontakt behöver bytas ut. Känslig, antagligen lite glapp i",Tested,Instrument,C04,2025_00307
+Telequipment D61a Ocilloscop ,"Lapp medföljer:
+Kanal 1 behöver kalibreras
+Omkopplare behöver rengöras",Tested,Instrument,A03,2025_00308
+Tektronix Oscilloskop,100MHz,Tested,Instrument,B04,2025_00309
+Tektronix AFG 5101 funktions generator ,Programmerbar funktions generator ,Tested,Instrument,B04,2025_00310
+HP spectrum analyzer,8595E 9khz - 6.5ghz,Tested,Instrument,A03,2025_00311
+HP 3406A Bredbands voltmeter,"Probe saknas, andra något böjd",Lights up,Instrument,C04,2025_00312
+Funktionsgenerator - voltcraft 8202 2MHertz,Övre output ger endast fyrkantig signal,Tested,Instrument,B04,2025_00313
+Äldre vintage tv/radio,"Tillverkare Indesit
+Portabel tv
+2 VHF antenner, cirkulär UHF antenn, 1970s vibe",Untested,Nostalgia,C04,2025_00314
+BIMEX - 1000 ,Bil TV,Untested,Video,C04,2025_00315
+Heathkit HD-1250,Solid state dip meter kit,Untested,Gerät,C04,2025_00316
+Multimeter  - Fluke 09743,Testad med spänning,Tested,Instrument,C04,2025_00317
+Shinwa P-700 Komradio,"En parant liten komradio med texten ”made in Japan”
+Lite sliten botten.",Untested,Radio,C05,2025_00318
+PTS 500 Frequency Synthesizer,Oklart om den fungerar,Lights up,Instrument,C04,2025_00319
+Tektronix 7704A Ocilloscope system ,200Mhz,Tested,Instrument,A03,2025_00320
+Datong,Automatic R.F. Speech processor.,Lights up,Audio,C05,2025_00321
+högtalare,,Tested,Audio,C05,2025_00322
+Antik Transistortestare,"Från 1964
+Philips Type PM 6501",Untested,Nostalgia,C05,2025_00323
+Differential Multimeter,Medistor Model A-50 differential Multimeter,Untested,Instrument,C05,2025_00324
+Gammal Amperemeter,"0,5A och 0.25A mode
+Litet fel i mätning",Tested,Gerät,C04,2025_00325
+Ett paket Vitrohm resistorer ,Anrikt sorterade och begagnade resistorer från Danmark.,Untested,Component,C05,2025_00326
+Server chassi,"Server chassi, en fläkt.",Other,Computer,C05,2025_00327
+Gerätkoffer,4 st,Other,Miscellaneous,C04,2025_00328
+RF Pentod,"STC 5J/180E
+Datablad går att hitta online",Untested,Nostalgia,B04,2025_00329
+InFocus projektor,Ej HDMI,Tested,Video,B04,2025_00330
+Commander radio scanner,"Vhf/fm scanning
+Dc 12V/Ac 220 V",Untested,Radio,C04,2025_00331
+Läderväska,"""Äkta galon - skinnimitation!""
+
+Cirka 60*30*20",Lights up,Miscellaneous,B04,2025_00332
+Temp - tryck display,Omärkt,Lights up,Gerät,C05,2025_00333
+Arton och Perry's Amperemeter,"0-40A, ej mA
+Fungerar litet fel, testad på 3A
+Kan skruvas fast på väggen",Tested,Nostalgia,B04,2025_00334
+Auktionsrock,Julia ingår ej,Tested,Miscellaneous,C04,2025_00335
+STABPAC 15 OLTRONIX,Något typ av aggregat,Untested,Gerät,C04,2025_00336
+Diverse motstånd,Resistanser 18- 0.75 MOhm,Untested,Component,C04,2025_00337
+Hemmabyggt variabelt spänningsnätagg,Spartansk 0-15V. Fungerar något,Tested,Power supply,C05,2025_00338
+Universal Avometer AC och DC,"Fungerar bra för DC spänning och litet fel för Amps
+Annars otestad",Untested,Gerät,C04,2025_00339
+Kabelhanteringskena,"""Trassliga kabllar ger en trasslig själ"" - Hjalmar Söderberg",Tested,Miscellaneous,C04,2025_00340
+Tv alignment generator,Gammal radio alignment,Untested,Radio,C04,2025_00341
+Fläktar,Fläkt assembly.,Untested,Component,C05,2025_00342
+phillips volt- och ohmmeter,GM100,Tested,Instrument,C04,2025_00343
+Simpson 420 Funktions generator,Fungerar som den ska ,Tested,Instrument,C04,2025_00344
+Nätagg för Klystron,Nätaggregat för Klystron,Untested,Power supply,C04,2025_00345
+Universalsystem,"Metex Universal System MS-9150
+Den här gör allt! Räknare, multimeter, funktionsgenerator och nätaggregat i ett paket. Den fungerar till och med!",Tested,Instrument,A03,2025_00346
+Fsg 957/II,Signalgenerator för tv grejs?,Untested,Video,C04,2025_00347
+Beckhoff bält drivare,,Untested,Gerät,C04,2025_00348
+Pioneer ting,Oklart,Untested,Gerät,C04,2025_00349
+ESD - matta,,Tested,Gerät,B04,2025_00350
+Kub,"En kub som gör något, vad detta något är, är oklart.",Untested,Gerät,C04,2025_00351
+Avrora DRG fläkt 12V,,Untested,Miscellaneous,C04,2025_00352
+HP 8405A Vektorvoltmeter,"Vid liv, men ena proben är bruten",Lights up,Instrument,B04,2025_00353
+Phillips rullbandsspelare,"Modell EL 3511, Bruksanvisning medföljer",Untested,Audio,C05,2025_00354
+Fritöstermometer,"Testo 265 fritöstermometer
+Termometra din fritös",Lights up,Instrument,C04,2025_00355
+Termometer,,Tested,Instrument,C04,2025_00356
+PYE telecommunications Cambridge,"5894 GXV, oklart vad detta ting är.",Lights up,Gerät,C06,2025_00357
+termometer,testo 945,Lights up,Instrument,C06,2025_00358
+Sussy RF grunka,"Signalgenerator och Freq-multiplikator
+Schematics medföljer
+",Untested,Gerät,C06,2025_00359
+Decca Signal generator typ 306 serial no 471,Testinstrument/signal generator för att kalibrera decca mottagare,Untested,Radio,C06,2025_00360
+Field strength meter see,Sadelco,Untested,Instrument,C06,2025_00362
+DSP color camera 264K,,Untested,Video,B04,2025_00363
+Tektronix TLA-704 Logikanalysator,Kör windows XP. Logikprober medföljer,Tested,Instrument,A04,2025_00364
+Grammofon Modell 201,Snurrar fint. Orginal ojordad kontakt följer med. Fulkopplad för testning.,Tested,Audio,B04,2025_00365
+Gren spjäll,Använder en dc motor,Untested,Gerät,C06,2025_00366
+"Servo drivare, Beckhoff AX5203",Lite böjd mount,Untested,Gerät,A04,2025_00367
+Signallampor,Stål och lampor,Untested,Miscellaneous,C06,2025_00368
+Icp con buss converter 7520,,Oöppnad,Gerät,B04,2025_00369
+"Servo drivare, Beckhoff AX5203",,Untested,Gerät,A04,2025_00370
+"Servo drivare, Beckhoff AX5203",,Untested,Gerät,A04,2025_00371
+ARCHOS404,"Video and Audioplayer
+Audiorecorder
+Tv remote
+Stänger ibland av sig slumpmässigt, för övrigt fungerar",Lights up,Gerät,C06,2025_00372
+Tryckmättare -testo 6351,,Oöppnad,Instrument,C06,2025_00373
+Gul lampa,500 tusen candela ,Untested,Miscellaneous,C06,2025_00374
+Daqpad-6507,96-bit digital i/o for usb,Untested,Gerät,C06,2025_00375
+Media konverterare - canary cft-2061,,Lights up,Computer,C06,2025_00376
+Ac/ac-omvandlare,"Input: 200-240 V AC 20A
+Output: +48 V",Untested,Gerät,C06,2025_00377
+Mean well hrp 450 3.3,Output 3.3 volt / 90 A,Untested,Power supply,B04,2025_00378
+Optisk fiber ,"MPL15019/19A4-F
+På rulle, rätt mycket kvar.",Lights up,Miscellaneous,C06,2025_00379
+Universal counter 53131,"Reserve delar, dålig display",Doesn't work,Instrument,C06,2025_00380
+Batteriladdare - pap 1600,,Doesn't work,Gerät,C06,2025_00381
+Dämpare 30dB/100W,"Philco 662A-30
+50Ohm",Untested,Radio,C06,2025_00382
+Lila gameboy color med spel,"Nintendo gameboy 
+Kommer med 11 spel",Tested,Nostalgia,A04,2025_00383
+Högtalare - biltema,"Watt 60-120
+Frekvens: 70-7k",Untested,Audio,C06,2025_00384
+Biltema multimeter,Ingår strömklammer,Tested,Instrument,B04,2025_00385
+Nintendo Game & Watch Zelda,"Nintendo Game and watch med the legend of zelda. Fungerar.
+Ny producerad med usb-C
+Mycket rolig med tre spel och klockfunktioner",Tested,Computer,A04,2025_00386
+Gameboy advance med spel. ,"Gameboy advance I riktigt bra skick med fyra spel, V-rally-3, puyo pop, Mr driller 2, kurukuru kururin.
+Inte gulnad, ser nästan oanvänd ut, fullt 
+fungerande.",Tested,Computer,A04,2025_00387
+Zivan lifepo4 laddare,Laddare för 24v lifepo4 batterier. Laddström på 24A.ej testad,Untested,Gerät,C06,2025_00388
+Batteriladdare ,Micropower SMC-HF 48V@30A ,Lights up,Power supply,B04,2025_00389
+HP universal counter 5316A 100MHz,"Testat port A, fungerar bra.",Tested,Instrument,B04,2025_00390
+HP 8751A,"Har endast R, A och B utgångar. 5Hz-500MHz. Network analyzer",Tested,Instrument,B05,2025_00391
+Powerbox 3000 PSU,"2 kanaler, 40 V, 1.25 A. Diverse skavanker.",Lights up,Power supply,C06,2025_00392
+STSS-PS2V-02,"Soldering supply.
+230 V~50Hz 1.0 A",Lights up,Gerät,C06,2025_00393
+Automatic Peak Power Meter,"General Microwave, kör 10mW på 1GHz. Kabel ingår",Lights up,Instrument,A04,2025_00394
+oscilloskop,500 MHz 500 Ms/s. Har 50-ohm-ingång som option,Tested,Instrument,A04,2025_00395
+nts-200 network time server,,Lights up,Computer,C06,2025_00396
+Power supply,"Power supply för servrar. 
+Ac input: 100-127 V; 200-240V
+Dc output: 12Va,12 Vb,5 V",Untested,Computer,C06,2025_00397
+Tektronix TDS 754D Oscilloskop,"500MHz, Dålig kontrast och ljusstyrka på skärmen, går antaligen att fixa på insidan. Små artefakter vis mätning. ",Tested,Instrument,C06,2025_00398
+OltronixB 6030D/S,"0-30 V
+Power supply
+
+",Lights up,Gerät,C06,2025_00399
+8112A Pulse Generator,Lyser error,Doesn't work,Instrument,C06,2025_00400
+PSU med världens bästa ratt,3 kanaler. 30V. 1A.,Tested,Power supply,A04,2025_00401
+Tektronix TDS 754C ,"2GS/s, 500MHz, 4ch. Har 50Ohm-ingångar",Tested,Instrument,A04,2025_00402
+HP 59306A Relay Actuator,GPIB 16,Lights up,Instrument,C06,2025_00403
+nätverkskort 10G,Intel x550-t1,Untested,Computer,C06,2025_00404
+Benchtop power supply,"Tillverkare rnd. Modell 785-00039
+0-60 VDC,0-3 A, USBs,180W",Tested,Power supply,A04,2025_00405
+1G switch,Huawei quidway s2700,Lights up,Computer,C06,2025_00406
+Hp V.H.F Signal generator 480Megacycles,"Testad på Uncal RF output
+Verkar fungera på de flesta frekvens moder.
+Cool backlight
+",Tested,Nostalgia,B04,2025_00407
+HP8757 Scalar Network Analyser,"Bara ABR, inga kablar. Skärm ut fokus. Ska vara 10MHz-40GHz, -60 - +14dBm",Lights up,Instrument,B05,2025_00408
+Benchtop power supply,"Rnd 785-00039
+0-60 VDC, 0-3A,180 W, Usb",Tested,Power supply,A04,2025_00409
+personlig strålningsindikator,,Untested,Gerät,C06,2025_00410
+Tektronix TDS 220 Oscilloskop,"100 MHz. Båda kanalerna funkar. Skärmen är trasig, glitchande streck som rör på sig över hela skärmen",Tested,Instrument,C06,2025_00411
+Dell DN07RM-EC16,"Power distribution
+230VAC, single phase",Untested,Power supply,C06,2025_00412
+Basstation/utomhusrouter,Tsunami MP.11-R 5054-R,Untested,Radio,B04,2025_00413
+ZyXel Dimension ES-2008,"Ethernet switch
+100-240VAC,50/60Hz,0.8A max",Lights up,Gerät,C06,2025_00414
+Basstation/utomhusrouter,Tsunami MP.11-R 5054-R,Untested,Radio,B04,2025_00415
+benq 15w ramplampa usb-c,,Untested,Miscellaneous,C06,2025_00416
+Modulator,HP 8403A 50 KHz,Tested,Instrument,C06,2025_00417
+Justerbar mätkondensator,"Rohde & Schwarz KGM BN532
+Kapacitansområde: 100 pF till 1,11 µF
+Noggrannhet: ±2‰ ±3 pF
+Max spänning: 250 V DC eller 100 V AC",Untested,Instrument,C06,2025_00418
+2.4GHz högeffektresonator,Kokar vatten väl,Tested,Gerät,B05,2025_00419
+Mavometer,I dunno,Untested,Gerät,C06,2025_00420
+Megacycle meter,"Innehåller två rör, oklart vad detta är.",Untested,Gerät,C06,2025_00421
+2.4 GHz Högeffektsvattenkokare,"Mikro, fungerar, har tallrik. Rätt skitig på insidan",Tested,Gerät,C06,2025_00422
+JL copper electronics PPS-100,"Midi SMPTE SYNCHRONIZER  EVENT GENERATOR 
+19 tums rack för dig som har en musikstudio från 90-talet.",Lights up,Audio,C06,2025_00423
+Lodestar Dip meter,Drip meter,Untested,Gerät,C06,2025_00424
+Båtkommuninationspryl,"SEAFIX, 200-400kHz. Har kompass och morsealfabetet. Panel verkar vara uppochner",Untested,Radio,C06,2025_00425
+Nätagg 20-29V 1000W,"Utgång:
+20,0-29,0 V DC
+Max 1000 W / 41,7 A
+Ingång:
+115-230 V AC
+47-63 Hz
+12,0-6,5 A
+Max 1320 W",Untested,Power supply,C06,2025_00426
+Ström/spänningsmätare,Från 1930 💀💀,Doesn't work,Instrument,C06,2025_00427
+2x Nätagg 20-29V 1000W,"Utgång:
+20,0-29,0 V DC
+Max 1000 W / 41,7 A
+Ingång:
+115-230 V AC
+47-63 Hz
+12,0-6,5 A
+Max 1320 W",Untested,Power supply,C06,2025_00428
+5st data rom för synten yamaha dx7,"För dig som längtar tillbaka till 80-talet.
+Kanske inte funkar",Untested,Audio,C06,2025_00429
+5st data rom för synten yamaha dx7,"För dig som längtar tillbaka till 80-talet.
+Kanske inte funkar",Untested,Audio,C06,2025_00430
+5st data rom för synten yamaha dx7,"För dig som längtar tillbaka till 80-talet.
+Kanske inte funkar",Untested,Audio,C06,2025_00431
+5st data rom för synten yamaha dx7,"För dig som längtar tillbaka till 80-talet.
+Kanske inte funkar",Untested,Audio,C06,2025_00432
+2x Nätagg 20-29V 1000W,"Utgång:
+20,0-29,0 V DC
+Max 1000 W / 41,7 A
+Ingång:
+115-230 V AC
+47-63 Hz
+12,0-6,5 A
+Max 1320 W",Untested,Power supply,C06,2025_00433
+Rohde Shwarz CMU 200,"Universal Radio Communicatiom Tester
+GSM/3G/etc
+Mesta av self test passar",Tested,Radio,B05,2025_00434
+Logitech Z-5450 Digital 5.1,,Untested,Miscellaneous,B05,2025_00435
+Variac?,"stor, väger ett gäng kilon",Untested,Gerät,B06,2025_00436
+mycket coax,,Untested,Miscellaneous,C06,2025_00437
+Gammal multimeter,250 V 2A. Den fungerar inte men den är söt.,Doesn't work,Gerät,C06,2025_00438
+elgitarr för barn,"Saknar komponenter, spricka på baksida av kroppen. 
+",Doesn't work,Instrument,A04,2025_00439
+Biosealer  CR4 AA,"Från Ljungbergsä&kögel. Har inte sealern, men har eiverse komponenter på insidan",Untested,Gerät,C06,2025_00440
+A Flock of Birds,"80-tals VR-kit
+Chonky AF
+SÄPO-hatt ingår",Untested,Nostalgia,B06,2025_00441
+"UPS, oanvänd ","schneider electric SMT750RMI2U - UPS, SMT, Linjeinteraktiv, Rackmontering, 500W, 230V, 4x IEC 60320 C13",Lights up,Miscellaneous,B05,2025_00442
+Voltage input output pryl,"Äkta gerät
+Voltage purification?",Untested,Gerät,C06,2025_00443
+HP Pavilion Dator,"Core i7 4th gen, GeForce. Grafikkort endast för display, saknar integrated graphics.",Tested,Computer,C06,2025_00444
+industriell lufttorkare,,Untested,Nostalgia,A04,2025_00445
+HP8350A knappanel,Sveposcillator utan oscillatorn,Untested,Instrument,B05,2025_00446
+Sound air pm-001,"Vhf/fm programmable scanner.
+Vhf Lo: 77~88 MHz
+Vhf Hi: 161~172",Tested,Radio,B05,2025_00447
+Automatisk Kabelbeskärningsmaskin,schleuniger cc3950,Doesn't work,Gerät,C06,2025_00448
+Signal generator,"GPS Local Oscillator/signal Generator, 1.575 GHz",Tested,Instrument,C06,2025_00449
+Dell Dator,Intel Pentium 4. Skit dator.,Tested,Computer,C07,2025_00450
+Signal Generator,GSS6100 Local Oscillator/Signal generator. 1.575 GHz. Kunde inte testa men står på lappen att den funkar ej,Doesn't work,Instrument,C06,2025_00451
+Cordless Optical Air Mouse,USB connector,Oöppnad,Nostalgia,C06,2025_00452
+batteriladdare 24v,,Tested,Miscellaneous,C06,2025_00453
+Phantom Omni Haptic Device,"Input 18 VDC; 2,2 A
+Kommer med dedikerad PSU
+Lite kladdig penna",Untested,Instrument,C07,2025_00454
+Spacemouse Plus,Gammal logicad spacemouse. Ny i lådan,Oöppnad,Nostalgia,B06,2025_00455
+Rc helikopter,Innehåller även medföljande kontroller,Untested,Miscellaneous,C07,2025_00456
+Oscilloskop RM 06639,Oscilloskop. Nät 110 V,Tested,Instrument,C07,2025_00457
+Sovjetisk mini tv,"Bimex-1000
+Antenn finns, och den lyser, men signal hittas inte. ",Lights up,Nostalgia,B06,2025_00458
+Heathkit CRT tester,CRT tester. Används för att testa gammal CRT-tv,Lights up,Instrument,C07,2025_00459
+Dator,"Dator? Oklara specs, troligen socket 775. Startar ej, troligen trasig PSU.",Doesn't work,Computer,C07,2025_00460
+lödyxa?,När du vill löda och behöver vara vaksam mot dina fiender ,Other,Instrument,C07,2025_00461
+Coolt bös,"Fin skärm, trevliga knappar.",Other,Gerät,C07,2025_00462
+Server,"Chassi +4 nodes and PSU from Chalmers Vera. Each node has 32 cores Skylake, 96GB ram, empty drive bays with caddies. ",Tested,Computer,A04,2025_00463
+Automatic Wire Stripper,Scheuniger Semi-rigid. SR1000,Untested,Instrument,C07,2025_00464
+Ceramic item,Okänd. Om du vet så vet du?,Untested,Gerät,C07,2025_00465
+Tangentbord,"Tangentbord med 7 octaver, ser ut att vara hemmabygge.",Untested,Instrument,B06,2025_00466
+Funktions generator,Sweep modulation function generator. Oor-x Model 311. 10 MHz,Tested,Instrument,C07,2025_00467
+RF delay line,Untested,Untested,Miscellaneous,C07,2025_00468
+50 ohm termination 250w,Open circuit ,Doesn't work,Instrument,C07,2025_00469
+Rittal rackskåp,Rittal skåp 2m högt 2x 19tum på långsidan. Alltså två halvdjupa rack i samma skåp. I original emballage,Other,Miscellaneous,C07,2025_00470

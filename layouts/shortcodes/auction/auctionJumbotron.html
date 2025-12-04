@@ -1,0 +1,16 @@
+{{ $auctionConfig := $.Site.Data.AuctionConfig }}
+
+<section class="bar jumbotron background-image-fixed-2 no-mb text-center" style="background-image: url({{ $auctionConfig.jumbotronImg }});">
+  <div class="dark-mask"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h1 class="text-uppercase">ETA Auction {{ dateFormat "2006" $auctionConfig.date }}</h1>
+                <p class="lead">{{ dateFormat "January 2" $auctionConfig.date }} - {{ $auctionConfig.addressName }}</p>
+                <p class="text-center">
+                  <a href="/auction/all" class="btn btn-template-transparent-black btn-lg">Browse catalouge</a>
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
