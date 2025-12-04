@@ -707,7 +707,7 @@ Heathkit CRT tester,CRT tester. Används för att testa gammal CRT-tv,Lights up,
 Dator,"Dator? Oklara specs, troligen socket 775. Startar ej, troligen trasig PSU.",Doesn't work,Computer,C07,2025_00460
 lödyxa?,När du vill löda och behöver vara vaksam mot dina fiender ,Other,Instrument,C07,2025_00461
 Coolt bös,"Fin skärm, trevliga knappar.",Other,Gerät,C07,2025_00462
-Server,"Chassi +4 nodes and PSU from Chalmers Vera. Each node has 32 cores Skylake, 96GB ram, empty drive bays with caddies. ",Tested,Computer,A04,2025_00463
+Server,"Chassi +4 nodes and PSU from Chalmers Vera. Each node has 32 cores Skylake, 96GB ram, empty drive bays with caddies. A number of chassis will be sold.",Tested,Computer,A04,2025_00463
 Automatic Wire Stripper,Scheuniger Semi-rigid. SR1000,Untested,Instrument,C07,2025_00464
 Ceramic item,Okänd. Om du vet så vet du?,Untested,Gerät,C07,2025_00465
 Tangentbord,"Tangentbord med 7 octaver, ser ut att vara hemmabygge.",Untested,Instrument,B06,2025_00466
@@ -715,3 +715,116 @@ Funktions generator,Sweep modulation function generator. Oor-x Model 311. 10 MHz
 RF delay line,Untested,Untested,Miscellaneous,C07,2025_00468
 50 ohm termination 250w,Open circuit ,Doesn't work,Instrument,C07,2025_00469
 Rittal rackskåp,Rittal skåp 2m högt 2x 19tum på långsidan. Alltså två halvdjupa rack i samma skåp. I original emballage,Other,Miscellaneous,C07,2025_00470
+picapica,,Lights up,Component,A04,2025_00471
+Millivolt potentiometer,Verkar vara batteridriven. 0 till 100 mV. Batteri tomt.,Untested,Instrument,B06,2025_00472
+24-tum ritplatta,"Wacom DTK-2400/K. Ingen penna eller PSU, men går att driva från nätaggregat ",Tested,Gerät,A04,2025_00473
+Mobilladdare,6 st USB-A-uttag ,Lights up,Power supply,C07,2025_00474
+Dator,"Asus Pundit-R350, oklara specs",Lights up,Computer,C07,2025_00475
+DELL windows touchpad,"Windows 8 license medföljer
+32GB storage
+Intel Atom Z3740D",Oöppnad,Miscellaneous,B05,2025_00476
+funktionsgenerator TG315,3MHz. Square wave funkar dåligt,Tested,Instrument,C07,2025_00477
+Projektor BENQ PE7700,Fjärrkontroll ingår ,Tested,Video,B05,2025_00478
+Högtemperaturstermometer,"Lunds instrument AB, upp till 1500°C",Untested,Instrument,B05,2025_00479
+PS3 Slim,Strömkabel ingår,Lights up,Computer,B05,2025_00480
+Låda av akryl utan lock,Mindre än en halvmeter lång.,Tested,Miscellaneous,C07,2025_00481
+"Xbox 360 kontroller, trådad",,Untested,Miscellaneous,C07,2025_00482
+100W 20dB coax-dämpare,"UHF-kontakt ingång, BNC utgång. 50 ohm. Oklar frekvensområde. Bird electronics
+",Untested,Radio,B05,2025_00483
+GT Lime resväska,"Nyckel saknas. 
+Har varit i Amsterdam",Tested,Miscellaneous,C07,2025_00484
+Adapter 12V DC till 230V AC,150 W,Untested,Power supply,C07,2025_00485
+iPhone 4S vit,"Okänt skick, lyser om man kopplar till 5v, sladd medföljer kanske.",Lights up,Nostalgia,C07,2025_00486
+DVD-spelare SD-608BE,Får ej säljas vidare i Korea. ,Untested,Component,C07,2025_00487
+Logic Analyzer,Tektronix TLA 612 Logic Analyzer. Skärm visar ej något.,Lights up,Instrument,C07,2025_00488
+DVD-spelare AD5170A,Får troligen säljas vidare i Korea.,Untested,Component,C07,2025_00489
+Övervakningssetup,"Perfekt för den paranoide. 4x SD6 WV-CS580 kameror (1000x500px, 60FPS, 1-36x analog zoom, 1-720x digizoom, 360/180 grader rotation). PCIe-kort för datorkontroll",Tested,Video,B05,2025_00490
+DVD-spelare AD-5170A,,Untested,Component,C07,2025_00491
+Philips digital varvtalsmätare,"PR 9250
+",Untested,Instrument,C07,2025_00492
+Signal generator,"Farnell Syntheziser signal generator. 10Hz - 1GHz 
+PSG1000. Display funkar ej, något är trasigt, den är väldigt sketen.",Lights up,Instrument,C07,2025_00493
+Nätagg 12v 20A,,Tested,Power supply,C07,2025_00494
+"Ernst dynatest, hårdhetstestare","En fin hårdhetstestare från Ernst. Lyser och menyer fungerar. Manual finns flera testspetsar, batteri kasst men fungerar med laddare inkopplad. Kalibreringsplatta medföljer. Mycket fin, något otydliga instruktioner men går att lista ut hur den funkar för den händige",Lights up,Instrument,A04,2025_00495
+3D-skannersensor Occipital ST01,Med lightning-anslutning. Laddare har amerikansk väggkontakt.,Untested,Video,C07,2025_00496
+Brüel & Kjær kondensator microfon,"Fin halvtum kondensator microfon med kalibrering cert fån 1970. PSU saknas men kablar finns.
+4133/34",Untested,Audio,A04,2025_00497
+Honeywell Arc Flash protection full kit,"Ryggsäck
+Hjälm med lampa
+Balaclava
+Hanskar med påse size 9
+Overall size XL
+",Tested,Miscellaneous,SKYDD,2025_00498
+Diskmaskin,"Oanvänd Bosch diskmaskin 40cm bred, returtiden har nog gått ut",Untested,Gerät,DISK,2025_00499
+Honeywell Arc Flash Protection Kit,"Ryggsäck 
+Hjälm utan lampa
+Balaclava ",Tested,Miscellaneous,SKYDD,2025_00500
+Honeywell Arc Flash Protection kit,"Ryggsäck 
+Hjälm utan lampa
+Balaclava
+Overall size XL
+Hanskpåse utan hanskar",Tested,Miscellaneous,SKYDD,2025_00501
+Honeywell Arc Flash Protection Kit,"Ryggsäck
+Hjälm utan lampa
+Balaclava
+Hanskpåse utan hanskar",Tested,Miscellaneous,SKYDD,2025_00502
+Apple Mac LC,"A toy computer from ca 1998. 
+
+Everything works (well, as good as it worked at the time when it was new)
+
+- Apple Mac LC with a Presto 68040 accelerator-board from Sonnet.
+- Apple 13-inch color screen with stand.
+- Apple CD300 SCSI CD-player.
+- A box of kid’s games.
+- Swedish system MacOS 7.5.5.
+- Cables and accessories.
+
+Mac LC PS recapped.
+Mac LC some mainboard caps replaced.
+Mac LC internal SCSI drive replaced with a SCSI interface SD-memory card disk emulator.
+CD300 laser mechanical positioning successfully repaired.
+
+Issues: None, except that the Green in RGB sometimes disappears if you bend the video cable connector on the LC back. ",Tested,Computer,A04,2025_00503
+Snurrtelefon,"Televerket A002 9860/04
+Schema A002 8032-3
+Justerbar ringvolym
+",Tested,Nostalgia,C08,2025_00504
+Server,"SuperMicro server, no ram, no GPU, CPU: Intel xeon gold 6130",Lights up,Computer,C08,2025_00505
+Markerbot replicator 2x, 3d printer,Untested,Gerät,C08,2025_00506
+Makerbot replicator 2x,3d skrivare,Untested,Gerät,C08,2025_00507
+Spänningsplotter,"Graphtec Thermal Arraycoder WR7700
+Plottar 8 kanaler spänning vs tid
+4 rullar papper ingår",Tested,Instrument,A04,2025_00508
+Makerbot replicator 2x,3d skrivare,Untested,Gerät,C09,2025_00509
+Dator XP för rack,DVD läsare. Saknar hårddisk ,Lights up,Computer,C08,2025_00510
+Spellman EB6000,"Nätaggregat till elektronstråleapplikationer.
+-60kV 100mA ut, saknar kablage",Untested,Power supply,A06,2025_00511
+Spellman EB6000,"Nätaggregat till elektronstråleapplikationer.
+-60kV 100mA ut, saknar kablage",Untested,Power supply,A06,2025_00512
+Makerbot replicator 2x,3d skrivare,Untested,Gerät,C09,2025_00513
+Dator för rack,Windows 7 produktkod och nycklar ingår ,Lights up,Computer,C08,2025_00514
+Spänningsplotter,"Graphtec Thermal Arraycoder WR7700
+Plottar 8 kanaler spänning vs tid
+3 rullar papper och manual ingår",Tested,Instrument,A06,2025_00515
+Makerbot replicator 2,3d skrivare,Untested,Gerät,C09,2025_00516
+Trälåda med beslag,Cirka 40*40*10,Tested,Miscellaneous,C08,2025_00517
+Busch luftpump,"För under/övertrycksättning av kammare, ±110mbar",Untested,Gerät,A06,2025_00518
+Makerbot replicator 2,3d printer,Untested,Gerät,C09,2025_00519
+Trälåda med beslag,"Cirka 60*60*10
+",Tested,Miscellaneous,C08,2025_00520
+Busch luftpump ,"För under/övertrycksättning av kammare, ±110mbar",Untested,Gerät,A06,2025_00521
+(Skit)stor dator ,"Fujitsu Scaleo 800, oklar CPU, 256 mb DDR ram.",Lights up,Computer,C08,2025_00522
+Busch luftpump,"För under/övertrycksättning av kammare, ±110mbar",Untested,Gerät,A06,2025_00523
+CEP luftpump,"För under/övertrycksättning av kammare, ±78mbar",Untested,Gerät,A06,2025_00524
+Bcn 3d sigma,3d skrivare,Untested,Gerät,C09,2025_00525
+Regel papper strimmlare ,It shreds,Tested,Gerät,B06,2025_00526
+Wanhao Duplicator 4S,"Moddad med noctuafläkt.
+Senaste utskrift ingår",Untested,Gerät,C09,2025_00527
+Stor resistor,Den här har nog några ohm..,Untested,Gerät,C10,2025_00528
+Plåt för upphägning av dator,Den är gjord i metalll,Untested,Computer,C10,2025_00529
+Upphägning av dator under skrivbord,Den är gjord i metall. Dekoration.,Untested,Computer,C10,2025_00530
+Apple Macintosh Portable ,"Case, Startmanual, Laddare
+Ej testad",Untested,Computer,A05,2025_00531
+Clk-6020FW,Billig i drift. Slut på toner. Samsung,Untested,Gerät,C11,2025_00532
+Makerbot digitizer,"3D-skanner I bänkformat.
+Ser mycket väl omhändertagen ut, iaf lådan",Lights up,Gerät,B05,2025_00533
