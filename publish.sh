@@ -37,8 +37,6 @@ git checkout --orphan deploy
 git add -f ./public
 git mv ./public/* ./
 
-git clean -fd
-
 git commit --quiet -m "Deploy"
 git push --force --set-upstream origin deploy
 
