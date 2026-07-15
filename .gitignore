@@ -6,3 +6,6 @@
 # auction catalogue files
 # /assets/auction/
 # /content/auction/auctionItems.csv
+
+# hugo executable
+hugo
