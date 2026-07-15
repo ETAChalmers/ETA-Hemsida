@@ -11,7 +11,7 @@ To generate and deploy the website you need to be runing Linux or some other UNI
 
 **Note about versions (important)**: Hugo is very much NOT backwards compatible, meaning the website does **not** build if you use the latest version of Hugo. We target version 0.123.0, which you can either (recommended) download from [the github releases page](https://github.com/gohugoio/hugo/releases/tag/v0.123.0), or (not recommended) if you use the Nix package manager, you can run `nix develop -f shell.nix`.
 
-Both hugo and git is available for Windows, so it is also possible to devlope on a windows machine.
+Both hugo and git is available for Windows, so it is also possible to develop on a windows machine.
 
 To build and create a local server which you can examin the site with before deploying it. In the root of the repository run:
 
