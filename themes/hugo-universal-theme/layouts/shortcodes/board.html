@@ -1,0 +1,28 @@
+<section class="bar background-white no-mb" style="{{ safeCSS (.Get "style") }}">
+    <div class="heading text-center">
+    {{ if .Get "title" }}
+      <h2>{{ .Get "title" }}</h2>
+    {{else}}
+      <h2>The board</h2>
+    {{ end }}
+    </div>
+    <div class="container lead {{ if not (eq (.Get "text-center") "false") }}text-center{{ end }}">
+      {{ .Inner | markdownify }}
+    </div>
+    <div class="container team">
+      <div class="col-sm-12">
+          <div class="row">
+            {{ range $index, $element := sort .Site.Data.board "weight" }}
+              {{ if or (not ($.Get "position")) (eq ($.Get "position") $element.position) }}
+                <div class="col-sm-3 col-xs-6 team-member">
+                  <img class="avatar-image" alt="" src="{{ $element.avatar | absURL }}">
+                  <h3>{{ $element.name }}</h3>
+                  <p>{{ $element.position }}</p>
+                  <a href="mailto:{{ $element.email }}">{{ $element.email }}</a>
+                </div>
+              {{ end }}
+            {{ end }}
+        </div>
+  		</div>
+    </div>
+</section>

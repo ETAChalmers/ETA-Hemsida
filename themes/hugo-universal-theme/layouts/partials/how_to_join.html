@@ -1,0 +1,24 @@
+{{ if isset .Site.Params "how_to_join" }}
+{{ if .Site.Params.how_to_join.enable }}
+<section class="bar background-white no-mb">
+    <div class="container">
+
+        <div class="col-md-12">
+            <div class="heading text-center">
+                <h2>{{ .Site.Params.how_to_join.title }}</h2>
+            </div>
+
+            <p class="lead">
+              {{ .Site.Params.how_to_join.subtitle | markdownify }}
+            </p>
+            <p>
+              {{ .Site.Params.how_to_join.text | markdownify }}
+            </p>
+
+        </div>
+    </div>
+    <!-- /.container -->
+</section>
+<!-- /.bar -->
+{{ end }}
+{{ end }}
