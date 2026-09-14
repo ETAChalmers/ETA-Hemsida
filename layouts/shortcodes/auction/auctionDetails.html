@@ -15,19 +15,23 @@
             </div>
         </div>
         <div class="col-md-6">
-          <div id="openStreetMap">
+          {{ if $auctionConfig.showCoordinate }}
+              <div id="openStreetMap">
+          {{ end }}
             <!-- This is where the map will be -->
           </div>
 
           <script type="text/javascript">
             var coordinate = {{ $auctionConfig.coordinate }};
-            var map = L.map('openStreetMap', {detectRetina: true, dragging: !L.Browser.mobile, touchZoom: true, tap: false, scrollWheelZoom: false}).setView(coordinate, 17);
+            if ({{ $auctionConfig.showCoordinate }}) {
+                var map = L.map('openStreetMap', {detectRetina: true, dragging: !L.Browser.mobile, touchZoom: true, tap: false, scrollWheelZoom: false}).setView(coordinate, 17);
 
-            L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-              attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-            }).addTo(map);
+                L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                  attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+                }).addTo(map);
 
-            L.marker(coordinate).addTo(map);
+                L.marker(coordinate).addTo(map);
+            }
           </script>
 
         </div>
