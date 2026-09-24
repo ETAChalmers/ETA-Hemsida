@@ -1,0 +1,162 @@
+Title,Description,Status,Category,Location,ID
+PM5712 pulse generator,1 Hz-50MHz,Doesn't work,Instrument,C01,2026_00002
+PRUSA i3 MK3,3D printer.,Tested,Gerät,A01,2026_00003
+PC sans GPU,"DDR 4 16GB Corsair ram
+Skylake Processor",Lights up,Computer,A01,2026_00004
+Wii Guitar Advance,,Untested,Nostalgia,C01,2026_00005
+Bondtech mk3s ,Startar och unloadar filament,Tested,Gerät,A01,2026_00006
+Aosta DA-8090 Camera,Broken Display,Doesn't work,Video,C01,2026_00007
+Electrical Box,,Tested,Miscellaneous,C01,2026_00008
+Bensindunk 5L,,Tested,Miscellaneous,C01,2026_00009
+Steppermotordrivare ,Geckodrive G212 microstep drive.,Lights up,Gerät,C01,2026_00010
+skrivare,Brother HL-3140CW,Lights up,Computer,C01,2026_00011
+LCR-740 LCR BRIDGE,"0,1 – 1MΩ
+1 mF – 100 pF
+10 μH – 100 H
+×1 / ×10",Untested,Instrument,C01,2026_00012
+Mikroskop,"Fungerar, bra zoom, lampan funkar",Tested,Gerät,A01,2026_00013
+Asus Digi+ with cpu,"8x8GB Corsair 1600MHZ ddr3 
+Mystery 5000 series Intel cpu
+",Untested,Computer,A01,2026_00014
+Tokai TC-1603S,Kanske funkar om man ger den lite kärlek,Doesn't work,Radio,C01,2026_00015
+Oculus Rift,,Tested,Gerät,A01,2026_00016
+PM6300 RCL bridge,"1mH-10H, 10uF-10pF, 10ohm-1Mohm
+Active",Lights up,Instrument,B01,2026_00017
+MSI motherboard,"Mystery CPU, probably 5000 series
+4x4 GB ddr3 ram",Untested,Computer,C01,2026_00018
+Brother dcp-7065dn,Funkar? Testade inte print funktionen ,Tested,Gerät,B01,2026_00019
+Jadever JWE-15K,Våg med olika funktioner. Olika enheter. Lcd display.,Tested,Gerät,C01,2026_00020
+Bell,,Tested,Miscellaneous,B01,2026_00022
+USP-350-48 transformer,"100-240V AC to 48V DC 
+300 W",Untested,Component,C01,2026_00023
+HP 28C,Testad med en PSU och fungerar bra,Tested,Nostalgia,B01,2026_00024
+"3D skrivare, Flashforge Dreamer",Extruders can load and unload,Tested,Gerät,B01,2026_00025
+Vakuumventil,"Vet ej om den är tät, ventilen rör på sig",Tested,Gerät,B01,2026_00026
+TI-92 miniräknare ,Fungerar bra. Ej tenta godkänd.,Tested,Nostalgia,B01,2026_00028
+VR Phone kit,,Tested,Miscellaneous,C01,2026_00029
+Bluetooth Speaker,Chalmers branded,Tested,Audio,C01,2026_00030
+Fibre dual channel controller,"QLogic ISP2312
+Missing fan",Untested,Component,C01,2026_00031
+"Stanley kompressor 1,5 HK 6 L","Effekt 1.1 kW
+Väger 9 kg.
+5A strömförbrukning.",Tested,Gerät,B01,2026_00032
+King of 2004,"5 hårddiskar, diskdrive, mystery grafikkort, hammare till skala",Untested,Computer,C01,2026_00033
+HP-35 miniräknare ,Testat med strömkälla och fungerar bra.,Tested,Nostalgia,A01,2026_00035
+Keyboard keycaps,Fina nice keycaps med bra kvalitet,Tested,Component,B01,2026_00036
+Balance indicator gauge,,Doesn't work,Instrument,C01,2026_00037
+balance indicator gauge,,Doesn't work,Instrument,C01,2026_00038
+balance indicator gauge,,Doesn't work,Instrument,C01,2026_00039
+Diplexer filter,"30x MICROLAB/FXR 80-2170/2400-2500 MHz
+On ebay for 1000-2000kr ",Untested,Component,B01,2026_00040
+Zeiss reflektor eller lins,"Helt analog, förmodligen för mätning av något slag, via okänd våglängd av ljus
+Art-nr:600.100.011",Other,Gerät,C01,2026_00041
+Cisco 2900 router,"1Gb? Router, dubblar som en fläkt",Lights up,Gerät,C01,2026_00042
+Cisco security apparatus,"Probably a firewall
+100Mbit",Untested,Component,C01,2026_00043
+Cisco security spparatus,"Probably a firewall
+100Mbit",Untested,Component,C01,2026_00044
+Facit skrivmaskin,Bra skick. Bläck något tort men skriver. Alla funktioner verkar funka. Kommer i fin väska,Tested,Gerät,A01,2026_00045
+Dressler ara2000,"Antenn.
+50-2000 MHz  
+18-22 dB (NF: 2-3.5 dB)
+Aditya medföljer ej
+RX only!",Tested,Radio,A01,2026_00046
+macbook pro,Mid 2012 unibody? Laddare ingår,Untested,Computer,C01,2026_00048
+Anderson car amplifier,"4x50W RMS
+4x130W Max out
+4ohm",Untested,Audio,C01,2026_00049
+Michael Riedel Transformatorenbau,"Trafo, 3x500 Vac in, 24V 50A DV ut ",Untested,Power supply,C01,2026_00050
+"Timer/counter 120 MHz, Philips PM 6670",,Tested,Instrument,B01,2026_00051
+Power walker,"Egentligen UPS 
+8 portar för 250v 10A. Vaknar inte när man ger den ström och försöker slå igång",Doesn't work,Power supply,C01,2026_00052
+Casio Tonebank CT-636,Cool synth. Verkar ha kontakt för circuit bending?,Tested,Audio,C01,2026_00053
+Temperature selector,30 relays in one box ,Untested,Gerät,C01,2026_00054
+UPS,Uknown specs,Untested,Gerät,C01,2026_00055
+Melissa space heater,"Gives hear when powered , seems fully functioning
+220V 2000W
+",Tested,Miscellaneous,C01,2026_00056
+Kenwood 40MHz Oscilliscope,"Ingen chassi, saknar några rattar men går ändå att skruva på. Vissa spänningssteg är trasiga.",Tested,Instrument,B01,2026_00057
+Eaton UPS,5P1550i,Untested,Power supply,C01,2026_00058
+Daylight lightboard,Can be used to sketch on,Tested,Miscellaneous,C01,2026_00059
+"Timer/counter 120 MHz, Philips PM 6671",,Lights up,Instrument,C01,2026_00060
+Gaskromatografikolonn,"50 Hz
+Säkring 2A
+Kan kopplas ihop med andra gaskromatografimaskiner",Lights up,Gerät,B01,2026_00061
+GPS performance meter,,Oöppnad,Gerät,C01,2026_00062
+Datorfläkt Pure Wings 2,"Dimensioner 120x120x25
+Fan speed 1,500 rpm
+Noise level 19,2 db(A)",Oöppnad,Computer,C01,2026_00063
+Dator powersupply SFX POWER 2,"Av be quiet 300 W
+80-85% effektivitet",Untested,Computer,C01,2026_00064
+Effektmätarkit,"±120, 240, 400, 600V
+Max 6A
+Locket till fodralet är wack",Untested,Instrument,B01,2026_00065
+Switch D-Link DGS-105,5-port gigabit desktop switch,Oöppnad,Computer,C01,2026_00066
+ASUS 2.4/5 GHz gigabit WiFi router,"RT-AC5300. Strömadapter finns ej, behöver 19V 3.5A. ",Untested,Gerät,B01,2026_00067
+Interface converter,"ATC-820
+Interfaceconvertar mellan USB och RS485",Oöppnad,Miscellaneous,C01,2026_00068
+PoE injector,"24V 0,5 A av Ubiquiti",Untested,Gerät,C01,2026_00069
+Infrared extensometer,"10-1000mm
+Halvöppen på sidorna, akta dig",Untested,Gerät,C01,2026_00070
+Låda med grenuttag,"Grenuttag och skarvsladdar i blandade färger.
+3, 5 och 6 uttag.",Untested,Miscellaneous,C02,2026_00071
+Aktiv HF-antenn,"Dressler ARA 60, 40 kHz-60 MHz",Untested,Radio,C01,2026_00072
+Oscilloskop,"GDS-806S 60Mhz
+Verkar ta signalen, displayen och rattarna har sett bättre dagar",Lights up,Instrument,B01,2026_00073
+Full HD touchskärm,"iiyama ProLite T2252MSC. 10-point touch. 1920x1089, har DP, HDMI & VGA. ",Oöppnad,Video,A01,2026_00074
+Raspberrypi 3 B,Följer med adapter 8 gb SD kort samt skal. Har en lite trög microusb ingång samt tejp rester på skalet,Lights up,Computer,B01,2026_00075
+Nocturnal NF A4x10 Fan,"Liten fläkt, ny",Oöppnad,Computer,B01,2026_00076
+Portabel arbetslampa,"5000k, 38W LED
+10A brittisk kabel ingår",Oöppnad,Gerät,B01,2026_00077
+Nanokristallin toroidkärnor,"VACUUMSCHMELZE VITROPERM 500 F, 55x40x25 mm, 27st",Tested,Component,B01,2026_00078
+tc electronic DB8 MKII,tv transmission processor,Oöppnad,Gerät,B02,2026_00079
+Electrons Touch skärm,"FHD touch skärm IP66, extraordinärt tjockt glas.",Lights up,Video,B02,2026_00080
+"Skrivare, Xerox ColorQube 8570",,Doesn't work,Gerät,C02,2026_00081
+"Car audio amplifier, Andersson, CAA 2.1",720 W,Oöppnad,Audio,A01,2026_00082
+Be quiet! SFX POWER PSU,Max effekt 300 W,Tested,Power supply,B01,2026_00083
+19 inch rack thing,2 + spares. 1 contains a motorcontroller ish other contains something inductor like,Other,Miscellaneous,C02,2026_00084
+Giga rotorbord,"Väldigt tung, klarar nog mycket, fina lager.",Tested,Miscellaneous,B02,2026_00085
+"Car audio amplifier, Andersson, CAA 2.1",720 W,Untested,Audio,A01,2026_00086
+DC-DC omvandlare,"Mascot typ 9260
+In 48V, ut 12V",Untested,Component,B02,2026_00087
+Datorgerät från förr,"Kan ha använts i någon digitalteknik kurs förr i tiden. Mycket smaskiga switchar, knapppar och kontakter. Om man behöver göra enkel matematik på ett bökigt sätt.",Tested,Gerät,C02,2026_00088
+2x Noctua NF-A4x10 FLX,40x10mm ,Oöppnad,Miscellaneous,B01,2026_00089
+"SPID Elektronik, Rot1proG",,Lights up,Instrument,C02,2026_00090
+Älgen emperor P-3203,Gammal jaktradio från förr. 3 Watt med 3 kanaler. Kanske kan byggas om till något skoj?,Untested,Radio,C02,2026_00091
+Högtryckspump,"Gelins MD 9/80 högtryckspump. Motorn kör, ej testad med vatten i.",Lights up,Gerät,C02,2026_00092
+Display unit,"Input 5V
+RJ45 connector",Untested,Miscellaneous,C02,2026_00093
+Topward 8110 funktionsgenerator,"Frekvensområde 0.1 Hz till 2 MHz. 3 signalfunktioner. VCF 0 till +5V.
+",Tested,Instrument,B01,2026_00094
+Vattenfilter,"Den är blå, har möjligen lite vätska kvar, gjord i USA!",Lights up,Miscellaneous,C02,2026_00095
+Svetsslang för acetylen,"Gommaflex EN559, 20 bar",Untested,Miscellaneous,C02,2026_00096
+Philips PM 6603 ,Universal räknare med nixierör.  Räknarfunktionen har inte kunnat testas men kanske fungerar med en funktionsgenerator som har tillräckligt hög amplitud.,Lights up,Instrument,A01,2026_00097
+AC-AC omvandlare EU—>USA,"Omvandlare från 230V 50Hz propp till 110V uttag, 300W.",Tested,Power supply,C02,2026_00098
+Trälåda,Fin trälåda med överaskningskreta innuti,Other,Miscellaneous,C02,2026_00099
+Tektronix 221 Digital Storage Ocilloscope ,Båda kanalerna verkar fungerar bra.,Tested,Instrument,B01,2026_00100
+Luxoroarts varmluftstation,300W,Tested,Miscellaneous,C02,2026_00101
+Raytheon vågledare,"Mysterium vågledare, möjligtvis switch, från Raytheon",Untested,Gerät,C02,2026_00102
+"Mini Desktop, Fujitsu Futro S720","AMD GX-217GA 1.65 GHz, 2 GB RAM",Lights up,Computer,B01,2026_00103
+Husqvarna Trefasmotor,"Trefasmotor av något slag av märke Husqvarna. Okänd modell och topologi. Det står ""De-La Fräs"" med tuschpenna på sidan",Untested,Miscellaneous,C02,2026_00104
+Multifunktionell termos,"1,2L
+Handtaget är lite wack",Tested,Miscellaneous,C02,2026_00105
+Topward TFG-8101 funktionsgenerator,"Frekvensområde 0.1 Hz till 2MHz. 4 funktioner.
+Upp till 20Vpeak to peak.",Tested,Instrument,B01,2026_00106
+Nema 34 bldc servo,FL86BLS98-48V-30440B Motor E6-4096-394 encoder från usdigital och drivare,Untested,Component,B01,2026_00107
+IDL-600 Analog lab ,,Lights up,Gerät,C02,2026_00108
+MA 2405 dekad kondensator,0-100 nF kapacitansomfång.,Untested,Gerät,C03,2026_00109
+Modul från stor UPS,"Två kraftiga tyristorer, troligen 178 A, 600 V.
+Två kraftiga dioder, troligen 100 A, 800 V.",Untested,Gerät,C03,2026_00110
+AC-servo,MTS SFD230 115-260VAC servo,Untested,Gerät,C02,2026_00111
+dynscan 1805 frekvensräknare,"8 siffror
+5 Hz - 8 MHz
+200Vpk max",Tested,Instrument,B02,2026_00112
+NEC PC-9821 Ra43,Fin gammal datorgrunka,Untested,Computer,C03,2026_00113
+Electrons Touchskärm,"OBS trasig backlight
+FHD touch skärm IP66, extraordinärt tjockt glas.",Other,Video,C03,2026_00114
+Hylsnyckelsats,Saknar spärrskaft samt förlängare ,Lights up,Miscellaneous,C03,2026_00115
+transformator,220 -> 26 v,Lights up,Miscellaneous,C03,2026_00116
+Hamec HM203-4,20MHz oscilloskop. Flimrar på ett acceptabelt sätt. Behöver nog repareras.,Lights up,Instrument,C03,2026_00117
+Signalgenerator,Wavetek 180 signalgenerator 1MHz,Tested,Instrument,C03,2026_00118
+CRT monitor,"Shibaden CRT monitor, fungerar ej",Doesn't work,Video,C03,2026_00119
+Tektronix TM503,"Kit med multimeter, operationsförstärkare och funktionsgenerator. Maxfrekvens 1MHz",Lights up,Instrument,C03,2026_00120

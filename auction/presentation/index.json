@@ -1,0 +1,1154 @@
+{
+  "year": "2026",
+
+  "items": [
+      {
+        "id": "2026_00002",
+        "title": "PM5712 pulse generator",
+        "description": "1 Hz-50MHz",
+        "category": "Instrument",
+        "status": "Doesn't work"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00002_hud4a1cdbb77162f92c968d55079ad93b8_962917_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00003",
+        "title": "PRUSA i3 MK3",
+        "description": "3D printer.",
+        "category": "Gerät",
+        "status": "Tested"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00003_hu5cf3bc9839a79ad87eb724e510172648_699772_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00004",
+        "title": "PC sans GPU",
+        "description": "DDR 4 16GB Corsair ram\nSkylake Processor",
+        "category": "Computer",
+        "status": "Lights up"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00004_hud1cb4026e33884e29f4ae15ff0cc5c8d_1360950_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00005",
+        "title": "Wii Guitar Advance",
+        "description": "",
+        "category": "Nostalgia",
+        "status": "Untested"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00005_hu080ed03c124ecda227eeb706bcc5e70b_813183_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00006",
+        "title": "Bondtech mk3s ",
+        "description": "Startar och unloadar filament",
+        "category": "Gerät",
+        "status": "Tested"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00006_hu82e8aa15b29ea7082816542c358e3d55_1724002_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00007",
+        "title": "Aosta DA-8090 Camera",
+        "description": "Broken Display",
+        "category": "Video",
+        "status": "Doesn't work"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00007_hu2a323bb7162a16380e77926625bd0ea0_817377_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00008",
+        "title": "Electrical Box",
+        "description": "",
+        "category": "Miscellaneous",
+        "status": "Tested"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00008_hu3f27e75ce16080c20e1b179e61b7148f_799505_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00009",
+        "title": "Bensindunk 5L",
+        "description": "",
+        "category": "Miscellaneous",
+        "status": "Tested"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00009_hu680df4ef6c453e17a648b84d4edea08c_828621_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00010",
+        "title": "Steppermotordrivare ",
+        "description": "Geckodrive G212 microstep drive.",
+        "category": "Gerät",
+        "status": "Lights up"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00010_hu21bfbe5cae84b497d7168b656d915290_691234_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00011",
+        "title": "skrivare",
+        "description": "Brother HL-3140CW",
+        "category": "Computer",
+        "status": "Lights up"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00011_hu86ab6436fb1dabdbf90f9dc61e40a39f_487286_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00012",
+        "title": "LCR-740 LCR BRIDGE",
+        "description": "0,1 – 1MΩ\n1 mF – 100 pF\n10 μH – 100 H\n×1 / ×10",
+        "category": "Instrument",
+        "status": "Untested"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00012_hu92b7af338770369c8b69bcad1d23994a_1072415_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00013",
+        "title": "Mikroskop",
+        "description": "Fungerar, bra zoom, lampan funkar",
+        "category": "Gerät",
+        "status": "Tested"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00013_huf33a4df2aca24b04df348c283e4ba38f_1523256_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00014",
+        "title": "Asus Digi+ with cpu",
+        "description": "8x8GB Corsair 1600MHZ ddr3 \nMystery 5000 series Intel cpu\n",
+        "category": "Computer",
+        "status": "Untested"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00014_hu1b920f94eb2abe72dd4770f032e77c96_2042993_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00015",
+        "title": "Tokai TC-1603S",
+        "description": "Kanske funkar om man ger den lite kärlek",
+        "category": "Radio",
+        "status": "Doesn't work"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00015_huc3d357f58da186dcdf7e4108ba6b651f_1566382_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00016",
+        "title": "Oculus Rift",
+        "description": "",
+        "category": "Gerät",
+        "status": "Tested"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00016_hud49450aeb820aad284c688459e7c25e4_574330_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00017",
+        "title": "PM6300 RCL bridge",
+        "description": "1mH-10H, 10uF-10pF, 10ohm-1Mohm\nActive",
+        "category": "Instrument",
+        "status": "Lights up"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00017_hu69e93b1def071e6e8e60e8edc9af8e53_1189419_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00018",
+        "title": "MSI motherboard",
+        "description": "Mystery CPU, probably 5000 series\n4x4 GB ddr3 ram",
+        "category": "Computer",
+        "status": "Untested"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00018_hub35b1219601b77178b49b232b09f5cc7_1933118_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00019",
+        "title": "Brother dcp-7065dn",
+        "description": "Funkar? Testade inte print funktionen ",
+        "category": "Gerät",
+        "status": "Tested"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00019_hu66648f0fe9cbd42f30397b3e039eed65_1719024_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00020",
+        "title": "Jadever JWE-15K",
+        "description": "Våg med olika funktioner. Olika enheter. Lcd display.",
+        "category": "Gerät",
+        "status": "Tested"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00020_hu10d3e3f41e6994938b905285162772a2_901677_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00022",
+        "title": "Bell",
+        "description": "",
+        "category": "Miscellaneous",
+        "status": "Tested"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00022_hu2560ca54538a5b5126a08d7d76aa6072_847288_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00023",
+        "title": "USP-350-48 transformer",
+        "description": "100-240V AC to 48V DC \n300 W",
+        "category": "Component",
+        "status": "Untested"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00023_hub0d4a50bc269cb2db4a54999481350ba_1471662_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00024",
+        "title": "HP 28C",
+        "description": "Testad med en PSU och fungerar bra",
+        "category": "Nostalgia",
+        "status": "Tested"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00024_hu22cec7ebf0c899d89db225a5f4bfae5f_1343081_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00025",
+        "title": "3D skrivare, Flashforge Dreamer",
+        "description": "Extruders can load and unload",
+        "category": "Gerät",
+        "status": "Tested"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00025_hu5f12dcc87ac1f23aa80707397126a217_936759_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00026",
+        "title": "Vakuumventil",
+        "description": "Vet ej om den är tät, ventilen rör på sig",
+        "category": "Gerät",
+        "status": "Tested"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00026_hu4ac282cf8133ebcc563990845fd42545_602883_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00028",
+        "title": "TI-92 miniräknare ",
+        "description": "Fungerar bra. Ej tenta godkänd.",
+        "category": "Nostalgia",
+        "status": "Tested"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00028_huf20374f174f3c7bf3ef9e07c574f6417_1287513_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00029",
+        "title": "VR Phone kit",
+        "description": "",
+        "category": "Miscellaneous",
+        "status": "Tested"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00029_huc8f988084d6ac277f613d6917ebe432b_834941_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00030",
+        "title": "Bluetooth Speaker",
+        "description": "Chalmers branded",
+        "category": "Audio",
+        "status": "Tested"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00030_hu0769ddcd635bb642fb883b49b792347a_983555_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00031",
+        "title": "Fibre dual channel controller",
+        "description": "QLogic ISP2312\nMissing fan",
+        "category": "Component",
+        "status": "Untested"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00031_hufb48b2d44255a6817a56a6dfe88a3296_1506775_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00032",
+        "title": "Stanley kompressor 1,5 HK 6 L",
+        "description": "Effekt 1.1 kW\nVäger 9 kg.\n5A strömförbrukning.",
+        "category": "Gerät",
+        "status": "Tested"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00032_hu305335c6f6daa7e66caac01f559622c9_841337_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00033",
+        "title": "King of 2004",
+        "description": "5 hårddiskar, diskdrive, mystery grafikkort, hammare till skala",
+        "category": "Computer",
+        "status": "Untested"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00033_hu9a97df88c29a3a8e690cd5df137aa712_1545408_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00035",
+        "title": "HP-35 miniräknare ",
+        "description": "Testat med strömkälla och fungerar bra.",
+        "category": "Nostalgia",
+        "status": "Tested"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00035_hufa0a2c8c6bafa34377788e2a7bd78c9e_1224055_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00036",
+        "title": "Keyboard keycaps",
+        "description": "Fina nice keycaps med bra kvalitet",
+        "category": "Component",
+        "status": "Tested"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00036_hu97305f3f7fdf8194c9adb91a9944be16_842026_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00037",
+        "title": "Balance indicator gauge",
+        "description": "",
+        "category": "Instrument",
+        "status": "Doesn't work"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00037_hu98bd874f84367c2ac7b5c46f2651e559_709816_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00038",
+        "title": "balance indicator gauge",
+        "description": "",
+        "category": "Instrument",
+        "status": "Doesn't work"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00038_huc262159d2be7f8bbb32a6c01f5d50dd6_730171_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00039",
+        "title": "balance indicator gauge",
+        "description": "",
+        "category": "Instrument",
+        "status": "Doesn't work"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00039_hufc799ab18a05e3e3dd2fe80b39eddaca_788939_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00040",
+        "title": "Diplexer filter",
+        "description": "30x MICROLAB/FXR 80-2170/2400-2500 MHz\nOn ebay for 1000-2000kr ",
+        "category": "Component",
+        "status": "Untested"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00040_huc6fee8effb9f3c93056eef41f0288f82_841936_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00041",
+        "title": "Zeiss reflektor eller lins",
+        "description": "Helt analog, förmodligen för mätning av något slag, via okänd våglängd av ljus\nArt-nr:600.100.011",
+        "category": "Gerät",
+        "status": "Other"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00041_huad6449ae3aaddabd65e129c4251c23a5_1636428_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00042",
+        "title": "Cisco 2900 router",
+        "description": "1Gb? Router, dubblar som en fläkt",
+        "category": "Gerät",
+        "status": "Lights up"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00042_hu3e6bb0ee736a0bca03cba8408b218c3a_1498158_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00043",
+        "title": "Cisco security apparatus",
+        "description": "Probably a firewall\n100Mbit",
+        "category": "Component",
+        "status": "Untested"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00043_hu4670d7c0925e0c3795a2acee07d94055_1518681_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00044",
+        "title": "Cisco security spparatus",
+        "description": "Probably a firewall\n100Mbit",
+        "category": "Component",
+        "status": "Untested"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00044_hu39808387e356dc6fa4a7d02161b2a12b_1499025_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00045",
+        "title": "Facit skrivmaskin",
+        "description": "Bra skick. Bläck något tort men skriver. Alla funktioner verkar funka. Kommer i fin väska",
+        "category": "Gerät",
+        "status": "Tested"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00045_hu8e9cda879291046e6b46a43fcadd1905_1167191_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00046",
+        "title": "Dressler ara2000",
+        "description": "Antenn.\n50-2000 MHz  \n18-22 dB (NF: 2-3.5 dB)\nAditya medföljer ej\nRX only!",
+        "category": "Radio",
+        "status": "Tested"
+         
+      }
+      ,{
+        "id": "2026_00048",
+        "title": "macbook pro",
+        "description": "Mid 2012 unibody? Laddare ingår",
+        "category": "Computer",
+        "status": "Untested"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00048_hud351c2c4c93f3f76d56ed9abc1d87bc2_721879_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00049",
+        "title": "Anderson car amplifier",
+        "description": "4x50W RMS\n4x130W Max out\n4ohm",
+        "category": "Audio",
+        "status": "Untested"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00049_hu76283eacd9c9412d0d171117b4e17b14_814377_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00050",
+        "title": "Michael Riedel Transformatorenbau",
+        "description": "Trafo, 3x500 Vac in, 24V 50A DV ut ",
+        "category": "Power supply",
+        "status": "Untested"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00050_hub2fddd978b3ed860e1cdcb9389931eb4_1837019_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00051",
+        "title": "Timer/counter 120 MHz, Philips PM 6670",
+        "description": "",
+        "category": "Instrument",
+        "status": "Tested"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00051_hu75bd5c34e4c5117b65a9be9e86c58e6f_780743_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00052",
+        "title": "Power walker",
+        "description": "Egentligen UPS \n8 portar för 250v 10A. Vaknar inte när man ger den ström och försöker slå igång",
+        "category": "Power supply",
+        "status": "Doesn't work"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00052_hu6b363f858acfc66e240888d1bcc36fac_1535600_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00053",
+        "title": "Casio Tonebank CT-636",
+        "description": "Cool synth. Verkar ha kontakt för circuit bending?",
+        "category": "Audio",
+        "status": "Tested"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00053_hu576c4336c29057df6c6b19040d2526fd_1441716_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00054",
+        "title": "Temperature selector",
+        "description": "30 relays in one box ",
+        "category": "Gerät",
+        "status": "Untested"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00054_hu9d9d1aef98d84be962dc440c8b38d1eb_674992_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00055",
+        "title": "UPS",
+        "description": "Uknown specs",
+        "category": "Gerät",
+        "status": "Untested"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00055_hua24b052d02d4b358a90376f8bc5abb95_1575561_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00056",
+        "title": "Melissa space heater",
+        "description": "Gives hear when powered , seems fully functioning\n220V 2000W\n",
+        "category": "Miscellaneous",
+        "status": "Tested"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00056_hu1eb329948e1b6448c9b19d83551d6e3c_1537113_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00057",
+        "title": "Kenwood 40MHz Oscilliscope",
+        "description": "Ingen chassi, saknar några rattar men går ändå att skruva på. Vissa spänningssteg är trasiga.",
+        "category": "Instrument",
+        "status": "Tested"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00057_hud5f41c544e28116d3926baaaa1e7d10a_1150606_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00058",
+        "title": "Eaton UPS",
+        "description": "5P1550i",
+        "category": "Power supply",
+        "status": "Untested"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00058_hu8766bfcfab1aacacf19751465fa246c5_558375_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00059",
+        "title": "Daylight lightboard",
+        "description": "Can be used to sketch on",
+        "category": "Miscellaneous",
+        "status": "Tested"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00059_hu3ecaac27ae9f77092261513d0a8b76f1_1550315_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00060",
+        "title": "Timer/counter 120 MHz, Philips PM 6671",
+        "description": "",
+        "category": "Instrument",
+        "status": "Lights up"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00060_hud371abfbfdec32de7d48dded0d8e2623_837008_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00061",
+        "title": "Gaskromatografikolonn",
+        "description": "50 Hz\nSäkring 2A\nKan kopplas ihop med andra gaskromatografimaskiner",
+        "category": "Gerät",
+        "status": "Lights up"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00061_hud2b8425480f5df48ec2fa893c97f6f41_727383_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00062",
+        "title": "GPS performance meter",
+        "description": "",
+        "category": "Gerät",
+        "status": "Oöppnad"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00062_hue3217eb2d10ff2b1d1592d406f1912f9_888492_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00063",
+        "title": "Datorfläkt Pure Wings 2",
+        "description": "Dimensioner 120x120x25\nFan speed 1,500 rpm\nNoise level 19,2 db(A)",
+        "category": "Computer",
+        "status": "Oöppnad"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00063_hubd86bf230db9ddec0539e72e177aa62c_859266_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00064",
+        "title": "Dator powersupply SFX POWER 2",
+        "description": "Av be quiet 300 W\n80-85% effektivitet",
+        "category": "Computer",
+        "status": "Untested"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00064_hua54d7142d18fa981d066399bf9c0cd56_1365432_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00065",
+        "title": "Effektmätarkit",
+        "description": "±120, 240, 400, 600V\nMax 6A\nLocket till fodralet är wack",
+        "category": "Instrument",
+        "status": "Untested"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00065_hu928b83fd66ae24265bfe1bc474507c44_715540_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00066",
+        "title": "Switch D-Link DGS-105",
+        "description": "5-port gigabit desktop switch",
+        "category": "Computer",
+        "status": "Oöppnad"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00066_hu543fc1732f524079e7555152a65800ce_1271968_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00067",
+        "title": "ASUS 2.4/5 GHz gigabit WiFi router",
+        "description": "RT-AC5300. Strömadapter finns ej, behöver 19V 3.5A. ",
+        "category": "Gerät",
+        "status": "Untested"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00067_hu23552578e9d56a2fd35c371be63e1b39_1248475_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00068",
+        "title": "Interface converter",
+        "description": "ATC-820\nInterfaceconvertar mellan USB och RS485",
+        "category": "Miscellaneous",
+        "status": "Oöppnad"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00068_hufdf8bbe33f594ace17c744097d3de43a_685704_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00069",
+        "title": "PoE injector",
+        "description": "24V 0,5 A av Ubiquiti",
+        "category": "Gerät",
+        "status": "Untested"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00069_hu1cc2933d9bdcc123c05cf8b6e92c929c_1230902_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00070",
+        "title": "Infrared extensometer",
+        "description": "10-1000mm\nHalvöppen på sidorna, akta dig",
+        "category": "Gerät",
+        "status": "Untested"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00070_hu16a6abbc76522f0902f08a85aa1d03d7_684278_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00071",
+        "title": "Låda med grenuttag",
+        "description": "Grenuttag och skarvsladdar i blandade färger.\n3, 5 och 6 uttag.",
+        "category": "Miscellaneous",
+        "status": "Untested"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00071_huc654ec22a7d2365ef6f7725fcc58cbbd_1345787_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00072",
+        "title": "Aktiv HF-antenn",
+        "description": "Dressler ARA 60, 40 kHz-60 MHz",
+        "category": "Radio",
+        "status": "Untested"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00072_huda3bf371d2f0d70f5d84e7418ee09db9_1272770_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00073",
+        "title": "Oscilloskop",
+        "description": "GDS-806S 60Mhz\nVerkar ta signalen, displayen och rattarna har sett bättre dagar",
+        "category": "Instrument",
+        "status": "Lights up"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00073_hufc985193ef62473ebe22edf87efba709_683991_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00074",
+        "title": "Full HD touchskärm",
+        "description": "iiyama ProLite T2252MSC. 10-point touch. 1920x1089, har DP, HDMI \u0026 VGA. ",
+        "category": "Video",
+        "status": "Oöppnad"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00074_hu624ba6234dc8be68a05bc92c230d15c0_1016754_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00075",
+        "title": "Raspberrypi 3 B",
+        "description": "Följer med adapter 8 gb SD kort samt skal. Har en lite trög microusb ingång samt tejp rester på skalet",
+        "category": "Computer",
+        "status": "Lights up"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00075_hu253662f07a267b261e1ad88245adb78a_1489992_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00076",
+        "title": "Nocturnal NF A4x10 Fan",
+        "description": "Liten fläkt, ny",
+        "category": "Computer",
+        "status": "Oöppnad"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00076_hue1a2f2b33461d4c186ded17734870c5d_1653491_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00077",
+        "title": "Portabel arbetslampa",
+        "description": "5000k, 38W LED\n10A brittisk kabel ingår",
+        "category": "Gerät",
+        "status": "Oöppnad"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00077_hud5e3d0d6838ffbc6de432b7dce09b6e7_745129_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00078",
+        "title": "Nanokristallin toroidkärnor",
+        "description": "VACUUMSCHMELZE VITROPERM 500 F, 55x40x25 mm, 27st",
+        "category": "Component",
+        "status": "Tested"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00078_hue08c7c3d47d5870e610c23cb8b028628_1372577_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00079",
+        "title": "tc electronic DB8 MKII",
+        "description": "tv transmission processor",
+        "category": "Gerät",
+        "status": "Oöppnad"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00079_hu912a3e7468393e5acb2a821cb8455736_573126_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00080",
+        "title": "Electrons Touch skärm",
+        "description": "FHD touch skärm IP66, extraordinärt tjockt glas.",
+        "category": "Video",
+        "status": "Lights up"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00080_hu585fc53104b5379269f8afc7d80b870b_596416_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00081",
+        "title": "Skrivare, Xerox ColorQube 8570",
+        "description": "",
+        "category": "Gerät",
+        "status": "Doesn't work"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00081_huf27fe32a61553cc7d180f7a970efd32c_1389286_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00082",
+        "title": "Car audio amplifier, Andersson, CAA 2.1",
+        "description": "720 W",
+        "category": "Audio",
+        "status": "Oöppnad"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00082_hu9c3058900823589e6072a284e48a7a7f_1128062_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00083",
+        "title": "Be quiet! SFX POWER PSU",
+        "description": "Max effekt 300 W",
+        "category": "Power supply",
+        "status": "Tested"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00083_hu17830ea1e81fbf4ee04998368f4828c1_954231_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00084",
+        "title": "19 inch rack thing",
+        "description": "2 + spares. 1 contains a motorcontroller ish other contains something inductor like",
+        "category": "Miscellaneous",
+        "status": "Other"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00084_hu95b493c99c5dea651baf65952d3ce162_1453401_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00085",
+        "title": "Giga rotorbord",
+        "description": "Väldigt tung, klarar nog mycket, fina lager.",
+        "category": "Miscellaneous",
+        "status": "Tested"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00085_hu125700c8938ef6d2a43bc3ccf32f4b38_704045_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00086",
+        "title": "Car audio amplifier, Andersson, CAA 2.1",
+        "description": "720 W",
+        "category": "Audio",
+        "status": "Untested"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00086_hu2a26b1dc8932a5b8810f98ac8b93a645_1197791_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00087",
+        "title": "DC-DC omvandlare",
+        "description": "Mascot typ 9260\nIn 48V, ut 12V",
+        "category": "Component",
+        "status": "Untested"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00087_hu8aed3908353bd4e4186ac4b04d4b087e_699587_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00088",
+        "title": "Datorgerät från förr",
+        "description": "Kan ha använts i någon digitalteknik kurs förr i tiden. Mycket smaskiga switchar, knapppar och kontakter. Om man behöver göra enkel matematik på ett bökigt sätt.",
+        "category": "Gerät",
+        "status": "Tested"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00088_huc33ec4542f9c62c96e8d6d001a7c1ddf_938139_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00089",
+        "title": "2x Noctua NF-A4x10 FLX",
+        "description": "40x10mm ",
+        "category": "Miscellaneous",
+        "status": "Oöppnad"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00089_hu102d65f3c7aa57ec4f406452587543c8_1460478_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00090",
+        "title": "SPID Elektronik, Rot1proG",
+        "description": "",
+        "category": "Instrument",
+        "status": "Lights up"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00090_hu439c6b12da65654c2c12faf21da3ae69_1480079_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00091",
+        "title": "Älgen emperor P-3203",
+        "description": "Gammal jaktradio från förr. 3 Watt med 3 kanaler. Kanske kan byggas om till något skoj?",
+        "category": "Radio",
+        "status": "Untested"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00091_hu1f1e532905148e9f9deec257ff255144_928674_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00092",
+        "title": "Högtryckspump",
+        "description": "Gelins MD 9/80 högtryckspump. Motorn kör, ej testad med vatten i.",
+        "category": "Gerät",
+        "status": "Lights up"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00092_hu198af9095fe1cf3b0a8a1394708c5308_1609075_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00093",
+        "title": "Display unit",
+        "description": "Input 5V\nRJ45 connector",
+        "category": "Miscellaneous",
+        "status": "Untested"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00093_hu831d29ecfb8cca7d5c69f476757fbe9a_685183_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00094",
+        "title": "Topward 8110 funktionsgenerator",
+        "description": "Frekvensområde 0.1 Hz till 2 MHz. 3 signalfunktioner. VCF 0 till +5V.\n",
+        "category": "Instrument",
+        "status": "Tested"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00094_huf096e8169ef7ac06ceac8e48cf2e7e12_785860_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00095",
+        "title": "Vattenfilter",
+        "description": "Den är blå, har möjligen lite vätska kvar, gjord i USA!",
+        "category": "Miscellaneous",
+        "status": "Lights up"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00095_hue23ccb09611cd1e6e2a8625f6f8b71b0_778232_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00096",
+        "title": "Svetsslang för acetylen",
+        "description": "Gommaflex EN559, 20 bar",
+        "category": "Miscellaneous",
+        "status": "Untested"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00096_hu42aa32b6e6bb140830239292b718bedb_1441038_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00097",
+        "title": "Philips PM 6603 ",
+        "description": "Universal räknare med nixierör.  Räknarfunktionen har inte kunnat testas men kanske fungerar med en funktionsgenerator som har tillräckligt hög amplitud.",
+        "category": "Instrument",
+        "status": "Lights up"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00097_hucfbec6d43c28b7295535a22de4e49339_754439_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00098",
+        "title": "AC-AC omvandlare EU—\u003eUSA",
+        "description": "Omvandlare från 230V 50Hz propp till 110V uttag, 300W.",
+        "category": "Power supply",
+        "status": "Tested"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00098_hu43537ed8db642c4987cdef1a293e0da2_1084172_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00099",
+        "title": "Trälåda",
+        "description": "Fin trälåda med överaskningskreta innuti",
+        "category": "Miscellaneous",
+        "status": "Other"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00099_hu85de951d1bad74ea80835f0a8e323f89_1020238_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00100",
+        "title": "Tektronix 221 Digital Storage Ocilloscope ",
+        "description": "Båda kanalerna verkar fungerar bra.",
+        "category": "Instrument",
+        "status": "Tested"
+         
+      }
+      ,{
+        "id": "2026_00101",
+        "title": "Luxoroarts varmluftstation",
+        "description": "300W",
+        "category": "Miscellaneous",
+        "status": "Tested"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00101_hu78a3498fdae61cd31a19a6f24ec03e8b_766678_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00102",
+        "title": "Raytheon vågledare",
+        "description": "Mysterium vågledare, möjligtvis switch, från Raytheon",
+        "category": "Gerät",
+        "status": "Untested"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00102_huaf1e1304db71f3dd29e992e93037d24c_1041257_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00103",
+        "title": "Mini Desktop, Fujitsu Futro S720",
+        "description": "AMD GX-217GA 1.65 GHz, 2 GB RAM",
+        "category": "Computer",
+        "status": "Lights up"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00103_hud9370cf8a6623b134c9c73a46ada7236_1570757_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00104",
+        "title": "Husqvarna Trefasmotor",
+        "description": "Trefasmotor av något slag av märke Husqvarna. Okänd modell och topologi. Det står \"De-La Fräs\" med tuschpenna på sidan",
+        "category": "Miscellaneous",
+        "status": "Untested"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00104_huaa643f4139bcf5e1c6a7abdc9fec7675_1085444_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00105",
+        "title": "Multifunktionell termos",
+        "description": "1,2L\nHandtaget är lite wack",
+        "category": "Miscellaneous",
+        "status": "Tested"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00105_hu9c58cffb01ace21a2913ae3dc3a46e59_831061_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00106",
+        "title": "Topward TFG-8101 funktionsgenerator",
+        "description": "Frekvensområde 0.1 Hz till 2MHz. 4 funktioner.\nUpp till 20Vpeak to peak.",
+        "category": "Instrument",
+        "status": "Tested"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00106_huae4093b9084703cb9676abd662708851_871538_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00107",
+        "title": "Nema 34 bldc servo",
+        "description": "FL86BLS98-48V-30440B Motor E6-4096-394 encoder från usdigital och drivare",
+        "category": "Component",
+        "status": "Untested"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00107_hu8b567618c62856eb0ea70cc25dc7dd81_1336168_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00108",
+        "title": "IDL-600 Analog lab ",
+        "description": "",
+        "category": "Gerät",
+        "status": "Lights up"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00108_hub93b4d8f3c41f38149185416f47dce3e_725082_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00109",
+        "title": "MA 2405 dekad kondensator",
+        "description": "0-100 nF kapacitansomfång.",
+        "category": "Gerät",
+        "status": "Untested"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00109_hu06a65564a5bd3493e0c60b09ea1854da_857298_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00110",
+        "title": "Modul från stor UPS",
+        "description": "Två kraftiga tyristorer, troligen 178 A, 600 V.\nTvå kraftiga dioder, troligen 100 A, 800 V.",
+        "category": "Gerät",
+        "status": "Untested"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00110_hubab9533db7f7ab29d312136a2539c91e_1309658_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00111",
+        "title": "AC-servo",
+        "description": "MTS SFD230 115-260VAC servo",
+        "category": "Gerät",
+        "status": "Untested"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00111_hu9d2c2cbc569b444d482008beb88c686f_1103497_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00112",
+        "title": "dynscan 1805 frekvensräknare",
+        "description": "8 siffror\n5 Hz - 8 MHz\n200Vpk max",
+        "category": "Instrument",
+        "status": "Tested"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00112_huda51388e7891a138cf59e0bf589aa4c1_753498_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00113",
+        "title": "NEC PC-9821 Ra43",
+        "description": "Fin gammal datorgrunka",
+        "category": "Computer",
+        "status": "Untested"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00113_hud0bb6ccb69ae65963906e36d95e79528_532736_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00114",
+        "title": "Electrons Touchskärm",
+        "description": "OBS trasig backlight\nFHD touch skärm IP66, extraordinärt tjockt glas.",
+        "category": "Video",
+        "status": "Other"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00114_hua3bf624881599b77f2285b77e534a886_666082_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00115",
+        "title": "Hylsnyckelsats",
+        "description": "Saknar spärrskaft samt förlängare ",
+        "category": "Miscellaneous",
+        "status": "Lights up"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00115_huc2bda3114d30b50353a27de332a3d8a5_1279434_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00116",
+        "title": "transformator",
+        "description": "220 -\u003e 26 v",
+        "category": "Miscellaneous",
+        "status": "Lights up"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00116_hu65445cc4e1f97cc2a1078f8cd6d78395_786481_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00117",
+        "title": "Hamec HM203-4",
+        "description": "20MHz oscilloskop. Flimrar på ett acceptabelt sätt. Behöver nog repareras.",
+        "category": "Instrument",
+        "status": "Lights up"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00117_hu399f0dace287597b719b02ab231fd086_840974_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00118",
+        "title": "Signalgenerator",
+        "description": "Wavetek 180 signalgenerator 1MHz",
+        "category": "Instrument",
+        "status": "Tested"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00118_huebf473e87edb9cbdb38880c6c3b5d5ac_984832_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00119",
+        "title": "CRT monitor",
+        "description": "Shibaden CRT monitor, fungerar ej",
+        "category": "Video",
+        "status": "Doesn't work"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00119_hu97ca34485cd0fe7477e05b18f8ab032a_1093939_1024x0_resize_q75_box.jpg"
+        
+      }
+      ,{
+        "id": "2026_00120",
+        "title": "Tektronix TM503",
+        "description": "Kit med multimeter, operationsförstärkare och funktionsgenerator. Maxfrekvens 1MHz",
+        "category": "Instrument",
+        "status": "Lights up"
+         
+            , "image": "https://eta.chalmers.se/auction/images/2026_00120_hu0c1ef46b5473cf394062f8900b23a4dc_858796_1024x0_resize_q75_box.jpg"
+        
+      }
+      
+    ]
+  }
+

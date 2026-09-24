@@ -1,0 +1,57 @@
+baseURL = "https://eta.chalmers.se/"
+languageCode = "en-us"
+title = "ETA - E-Sektionens Teletekniska Avdelning"
+theme = "hugo-universal-theme"
+timeout = 600000
+
+[menu]
+
+[[menu.main]]
+  identifier = "home"
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  identifier = "about"
+  name ="About"
+  url = "/about/"
+  weight = 2
+
+[[menu.main]]
+  identifier = "wiki"
+  name ="Wiki"
+  url = "https://wiki.eta.chalmers.se/"
+  weight = 4
+
+[[menu.main]]
+  identifier = "auction"
+  name ="auction"
+  url = "/auction/"
+  weight = 5
+
+[params]
+
+  style = "red"
+
+  logo = "img/logo.png"
+  logo_small = "img/logo.png"
+
+  about_us = "<p>ETA is an electronics and ham radio community (SK6AB) at Chalmers University of Technology. Our lab provides the necessary instruments and equipment for you to exercise your electronics hobby.</p>"
+
+  address = """<p><strong>ETA Chalmers</strong>
+    <br>Rännvägen 4
+    <br>412 96 Gothenburg
+    <br>
+    <br>031-20 78 60
+    <br>eta@eta.chalmers.se
+    <br>
+    <br>Org.nr:  802413-7963
+    </p>
+    """
+
+  # Format dates with Go's time formatting
+  date_format = "January 2, 2006"
+
+[markup.goldmark.renderer]
+    unsafe = true
