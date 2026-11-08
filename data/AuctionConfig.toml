@@ -1,0 +1,9 @@
+addressName = "Ljusgården Chalmers"
+address = "Sven Hultins Gata 6, 412 58 Göteborg"
+showCoordinate = true
+coordinate = ["57.6878759", "11.9765579"]
+
+date = "2026-12-05T13:00:00"
+ticketRelease = "2026-12-05T09:00:00"
+
+jumbotronImg = "/img/auctionHeader.jpg"
