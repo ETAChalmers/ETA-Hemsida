@@ -46,6 +46,6 @@ To update the auction catalogue, run:
 ```bash
 $ ./auction-sync.sh
 ```
-This will pull all items and their images from `sortera.sk6ab.se`, and generate the necessary files. 
+This will pull all items and their images from `sortera.sk6ab.se`, and generate the necessary files (meaning you need to be on ETAs network for it to work). 
 
 Everytime the website is generated Hugo additionaly creates a json file from the csv catalogue. The json file gets published at https://eta.chalmers.se/auction/presentation/index.json. This file is used for the auction presentation page at [eta.chalmers.se/auction/presentation](https://eta.chalmers.se/auction/presentation).
