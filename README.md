@@ -42,6 +42,10 @@ To make larger changes to the website you have to edit the themes and layouts fi
 ## How to manage the auction
 The auction part of the website is managed by several configuration files. To updated date and location edit the "AuctionConfig.toml" file located in the data folder.
 
-To updated the auction catalogue use the spreadsheet template located in content/auction and from this file save a csv file named "auctionItems.csv" in the same folder. This is the file which is used when the website is generated. All images of the auciton items should be stored in the folder "assets/auction/images/". It is important that this folder never gets pushed to GitHub as this will create a very large repository.
+To update the auction catalogue, run:
+```bash
+$ ./auction-sync.sh
+```
+This will pull all items and their images from `sortera.sk6ab.se`, and generate the necessary files. 
 
 Everytime the website is generated Hugo additionaly creates a json file from the csv catalogue. The json file gets published at https://eta.chalmers.se/auction/presentation/index.json. This file is used for the auction presentation page at [eta.chalmers.se/auction/presentation](https://eta.chalmers.se/auction/presentation).
