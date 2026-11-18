@@ -431,3 +431,190 @@ Prisma till totalstation,Med pinne,Tested,Miscellaneous,Lantmäteri,2026_00340
 Oltronix nätaggregat,"0-50 V, 1.25 A
 5V, 1A
 Rätt säker, men mekaniska metern saknar siffror. ",Tested,Instrument,B04,2026_00341
+Mean Well DR-UPS40,"I ny skick. Oanvänd. 
+Input 24-29V 40A
+Battery Out upp till 40A",Tested,Power supply,C07,2026_00342
+säkerhetsrelä,Joka safety 24v. För nödstopp ,Untested,Gerät,C07,2026_00343
+Siemens PLC,Kommer med strömkabel och usb-kabel ,Lights up,Gerät,C07,2026_00344
+cykelhjul med motor,Saknar ESC,Untested,Gerät,B05,2026_00345
+isel-UV-Belichtungsgerät,UV-Ungn,Tested,Gerät,C07,2026_00346
+Ets tank kit,Tank+ värme+ pump,Untested,Miscellaneous,C07,2026_00347
+lampa med förstoring,Lyser,Lights up,Gerät,C07,2026_00348
+Breadboard med PSU,±12 V & 5 V,Lights up,Gerät,C08,2026_00349
+Solpanel med controller,8W,Untested,Gerät,C07,2026_00350
+BA9s signallampor,"36V 50mA, orbitec 116350. 90st med kavlitetscertificat",Lights up,Component,C07,2026_00351
+Touch Terminal,"Schneider Electric Magelis Smart
+XBTGTW652
+Terminal open 12” touch
+24 V DC
+Har windows XP",Tested,Computer,B04,2026_00352
+4-kanaligt nätaggregat,"Metric labkraft LK4-01
+Kanaler 0-18v, 0- -18v, 5v, 24v. Ger rätt spänning, ström otestad. -18v kanalen ger fel spänning ibland ",Tested,Instrument,B04,2026_00353
+Movidrive compact,"Motordrivare, sew eurodrive",Untested,Gerät,C07,2026_00354
+Lödstation ,Weller WHS 40,Tested,Instrument,C07,2026_00355
+Voltmeter samt PSU all-in-one ,Den fungerar ganska bra som PSU. Den ger några volt mer kräm än den säger,Tested,Power supply,C07,2026_00356
+Lödstation,Weller WHS 40,Tested,Instrument,C07,2026_00357
+Äldre dator, ,Tested,Computer,C08,2026_00358
+Portabelt oscilloskop ,"ScopeMaster 620
+Kör på 6st C batterier alternativt dc in
+2 kanaler",Tested,Gerät,A03,2026_00359
+Antennrotor,"Okänd modell, lite rostig, otestad",Untested,Radio,C08,2026_00360
+Gammalt oscilloskop,"Saknar av/på knapp
+200ms-0.2us/cm
+",Untested,Instrument,C08,2026_00361
+Audio video control center,STR-DE405. Surround sound,Lights up,Audio,B04,2026_00362
+Power Panel,"Skärm/dator med oklara tillbehör. Bootloopar, verkar sakna hårddisk. 24VDC in",Lights up,Computer,B04,2026_00363
+Olympia Splendid 33,En gammal typewriter,Tested,Nostalgia,C07,2026_00364
+Transformator från ETA '76,"125 till 12,9V, 0.4A",Untested,Miscellaneous,B04,2026_00365
+HP 435A power meter ,En RF kraft mätare,Tested,Miscellaneous,C07,2026_00366
+Sanyo music Center G2915NK,"Vinylspelare, FM/SW/MW radio, kassettspelare, 8-track.
+Stereomikrofon, D-batterier eller huvudspänning.
+",Tested,Audio,A03,2026_00367
+låda för utomhusbruk,Motorola,Lights up,Gerät,C08,2026_00368
+Back-UPS CS 500,4 batteri-backups,Lights up,Instrument,C08,2026_00369
+Tektronix TDS 220 oscilloskop,100 MHz 1 GS/s. fungerar bra,Tested,Instrument,B04,2026_00370
+Handhållen Spektrumanalysator,"1.3 GHz. Fungerade en gång i tiden, batterier sitter inte i men följer med",Untested,Instrument,B04,2026_00371
+Tektronix P6045,Den luktar lite mystiskt,Untested,Instrument,C08,2026_00372
+TOA 1000 Automatic Microphone Mixer,"AX-1000A, står renrum på den. 8ingångar, XLR, phono, terminal block. Link styrning",Lights up,Audio,C08,2026_00373
+Receiver 8801A,Kontakt kunde inte hittas,Untested,Radio,C08,2026_00374
+HTC vive VR-kamera,,Untested,Miscellaneous,A03,2026_00375
+HTC vive,Headset + 2 kontrollers,Untested,Computer,A03,2026_00376
+Tektronix 503 Power Module,Kraft modul,Untested,Power supply,C08,2026_00377
+Dator,"Silicon graphics, octane",Lights up,Computer,A03,2026_00378
+Tektronix 503 Power module,Kraft modul,Untested,Power supply,C08,2026_00379
+Tektronix 503 Power Module,Kraft modul ,Untested,Power supply,C08,2026_00380
+HP ESP120 ,En PSU med 3kw effekt. Den har lite kräm iaf,Untested,Power supply,B04,2026_00381
+3d glajjor,Inte värst snabba. Gul och blå. Viktor ingår ej ,Tested,Miscellaneous,C08,2026_00382
+nätagg,48v 10A,Untested,Power supply,C08,2026_00383
+Ericsson BML 231 201/1 ,Output 24V 700W ,Untested,Power supply,C08,2026_00384
+3kW PSU,"51.4 V, 57 A, har även en 5 V, 5 A utgång.",Untested,Power supply,B04,2026_00385
+Nätverkstestare ,HP 8753A 300kHz - 3 GHz. Kommer utan s-parameter testset,Tested,Instrument,A03,2026_00386
+Loot box,Nice röd väska. Vad kan finnas här i? Bara vinnaren får veta (:,Other,Miscellaneous,FRI,2026_00387
+Dator,Impact 10000. Låter fint vid start up,Tested,Computer,A03,2026_00388
+Oscilloscope ,Metix OX530 30 MHz analog scope,Lights up,Instrument,C08,2026_00389
+Lödjärn Weller 25W,Fungerar som den ska ,Tested,Gerät,C08,2026_00390
+Glödlampa,Stor glödlampa från förr.,Untested,Component,C08,2026_00391
+HeliCoil thread repair kit,"Has some parts, not full set. Main tool and some bits.",Untested,Miscellaneous,C08,2026_00392
+Speisebrücke A SBA 1000,Telecommunikation testgerät med en del kraft i sig.,Tested,Instrument,B04,2026_00393
+Valve controller,Used for opening/closing valves,Tested,Miscellaneous,C08,2026_00394
+Litium NMC batteri,24 V batteri.,Untested,Gerät,B04,2026_00395
+AC servo med broms,"KSY 468.30 MS-R6/S23/S25/SMEC
+Kan drivas med generisk servomotordrivare",Tested,Component,B04,2026_00396
+AC servo med broms,"KSY 468.30 MS-R6/S23/S25/SMEC
+Kan drivas med generisk servomotordrivare",Tested,Component,B04,2026_00397
+Bosch PST 750 PE,Sticksåg från Bosch,Untested,Gerät,C08,2026_00398
+Subwoofer ,Model no: MF0355,Untested,Audio,C08,2026_00399
+HP 427A voltmeter ,Fungerar inte ,Doesn't work,Instrument,C08,2026_00400
+Mikrovågsugn,Fasett 700 w,Tested,Gerät,C09,2026_00401
+faradaylåda,,Untested,Gerät,C08,2026_00402
+Stornophone 5000,Transreciever för 146-174 MHz,Untested,Radio,C08,2026_00403
+VScom USB till Serial,USB till 4 serie portar,Untested,Gerät,C08,2026_00404
+Manuell pick and place maskin.,Använder tryckluft och kamera för att plocka upp och placera.,Lights up,Instrument,C09,2026_00405
+Rokinon objektiv,"80-250mm, canon k-mount. Inga synliga defekter",Untested,Video,C08,2026_00406
+Batteridriven SWR mätare Matchbox,"800-1000Mhz
+Fungerar vid öppen krets",Lights up,Instrument,C09,2026_00407
+HP 427A voltmeter ,Fungerar bra,Tested,Instrument,C08,2026_00408
+UPS,APC Smart-UPS,Doesn't work,Miscellaneous,C08,2026_00409
+Westermo MD12,Korthållsmodem. Överföringshastighet 0-3400 bit/sekund.,Untested,Gerät,C08,2026_00410
+Lafayette HA-73,"Radio för citizen band, 27 MHz",Untested,Radio,C09,2026_00411
+Speaker pair,Sony SS-B1000 8 Ohm 120W max ,Untested,Audio,C09,2026_00412
+Tektronix osc,"Fin skärm, inget flimmer. Alla 4 kanaler funkar, har alla rattar. ",Tested,Instrument,A04,2026_00413
+WI-FI Router,300 Mbps ,Oöppnad,Miscellaneous,C09,2026_00414
+Zodiac P-3006 D,Citizen Band radio med trasig antenn. Fungerar annars,Other,Radio,C08,2026_00415
+WI-FI router,300Mbps,Oöppnad,Miscellaneous,C09,2026_00416
+Tektronix 2235 100MHz Oscilloskop ,Flimrar lite.,Tested,Instrument,B04,2026_00417
+Universal Bridge,Component tester. Good condition ,Untested,Instrument,B04,2026_00418
+Tektronix 2235,"Oscilloskop, 2 kanaler som inte funkar. Beam find funkar. Display funkar. Ett projekt för den händige. ",Lights up,Instrument,C08,2026_00419
+Artix 7 Evaluation Kit,"AC701
+Inkl kablar och tillbehör
+",Untested,Component,B04,2026_00420
+Tongenerator,Går upp till 40kHz (100 x 400 p/s). Gammal jordlös väggkontakt,Untested,Instrument,C08,2026_00421
+Universal Voltmeter UV 4 Grundig electronic ,Lyser och ger felvärden. Behöver lite kärlek ,Doesn't work,Instrument,C09,2026_00422
+PSU,,Doesn't work,Power supply,C08,2026_00423
+Konftel 800,Konferanstelefon. Power over ethernet.,Tested,Audio,C08,2026_00424
+Hitachi Oscilloscope V-555 50MHz,Verkar fungera som den ska.,Tested,Instrument,A04,2026_00425
+HF Linear Amplifier 150 plus,Ger lite extra kräm för långdistans sänding.,Tested,Radio,B04,2026_00426
+Radiola Operett 7617,Radio med bortplockad högtalare. Kommer i ett charmigt fodral. 1960-tal.,Untested,Radio,C08,2026_00427
+Lenovo ThinkCentre E73,"i7, 16 GB RAM",Lights up,Computer,A04,2026_00428
+Ljudförstärkare 2x400 W,"Avklippt väggkontakt, står att en kanal är trasig i slutsteget",Untested,Audio,C09,2026_00429
+PSU,"PS-300F Lafayette
+Max 3A. Ingen spänning på banankontakterna",Lights up,Power supply,C09,2026_00430
+Komponentlådor,Kommer med diverse komponenter,Tested,Miscellaneous,B04,2026_00431
+logic state analyzer,HP1600A,Lights up,Instrument,C09,2026_00432
+Kingbo RMA218 flussmedel,"Kan innehålla bly. Denna produkten innehåller kemikalier som enligt delstaten Colifomia orsakar cancer, födelsedefekter och andra sjukdomar.",Untested,Miscellaneous,C09,2026_00433
+GTX 760?,Oklar lapp. MSI GPU av oklart slag,Untested,Computer,C09,2026_00434
+LF-Generator PP 6050 SK,Fungerar bra,Tested,Instrument,C09,2026_00435
+Söt multimeter från ITT instruments,Slut batteri,Untested,Instrument,C09,2026_00436
+function generator ,"1Hz-10kHz variable
+3mV-10V variable problem with buttons",Tested,Instrument,C09,2026_00437
+Tektronix Oscilloskop ,Tektronix TAS 475 4:a kanaler 100MHz ,Tested,Instrument,A04,2026_00438
+isolator,Converter type 750B,Untested,Miscellaneous,C09,2026_00439
+Isolator ,Converter type 750B,Untested,Miscellaneous,C09,2026_00440
+Philips PM 3212,Oscilloskop med två kanaler. Fungerar ej men kan kanske lagas av den händige. ,Doesn't work,Instrument,C09,2026_00441
+Swedphone ZB940,,Untested,Gerät,C09,2026_00442
+T912 10MHz,Fungerar dåligt,Other,Instrument,C09,2026_00443
+isolator ,Converter type 750B,Untested,Miscellaneous,C09,2026_00444
+12V 38Ah bilbatteri,"Läser 12,7 V obelastat",Tested,Gerät,B05,2026_00445
+2st prober,Tektronix P6109B 100MHz 10X Passive Probe With Readout,Oöppnad,Instrument,C09,2026_00446
+OKI Microline 280,Chassis has a few broken places,Lights up,Gerät,C09,2026_00447
+Magnetic TU6665,"Duplexfilter, 68-88 MHz.Tx 68.6 MHz. Rx 73.4 MHz",Untested,Radio,C09,2026_00448
+Kraftfullt nätagg,50A 1kW,Tested,Power supply,A04,2026_00449
+12V 38Ah batteri,Läser 12.8 V obelastat,Tested,Gerät,B05,2026_00450
+Skåp med bös elektronik ,Trevligt skåp.,Other,Miscellaneous,C09,2026_00451
+AM-FM signal generator,,Untested,Radio,B05,2026_00452
+ABB motor 3 fas,450 Watt ,Tested,Gerät,C09,2026_00453
+Telecourier väska ,"Den är låst, men går att fixa med rätt verktyg ",Oöppnad,Miscellaneous,C09,2026_00454
+Mean Well PSU,12v 24A output,Tested,Power supply,C09,2026_00455
+voltmeter RV11,,Tested,Instrument,B05,2026_00456
+Beckhoff AX5911,Industriell servo kontroller,Untested,Power supply,B05,2026_00457
+LCD projektor,"Mitsubishi WL2650U 1280x800
+S-Video, komposit, 2x vga, DVI-D med HDCP stöd, inkl hdmi adapter, fjärrkontroll
+USB, serial och LAN anslutning",Tested,Video,A04,2026_00458
+Mean Well nättagg,27V 5.6A,Untested,Power supply,B05,2026_00459
+Handic 009 Scanning Monitor Receiver ,"68-88, 148-174, 380-430MHz.",Lights up,Radio,C09,2026_00460
+sensor data processor ,multi-channel sensor telemetry receiver and measuring amplifier,Untested,Instrument,C09,2026_00461
+Plotter,Hitachi HG-730 plotter,Lights up,Gerät,C09,2026_00462
+Drinkwell husdjursfontän,"Ser oanvänd ut. Funkar för katt, hund och dammråtta.",Other,Miscellaneous,C09,2026_00463
+Göteborgs Stads Kommunikationsradio,Storno CQM5332S. Ser lättanvänd ut på höljet.,Untested,Radio,C09,2026_00464
+Ethernet Gigabit switch,Cisco WS-C2980G. 80 portar,Lights up,Computer,B05,2026_00465
+800W PSU,"2x 12V 20A, 2x 5V 20A, 2x 15V 4A, 1x 24V 10A. Alla utgångar mäter rätt utan last. Lite exponerad 230V på baksidan",Tested,Power supply,A04,2026_00466
+Dymo PC-10 ,Elektronisk labelmaker,Untested,Gerät,C09,2026_00467
+GPIB-Ethernet,Kul för automatiseringsentusiaster. Står att den ska fungera,Untested,Instrument,B05,2026_00468
+GPIB-Ethernet,,Untested,Instrument,B05,2026_00469
+Tunn klient,Compaq Evo T20 tunn klient.,Untested,Computer,C09,2026_00470
+Nordyne nätagg,24V 12 A,Untested,Power supply,C09,2026_00471
+Världens gulligaste webcam,"USB, 800x600@30fps. ",Tested,Computer,C09,2026_00472
+ethernet switch,,Untested,Miscellaneous,B05,2026_00473
+Optiswitch Master 105,Ethernet switch ,Untested,Gerät,C09,2026_00474
+ethernet switch ,,Untested,Miscellaneous,B05,2026_00475
+Ethernet switch,,Untested,Miscellaneous,B05,2026_00476
+ethernet switch ,,Untested,Miscellaneous,B05,2026_00477
+Philips Kassettspelare n2229,,Untested,Audio,C09,2026_00478
+Nvidia Quadro FX 5800,Äldre grafikkort. Har inte testats.,Untested,Nostalgia,C09,2026_00479
+JVC tape recorder,Mekanik verkar funka. Ej testad med tape,Lights up,Gerät,B05,2026_00480
+CISCO Air-CAP27021-E-K9,Router ,Untested,Miscellaneous,C09,2026_00481
+temperature & humidity sensor,Without temperature probe,Tested,Instrument,C09,2026_00482
+Master View CS1716A,Switch för usb till PS/2 med 16 ingångar,Untested,Gerät,C09,2026_00483
+GPU: AMD Radeon R9 290,Gigabyte Radeon R9 290 Windforce OC 4GB,Untested,Component,B05,2026_00484
+SuperFAXModem ,,Doesn't work,Gerät,C09,2026_00485
+Tunn klient,Compaq T30 tunn klient,Lights up,Computer,C09,2026_00486
+LAB DC powersuply,120W (2x 30V 2A),Tested,Power supply,B05,2026_00487
+ENTTEC program ,De är för live shower ändra ljus och ljud,Lights up,Gerät,C09,2026_00488
+Injusteringsinstrument,"TA VBI datorprogrammerat injusteringsinstrument för att mäta differenstryck, flöde och temperatur. Kommer med tillhörande utrustning.",Lights up,Instrument,B05,2026_00489
+Sony Sync Generator,För att synca video med input och output ,Lights up,Gerät,C09,2026_00490
+Elektromagnet ASEA,Tagen från ETAs f.d hiss,Other,Miscellaneous,B05,2026_00492
+Projector Sony VPL-PX20,,Tested,Video,A04,2026_00493
+Crystal Eyes Stereographic ,Makes a 3d view from your sceeen.,Tested,Nostalgia,A04,2026_00494
+Effektpotentiometer,"50 Ohm, 630W, 3.15A effektpotentiometer.",Tested,Gerät,C09,2026_00495
+Printer Epson P50,No ink cartridge,Lights up,Gerät,B05,2026_00496
+Trefas trafo,"1st 210varv ø2,4mm.
+1st 100varv ø3mm.
+2st 100varv ø1,7mm.
+Omkring 2ohm DC
+",Tested,Component,B05,2026_00497
+Rohde & Schwarz BN413115/2,Frekvenskontrollerare. Display med nixierör.,Untested,Gerät,C09,2026_00498
+"Byggkitt, Segelbåt modell","Laserskuret trä, ""Sailing Boat Gothenburg""",Tested,Miscellaneous,C10,2026_00499
+Kompressor,ACO 35W kompressor. 40 l/min.,Tested,Gerät,C10,2026_00500
+VScom USB to serial,"4portar. Serial, RS422, RS485. ",Tested,Miscellaneous,C10,2026_00501
+SONY Video Kamera,Modell: AVC - 3250CE. Made in Japan.,Tested,Video,B05,2026_00502
+CCD-kamera,Philips LDH 0801/20 CCD-kamera.,Untested,Video,C10,2026_00503
