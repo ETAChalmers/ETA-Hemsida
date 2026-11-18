@@ -1,0 +1,14 @@
+<section class="bar jumbotron background-image-fixed-2 no-mb color-white text-center" style="background-image: url({{ .Get "img" }});">
+  <div class="dark-mask"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h1 class="text-uppercase">{{ .Get "title" }}</h1>
+                <p class="lead">{{ .Inner }}</p>
+                <p class="text-center">
+                  <a href="{{ .Get "url" }}" class="btn btn-template-transparent-black btn-lg">{{ .Get "buttonText" }}</a>
+                </p>
+            </div>
+        </div>
+    </div>
+</section>

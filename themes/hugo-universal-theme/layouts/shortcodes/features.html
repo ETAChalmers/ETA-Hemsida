@@ -1,0 +1,27 @@
+<section>
+  <div class="bar background-white">
+    <div class="container">
+      <div class="heading">
+        <h1></h1>
+      </div>
+
+      {{ range $index, $element := sort .Site.Data.features "weight" }}
+      	{{ if eq (mod $index 4) 0 }}
+          <div class="row">
+    		{{ end }}
+    				<div class="col-md-3">
+                <div class="text-center">
+                  <img class="feature-image" alt="" src="{{ $element.image | absURL }}">
+                  <div class="heading">
+                    <h3>{{ $element.title }}</h3>
+                  </div>
+                  <p class="lead">{{ $element.description | markdownify }}</p>
+              </div>
+            </div>
+    		{{ if or (eq (mod $index 4) 3) (eq $index (sub (len $.Site.Data.features) 1 )) }}
+    			</div>
+    		{{ end }}
+      {{ end }}
+    </div>
+  </div>
+</section>

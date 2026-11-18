@@ -1,0 +1,191 @@
+/* your styles go here */
+
+.box-image-text .image {
+  min-height: 200px;
+  max-height: 200px;
+}
+
+.box-simple {
+  min-height: 230px;
+}
+
+.navbar-brand img {
+  height: 100%;
+}
+
+img.auction-item-thumbnail {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 7em;
+  width: auto;
+}
+
+.bar .dark-mask {
+    opacity: 0.7;
+    filter: alpha(opacity=70);
+}
+
+#openStreetMap  {
+  height: 30em;
+}
+
+img.avatar-image {
+    display: block;
+    width: 100%;
+    height: auto;
+    padding-left: 20%;
+    padding-right: 20%;
+    border-radius: 50%;
+}
+
+img.feature-image {
+  display: block;
+  width: 100%;
+  height: auto;
+  padding-left: 20%;
+  padding-right: 20%;
+  border-radius: 50%;
+}
+
+/* Add spacing at top of page to accommodate for sticky navbar min-height. */
+#all {
+      position: relative;
+      top: 62px;
+}
+#navbar {
+  box-shadow: 0 0 5px #cccccc;
+}
+
+.homepage .img-responsive {
+  height: 10em;
+  width: auto;
+}
+
+.home-carousel {
+  background-image: none;
+}
+
+.jumbotron {
+  padding-top: 10em;
+  padding-bottom: 10em;
+}
+
+.jumbotron p {
+  margin-bottom: 40px;
+}
+
+/* Center board and auction committee lists */
+.team .row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.sponsors {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.sponsor-box {
+  max-width: 400px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.horizontal-images {
+  overflow-y: hidden;
+  text-align: center;
+  white-space: nowrap;
+}
+.horizontal-images img {
+  width: 100%;
+}
+.horizontal-images div {
+  display: inline-block;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+@media (max-width: 992px) {
+  .horizontal-images div {
+    width: 80vw;
+  }
+}
+
+.text-box {
+  background: white;
+  padding: 0.5em;
+  border-style: solid;
+  border-color: white;
+  border-width: 1em;
+  border-radius: 0.5em;
+}
+
+.footer-links a {
+  color: #999999;
+}
+
+.footer-links a:hover {
+  color: #555555;
+}
+
+#presentation-item-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 2em;
+  max-width: 100%;
+  max-height: 70vh;
+  padding-bottom: 2em;
+}
+
+#presentation-item-description {
+  margin-left: 10vw;
+  margin-right: 10vw;
+  font-weight: 400;
+  white-space: pre-line;
+}
+
+.presentation-item-line {
+    font-weight: 400;
+}
+
+.presentation-search {
+  display: block;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  padding: 1em;
+}
+
+.printable-catalogue {
+  width: 210mm;
+  padding: auto;
+  padding: 5mm;
+  vertical-align: top;
+
+}
+
+.printable-catalogue-table table {
+  width: 100%;
+  table-layout: fixed;
+}
+
+.printable-catalogue-table td, th {
+  vertical-align:top;
+}
+
+.printable-catalogue-item {
+  width: 40mm;
+  padding: 2.5mm;
+  overflow-wrap: break-word;
+}
+
+.printable-catalogue-image img {
+  width: 100%;
+  height: auto;
+}

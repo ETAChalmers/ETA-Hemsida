@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+  {{- $auctionConfig := .Site.Data.AuctionConfig -}}
+
+  {{ partial "head.html" . }}
+
+  <body>
+      <div id="presentation-welcome" class="text-center">
+        <div class="heading">
+          <h1>Välkommen till ETA:s årliga auktion!</h1>
+        </div>
+        <h3 style="font-size:15em;">{{ dateFormat "2006" $auctionConfig.date }}</h3>
+        <h4 style="font-size:8em;">Kl. <span id="presentation-time"/></h4>
+      </div>
+
+      <div id="presentation-item" style="display: none;">
+        <div class="heading text-center">
+          <h1 id="presentation-item-title"></h1>
+        </div>
+        <h3 class="presentation-item-desc text-center heading">
+            <b>Status: </b><span class="presentation-item-line" id="presentation-item-status"></span>
+            <span style="width: 2em; display: inline-block;"></span>
+            <b>Kategori: </b><span class="presentation-item-line" id="presentation-item-category"></span>
+            <span style="width: 2em; display: inline-block;"></span>
+            <b>ID: </b><span class="presentation-item-line" id="presentation-item-id"></span>
+        </h3>
+        <div class="lead text-center">
+          <p id="presentation-item-description"></p>
+        </div>
+        <div class=presentation-item-img>
+          <img id="presentation-item-img" src=""></img>
+        </div>
+      </div>
+
+      <div class="presentation-search">
+        <div class="input-group">
+          <span class="input-group-addon" id="basic-addon1">#</span>
+          <input type="text" id="presentation-search-input" class="form-control" placeholder="item-id" aria-describedby="basic-addon1">
+        </div>
+      </div>
+    {{ partial "scripts.html" . }}
+
+  </body>
+</html>
